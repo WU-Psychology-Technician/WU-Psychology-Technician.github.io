@@ -1,2 +1,0 @@
-
-# Wrexham Psychology Website
