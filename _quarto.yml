@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Psychology Technicians – Wrexham University"
+  navbar:
+    logo: images/wrexham-icon.jpeg
+    background: primary
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: About/index.qmd
+      - text: "Equipment"
+        href: Equipment/index.qmd
+      - text: "Resources"
+        href: Resources/index.qmd
+      - text: "Contact"
+        href: Contact/index.qmd
+      - text: "News"
+        href: Updates/index.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

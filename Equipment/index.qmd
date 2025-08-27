@@ -1,0 +1,41 @@
+---
+title: ""
+---
+
+# Equipment and Facilities  
+
+The Psychology Department at Wrexham University has a wide range of specialist equipment to support teaching, research, and student projects. Our technicians provide training, setup, and ongoing support to ensure equipment is used safely and effectively.  
+
+---
+
+## Available Equipment  
+
+- **Tobii Pro Spark Eye Trackers**  
+  Portable, user-friendly devices for high-quality eye-tracking research. Suitable for projects in attention, cognition, and visual behaviour.  
+
+- **Biopac Systems**  
+  A comprehensive suite for recording physiological signals such as EDA (electrodermal activity), ECG (electrocardiogram), EMG (electromyogram), and respiration. Ideal for psychophysiology and health psychology studies.  
+
+- **BioRadio**  
+  Wireless physiological data acquisition system, particularly useful for mobility studies and projects requiring real-time bio-signal monitoring.  
+
+- **CANTAB (Cambridge Neuropsychological Test Automated Battery)**  
+  A widely used computerized system for assessing cognitive functions such as memory, attention, and executive function.  
+
+- **Virtual Reality Equipment**  
+  VR headsets and software support for immersive experimental paradigms using the Unity Experimental Framework. Useful in applied psychology, perception studies, and innovative research designs.  
+
+- **High-Quality Audio-Visual Recording**  
+  Digital cameras, microphones, and editing tools for experimental recording, behavioural coding, and presentation material.  
+
+---
+
+## Booking and Training  
+
+- Equipment can only be booked in advance via the Psychology Technicians and obtaining approval from your supervisor.  
+- Training is provided where specialist knowledge is required (e.g., EEG, Biopac, Eye Tracking).  
+- Students are encouraged to discuss project needs early so we can plan suitable training and ensure availability of equipment.  
+
+
+For all bookings and enquiries, please contact us at:  
+📧 **psychology.technician@wrexham.ac.uk**

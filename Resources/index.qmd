@@ -1,0 +1,55 @@
+---
+title: ""
+---
+
+# Resources
+
+The Psychology Department is committed to supporting open science, transparent research practices, and the use of professional software in both teaching and independent projects. Below is a selection of recommended resources that are freely available to students and staff.
+
+------------------------------------------------------------------------
+
+## Open Science and Reproducibility
+
+-   **Quarto**\
+    A publishing system for creating reproducible documents, dashboards, and interactive reports. Useful for writing, data analysis, and creating professional portfolios.
+
+-   **Open Reproducibility Resources**\
+    A growing movement and set of tools that ensure transparency in research. Includes practices such as pre-registration, sharing analysis code, and publishing open datasets.
+
+------------------------------------------------------------------------
+
+## Programming and Data Science
+
+-   **Python**\
+    A versatile language for data analysis, statistics, machine learning, and experiment design. Widely supported across psychology and cognitive science research.
+
+-   **R**\
+    A powerful statistical environment for quantitative analysis, data visualization, and reproducible research.
+
+-   **Julia**\
+    A high-performance programming language particularly suited for numerical computing, data analysis, and modelling. Widely used in research requiring speed and scalability, and increasingly adopted in psychology and cognitive science applications.
+
+------------------------------------------------------------------------
+
+## Media and Creative Tools
+
+-   **DaVinci Resolve**\
+    A professional-grade video editing suite with a free version. Suitable for creating teaching material, experiment stimuli, or presentation content.
+
+-   **Audacity**\
+    An open-source audio editing tool, useful for preparing stimuli and cleaning recordings.
+
+-   **GIMP / Inkscape**\
+    Free alternatives to Photoshop and Illustrator, excellent for creating figures, posters, and experimental graphics.
+
+------------------------------------------------------------------------
+
+## Training and Learning
+
+-   **GitHub / GitLab**\
+    Collaborative platforms for version control and code sharing. Essential for research teams practicing open science.
+
+------------------------------------------------------------------------
+
+For further support, guidance, or training recommendations, please contact:\
+📧 **psychology.technician\@wrexham.ac.uk**

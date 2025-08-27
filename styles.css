@@ -1,0 +1,88 @@
+/* ==========================
+   Wrexham Psychology Technicians – Custom Styles
+   ========================== */
+
+/* Global font & base colors */
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #ffffff;
+  color: #151f35; /* Navy as default text color */
+  line-height: 1.6;
+}
+
+/* Navbar styling */
+.navbar {
+  background-color: #151f35 !important; /* Wrexham Navy */
+}
+
+.navbar a, .navbar-brand {
+  color: #ffffff !important;
+  font-weight: 500;
+}
+
+.navbar a:hover {
+  color: #50b9a8 !important; /* Wrexham Teal hover */
+  text-decoration: underline;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Segoe UI", Verdana, sans-serif;
+  color: #151f35; /* Navy headings */
+  font-weight: 600;
+}
+
+/* Links */
+a {
+  color: #50b9a8; /* Teal links */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #3b8d7f; /* Slightly darker teal */
+  text-decoration: underline;
+}
+
+/* Footer */
+footer {
+  background-color: #151f35;
+  color: #ffffff;
+  padding: 1rem;
+  text-align: center;
+  font-size: 0.9rem;
+}
+
+/* Buttons */
+.btn-primary {
+  background-color: #50b9a8;
+  border-color: #50b9a8;
+  color: #151f35;
+  font-weight: 600;
+}
+
+.btn-primary:hover {
+  background-color: #3b8d7f;
+  border-color: #3b8d7f;
+  color: #ffffff;
+}
+
+/* Card styling */
+.card {
+  border-radius: 12px;
+  border: 1px solid #e6e6e6;
+  box-shadow: 0px 3px 6px rgba(0,0,0,0.08);
+  margin-bottom: 1.5rem;
+}
+
+.card-title {
+  color: #151f35;
+  font-weight: 600;
+}
+
+/* Accent areas (for highlights, callouts) */
+.accent {
+  background-color: #50b9a8;
+  color: #151f35;
+  padding: 1rem;
+  border-radius: 8px;
+}
