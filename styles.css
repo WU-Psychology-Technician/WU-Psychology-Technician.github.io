@@ -1,50 +1,64 @@
 /* ==========================
    Wrexham Psychology Technicians – Custom Styles
-   ========================== */
+   Supports Light/Dark Mode
+========================== */
 
-/* Global font & base colors */
-body {
+/* -------- Light Mode (default rules) -------- */
+body.quarto-light {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   background-color: #ffffff;
-  color: #151f35; /* Navy as default text color */
+  color: #151f35; /* Navy text */
   line-height: 1.6;
 }
 
-/* Navbar styling */
-.navbar {
-  background-color: #151f35 !important; /* Wrexham Navy */
+/* Navbar (light mode) */
+body.quarto-light .navbar {
+  background-color: #151f35 !important;
 }
-
-.navbar a, .navbar-brand {
+body.quarto-light .navbar a,
+body.quarto-light .navbar-brand {
   color: #ffffff !important;
   font-weight: 500;
 }
-
-.navbar a:hover {
-  color: #50b9a8 !important; /* Wrexham Teal hover */
+body.quarto-light .navbar a:hover {
+  color: #50b9a8 !important;
   text-decoration: underline;
 }
 
+/* Dropdown menu visibility fix (light mode) */
+body.quarto-light .navbar .dropdown-menu {
+  background-color: #151f35 !important;
+  border: none;
+}
+body.quarto-light .navbar .dropdown-item {
+  color: #ffffff !important;
+  font-weight: 500;
+}
+body.quarto-light .navbar .dropdown-item:hover {
+  background-color: rgba(255, 255, 255, 0.1) !important;
+  color: #50b9a8 !important;
+}
+
 /* Headings */
-h1, h2, h3, h4, h5, h6 {
+body.quarto-light h1, body.quarto-light h2, body.quarto-light h3, body.quarto-light h4,
+body.quarto-light h5, body.quarto-light h6 {
   font-family: "Segoe UI", Verdana, sans-serif;
-  color: #151f35; /* Navy headings */
+  color: #151f35;
   font-weight: 600;
 }
 
 /* Links */
-a {
-  color: #50b9a8; /* Teal links */
+body.quarto-light a {
+  color: #50b9a8;
   text-decoration: none;
 }
-
-a:hover {
-  color: #3b8d7f; /* Slightly darker teal */
+body.quarto-light a:hover {
+  color: #3b8d7f;
   text-decoration: underline;
 }
 
 /* Footer */
-footer {
+body.quarto-light footer {
   background-color: #151f35;
   color: #ffffff;
   padding: 1rem;
@@ -53,36 +67,201 @@ footer {
 }
 
 /* Buttons */
-.btn-primary {
+body.quarto-light .btn-primary {
   background-color: #50b9a8;
   border-color: #50b9a8;
   color: #151f35;
   font-weight: 600;
 }
-
-.btn-primary:hover {
+body.quarto-light .btn-primary:hover {
   background-color: #3b8d7f;
   border-color: #3b8d7f;
   color: #ffffff;
 }
 
-/* Card styling */
-.card {
+/* Cards */
+body.quarto-light .card {
   border-radius: 12px;
   border: 1px solid #e6e6e6;
   box-shadow: 0px 3px 6px rgba(0,0,0,0.08);
   margin-bottom: 1.5rem;
 }
-
-.card-title {
+body.quarto-light .card-title {
   color: #151f35;
   font-weight: 600;
 }
 
-/* Accent areas (for highlights, callouts) */
-.accent {
+/* Accent areas */
+body.quarto-light .accent {
   background-color: #50b9a8;
   color: #151f35;
   padding: 1rem;
   border-radius: 8px;
+}
+
+/* -------------------------
+   Breadcrumbs
+------------------------- */
+.breadcrumb-container {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 0.85rem;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  margin-bottom: 1rem;
+}
+body.quarto-light .breadcrumb-container {
+  background-color: #f0f8ff;
+  color: #151f35;
+}
+body.quarto-light .breadcrumb-container a {
+  color: #151f35;
+  text-decoration: none;
+}
+body.quarto-light .breadcrumb-container a:hover {
+  text-decoration: underline;
+  color: #50b9a8;
+}
+.breadcrumb-container .breadcrumb li {
+  display: inline;
+  margin-right: 0.5rem;
+}
+.breadcrumb-container .breadcrumb li::after {
+  content: "›";
+  margin-left: 0.5rem;
+  color: #888;
+}
+.breadcrumb-container .breadcrumb li:last-child::after {
+  content: "";
+}
+
+/* -------------------------
+   Chat Widget
+------------------------- */
+.chat-widget {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 999;
+}
+
+.chat-widget-button {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  overflow: hidden;
+  cursor: pointer;
+  border: none;
+  position: relative;
+  transition: transform 0.2s;
+}
+
+.chat-widget-button:hover {
+  transform: scale(1.05);
+}
+
+.chat-widget-button img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Speech bubble on hover */
+.chat-speech {
+  position: absolute;
+  bottom: 70px;
+  right: 0;
+  background-color: #50b9a8;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 12px;
+  white-space: nowrap;
+  opacity: 0;
+  transform: translateY(10px);
+  pointer-events: none;
+  transition: all 0.3s ease;
+  font-weight: 600;
+}
+
+.chat-widget-button:hover .chat-speech {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Popup input box for message (hidden by default) */
+.chat-popup {
+  display: none;
+  position: fixed;
+  bottom: 100px;
+  right: 20px;
+  z-index: 1000;
+  width: 300px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0px 4px 12px rgba(0,0,0,0.2);
+  padding: 1rem;
+}
+
+/* Dark mode overrides */
+body.quarto-dark {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+body.quarto-dark h1, body.quarto-dark h2, body.quarto-dark h3, body.quarto-dark h4,
+body.quarto-dark h5, body.quarto-dark h6 {
+  color: #ffffff;
+}
+
+body.quarto-dark a {
+  color: #50b9a8;
+}
+body.quarto-dark a:hover {
+  color: #3b8d7f;
+}
+
+/* Navbar dark mode */
+body.quarto-dark .navbar {
+  background-color: #0d1324 !important;
+}
+body.quarto-dark .navbar a,
+body.quarto-dark .navbar-brand {
+  color: #ffffff !important;
+}
+body.quarto-dark .navbar a:hover {
+  color: #50b9a8 !important;
+}
+
+/* Cards dark mode */
+body.quarto-dark .card {
+  background-color: #1e1e1e;
+  border: 1px solid #2c2c2c;
+  box-shadow: 0px 3px 6px rgba(0,0,0,0.5);
+}
+body.quarto-dark .card-title {
+  color: #ffffff;
+}
+
+/* Accent areas dark mode */
+body.quarto-dark .accent {
+  background-color: #50b9a8;
+  color: #121212;
+}
+
+/* -------------------------
+   Light/Dark Mode Toggle
+------------------------- */
+.theme-toggle {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  z-index: 1000;
+}
+
+.theme-toggle:hover {
+  transform: scale(1.2);
+  transition: transform 0.2s;
 }

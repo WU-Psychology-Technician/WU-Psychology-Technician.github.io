@@ -1,6 +1,7 @@
 ---
 title: "News"
-format: html
+date-modified: last-modified
+date-format: "DD-MM-YYYY"
 ---
 
 # Department News & Updates

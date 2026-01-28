@@ -1,0 +1,275 @@
+---
+title: ""
+---
+
+# Psychometric Scales Repository
+
+::: accent
+Psychologists regularly use psychometric scales to collect data about peoples attitudes, personality, perceptions, or behaviour (amongst other things).
+
+The questionnaires, scales, and inventories listed below are a great place to get started on looking for a suitable measure for your research. Although, there are many measures that are listed below. You may find a more suitable measure by conducting a Library Search, using Google Scholar, or by other means. If you come across something interesting that you think we should look at, please let us know!
+
+## ---------------------------DISCLAIMER------------------------------
+
+**We do not have copyright authority over some measures and cannot grant permission for use.**
+
+We recommend students from Wrexham University to use the "Free for use" scales. If you require a particular scale, then please contact the author(s) of the questionnaire for use permissions. However, please consult your supervisor before proceeding.
+
+The scales are provided solely as a courtesy to help Dissertation students develop their experiments efficiently, to get their projects underway, and provide module leaders resources for their teaching modules. Not all scales are provided and will only be available when Wrexham students, researchers and module leaders provide the appropriate evidence of licensing or permission.
+
+Please note that the scales may contain errors. If you identify any inaccuracies, kindly contact [psychology.technician\@wrexham.ac.uk](mailto:psychology.technician@wrexham.ac.uk). While every effort has been made to ensure accuracy, these materials are prepared by humans and should be carefully checked before use in any research or teaching capacity.
+
+“Additionally, it is the responsibility of each researcher to ensure the information they use from this repository is accurate and complies with copyright law. For more information about copyright and how it applies to research materials, please see the UK Government’s guidance on copyright: <https://www.gov.uk/copyright>
+
+Please note: Due to the volume of requests, emails requesting permission for use will not receive a reply. We are also unable to provide author contact information.
+
+If you have further questions, you can contact: [psychology.technician\@wrexham.ac.uk](mailto:psychology.technician@wrexham.ac.uk)
+:::
+
+------------------------------------------------------------------------
+
+This page organises validated questionnaires into key psychological domains. You can access the Gorilla version of these tasks here: [Wrexham PsychTech Open Materials](https://app.gorilla.sc/openmaterials/1112705)
+
+## Scale Count
+
+**Total number of scales listed:** **181**
+
+## Legend
+
+-   † Proprietary / license required
+
+# Full List
+
+100 Nuances of Personality (100NP 2022)\
+20-item Religiosity Scale (DR Scale 2006)\
+4-Basic Dimensions of Religiousness Scale (4-BDRS 2025)\
+Academic Motivation Scale (AMS-C 28)\
+Academic Self-Efficacy Scale (ASES 2016)\
+Acceptance and Action Questionnaire (AAQ-2)\
+Adolescent Dissociative Experiences Scale (A-DES) †\
+Adult Hope Scale (2002)\
+Adult Separation Anxiety Questionnaire (ASA-27) †\
+Ambivalent Sexism Inventory (1996)\
+Anxiety about Ageing (AAS 1993)\
+Appearance Anxiety Inventory (AAI 2014)\
+Athlete Psychological Strain Questionnaire (APSQ 2020)\
+Athletic Coping Skills Inventory (ACSI-28) †\
+Attitudes Towards Women Scale (1978 Short Version)\
+Authoritarianism-Rebellion Scale (1972)\
+Autism Spectrum Quotient (AQ 2001) †\
+Autism Spectrum Quotient Adolescent Version (AQ-Adolescent) †\
+Autism Spectrum Quotient Children's Version (AQ-Child) †\
+Autism Spectrum Screening Questionnaire (ASSQ) †\
+Automatic Thoughts Questionnaire Believability (ATQ-B) †\
+Barratt Impulsiveness Scale (BIS-11 1995) †\
+Benevolent Childhood Experiences (BCEs)\
+Big Five Inventory-10 (BFI-10 2007)\
+Binge-Eating Scale (BES) †\
+Body Awareness Questionnaire (1989)\
+Boredom Proneness Scale (1986)\
+Brief 2-Way Social Support Scale (Brief 2-Way SSS 2019)\
+Brief Emotional Intelligence Scale (BEIS-10)\
+Brief Experiential Avoidance Questionnaire (BEAQ)\
+Brief Hierarchical Taxonomy of Psychopathology (B-HiTOP 2025)\
+Brief Multidimensional Measure of Religiousness-Spirituality (1999)\
+Brief Resilience Scale (BRS 2008)\
+Broad Autism Phenotype Questionnaire (BAPQ 2007)\
+Bullshitting Frequency Scale (2021)\
+Buss Perry Aggression Questionnaire (BPAQ 1992) †\
+Camouflaging Autistic Traits Questionnaire (CAT-Q 2017)\
+Career Aspirations Scale-Revised (CAS-R 2015)\
+Center for Epidemiologic Studies Depression Scale (CES-D 1977)\
+Center for Epidemiologic Studies Depression Scale – Revised (CESD-R)\
+Centrality of Religiosity Scale (CRS)\
+Cognitive Failures Questionnaire (CFQ 1982) †\
+Cognitive Flexibility Inventory (CFI)\
+Comprehensive Autistic Trait Inventory (CATI)\
+Computer Anxiety Rating Scale (CARS 1987)\
+Current Thoughts Scale (1991)\
+Daily Spiritual Experience Scale (DSES 2002)\
+De Jong Gierveld Loneliness Scale (1985)\
+De Jong Gierveld Scale – Short Scale (2006)\
+Death Anxiety Beliefs and Behaviours Scale (DABBS 2022)\
+Deffenbacher Driving Anger Scale – Short Form (1994)\
+Depression Anxiety and Stress Scale – Short Form (DASS-21)\
+Depression Anxiety Stress Scales – Long Form (DASS-42)\
+Dieting Beliefs Scale (1990)\
+Differential Loneliness Scale (DLS 1983)\
+Differential Loneliness Scale – Short Student Version (1983)\
+Digital Stress Scale (DSS)\
+Dimensional Apathy Scale (2011) †\
+Dimensions of Anger Reactions (DAR-5)\
+Distress Tolerance Scale (2005)\
+Drug Use Disorder Identification Test (DUDIT 2003)\
+Eating Attitudes Test 26 (EAT-26 1982) †\
+Eating Disorder Examination Questionnaire (EDE-Q 6.0 2008) †\
+Edinburgh Postnatal Depression Scale (EPDS 1987) †\
+Emotional Contagion Scale (ECS 1997)\
+Emotional Regulation Questionnaire (ERQ 2003)\
+Epworth Sleepiness Scale (ESS 1991) †\
+Equanimity Scale (ES-16)\
+Executive Skills Questionnaire – Revised (ESQ-R) †\
+Extreme Demand Avoidance Questionnaire – Adult (EDA-QA 2019)\
+Facet MAP Version 1 (2023)\
+Fatigue Assessment Scale (FAS)\
+Fisher Temperament Inventory (FTI 2013)\
+Flourishing Scale (2002)\
+Flourishing Scale (2009)\
+Friendship Network Satisfaction Scale (FNS 2022)\
+Frost Multidimensional Perfectionism Scale (FMPS 1988) †\
+Gender Preoccupation and Stability Questionnaire 2 (GPSQ-2)\
+Gender Role Beliefs Scale (GRBS 1996)\
+General Academic Self-Efficacy Scale (GASE-2022)\
+General Behaviour Inventory (GBI) †\
+General Risk Propensity Scale (GRiPS)\
+General Self-Efficacy (GSE 1995)\
+Generalized Anxiety Disorder (GAD-7 2006)\
+Gratitude Questionnaire-Six Item Form (GQ-6)\
+Groningen Sleep Quality Scale (GSQS 1988)\
+HEXACO-100-item-version\
+HEXACO-60-item-version\
+Impulsive Behavior Scale (UPPS-P 2001) †\
+Insomnia Severity Index (ISI 2001) †\
+International Trauma Questionnaire (ITQ)\
+International Trauma Questionnaire – Child and Adolescent Version (ITQ-CA)\
+Interpersonal Reactivity Index (IRI 1980)\
+Intolerance of Uncertainty Scale (IUS) †\
+Iowa-Netherlands Comparison Orientation Measure (INCOM 1999)\
+Kessler Psychological Distress Scale (K10 2003) †\
+Life Orientation Test Revised (LOT-R 1994) †\
+Light Triad Scale (LTS 2019)\
+Maladaptive Schema Scale (MSS) †\
+Marlowe-Crowne Social Desirability Scale (1982) †\
+Mathematics Anxiety Scale (2011)\
+McGill Pain Questionnaire (1975) †\
+Mental Health Literacy Scale (MHLS 2015)\
+Mental Help Seeking Attitudes Scale (MHSAS 2024 Format)\
+Mindfulness-Based Self-Efficacy Scale – Revised (MSES-R)\
+Multidimensional Assessment of Interoceptive Awareness – Version 2 (MAIA-2)\
+Multidimensional Jealousy Scale (MJS 1989) †\
+Multidimensional Perfectionism Scale (1991–2004) †\
+Multidimensional Scale of Perceived Social Support (MSPSS)\
+Obsessional Compulsive Inventory – Revised (OCI-R) †\
+Oxford Happiness Questionnaire (2002)\
+Pain Catastrophizing Scale (PCS 1995) †\
+Pain Self-Efficacy Questionnaire (PSEQ 2007) †\
+Passionate Love Scale (1986)\
+Patient Health Questionnaire-9 (PHQ-9 2001)\
+Perceived Stress Scale (PSS)\
+Perceptions of Healthy Eating (2020)\
+Perfectionistic Cognitions Inventory (PCI 1998)\
+Personal Attributes Questionnaire (1973)\
+Personality Inventory for DSM-5 – Short Form (PID-5-SF 2015) †\
+Perth Empathy Scale (2022)\
+Phobic Stimuli Response Scale (PSRS 2004)\
+Pittsburgh Sleep Quality Index (PSQI) †\
+Positive Ageing Scale (PAS 2024)\
+Positive and Negative Affect Schedule (PANAS) †\
+Positive Childhood Experiences Scale (PCEs)\
+Prayer Importance Scale (PIS 2002)\
+Preschool Anxiety Scale (PAS) †\
+Procrastination Scale (1986)\
+Prosocial Behavioral Intentions Scale (PBIS)\
+Psychological Wellbeing (1995) †\
+Psychological Wellbeing (42 items, 1989) †\
+Purpose in Life Scale (2018)\
+Purpose in Life Scale – Short Form (2018)\
+Relationship Satisfaction Scale (1988)\
+Religious Orientation Scale – Revised (ROS-R 2025)\
+Repetitive Behaviours Questionnaire – 3 (RBQ-3)\
+Revised Beliefs about Voices Questionnaire (BAVQ-R) †\
+Revised Financial Management Behaviour Scale (FMBS 2011)\
+Riverside Life Satisfaction Scale (RLSS 2019)\
+Rosenberg Self-Esteem Scale (RSES)\
+Ryff’s Psychological Well-Being Scales – 42-item Version †\
+Scale of Positive and Negative Experience (SPANE 2009)\
+Self-Compassion Scale – Short Form (SCS-SF) †\
+Selfishness Questionnaire (SQ)\
+Sensation Seeking Scale (SSS 1964) †\
+Short Health Anxiety Inventory (SHAI) †\
+Short Schwartz’s Value Survey (SVS 2005)\
+Short Warwick Edinburgh Mental Wellbeing Scale (WEMWBS) †\
+Short Warwick Edinburgh Mental Wellbeing Scale (WEMWBS) – Fersiwn Cymraeg †\
+Short-Version Gender Role Beliefs Scale (2012)\
+Social Anxiety Scale (LSAS) †\
+Social Phobia Scale (SPS 1998) †\
+Spirituality Scale (2003)\
+State Difficulties in Emotion Regulation Scale (S-DERS 2015)\
+State-Trait Anxiety Inventory (STAI 1983) †\
+State-Trait Anxiety Inventory – Form Y †\
+Subjective Happiness Scale (SHS)\
+Subthreshold Autism Trait Questionnaire (SATQ 2012)\
+Successful Ageing Scale (SAS)\
+Survey of Recent Life Experiences (1992)\
+Tampa Scale for Kinesiophobia 11 (TSK-11) †\
+Team Psychological Safety (TPS-7 1999)\
+The Big Five Personality Test (BFPT – 50 item)\
+The Body Esteem Scale – Revised (2018) †\
+The Experiences in Close Relationships Scale – Short Form (ECR-SF)\
+The General Health Questionnaire (GHQ-12) †\
+The Resilience Scale (1987) †\
+The Satisfaction with Life Scale (SWLS 1985)\
+The Short Dark Triad (SD3 2014)\
+Thought Action Fusion Scale – Revised (TAFS-R) †\
+Tinnitus Handicap Inventory (THI) †\
+Toronto Empathy Scale (2009)\
+Trust Scale (Rempel & Holmes 1986)\
+Trust Scale (Yamagishi 1986)\
+UCLA Loneliness Scale (V3 1996) †\
+Volunteer Functions Inventory (VFI)\
+Warwick Edinburgh Mental Wellbeing Scale (WEMWBS) †\
+Warwick Edinburgh Mental Wellbeing Scale (WEMWBS) – Fersiwn Cymraeg †\
+Wender Utah Rating Scale (WURS) †\
+Zung Self-Rating Depression Scale (ZUNG) †
+
+# In Development List
+
+These scales are not yet uploaded to Gorilla.sc and are currently in development.
+
+-   5–15 (Developmental Questionnaire)\
+-   Early Executive Functions Questionnaire (EEFQ)\
+-   School children’s happiness inventory\
+-   Varni-Thompson paediatric pain questionnaire\
+-   Saucier Mini-Marker (brief Big-Five personality measure)\
+-   Framingham Type A behaviour pattern measure\
+-   Perfectionistic self-presentation scale (PSPS)\
+-   Attitudes to Mental Illness Questionnaire (AMIQ)\
+-   Attitudes to Sexual Offenders (ATS)\
+-   Community Attitudes Toward Sex Offenders (CATSO)\
+-   Community Attitudes Towards the Mentally Ill (CAMI)\
+-   Friendship Questionnaire\
+-   Love Attitudes Scale\
+-   Self-Presentation on Facebook Questionnaire (SPFBQ)\
+-   Short Form Social Support Questionnaire (SSQ6)\
+-   Significant Others Scale (SOS)\
+-   Sociability Questionnaire\
+-   Social Readjustment Rating Scale\
+-   Behavioural Avoidance/Inhibition Scales (BIS/BAS)\
+-   COPE Inventory (Coping)\
+-   Courtauld Emotional Control Scale (CES)\
+-   Creative Achievement Questionnaire (CAQ)\
+-   Flow State Scale (FSS)\
+-   Alcohol Use Disorder Identification Test (AUDIT)\
+-   Barthel Index\
+-   Beliefs About Pain Questionnaire (BPCQ)\
+-   Body Shape Questionnaire (BSQ-34)\
+-   Cancer Attitude Inventory\
+-   Fat Phobia Scale\
+-   Fear-Avoidance Beliefs Questionnaire (FABQ)\
+-   Hospital Anxiety & Depression Scale (HADS)\
+-   Impact of Events Scale\
+-   Patient Health Questionnaire (PHQ-8)\
+-   Sleep Habits Survey\
+-   Bergen Social Media Addiction Scale\
+-   False Facebook Self Questionnaire\
+-   Internet Addiction Scale\
+-   Internet Gaming Disorder (IGD)\
+-   Problematic Internet Use Questionnaire (PIUQ)\
+-   Psychological Predictors of Problem Mobile Phone Use\
+-   Smartphone Application-Based Addiction Scale (SABAS)\
+-   Social Media Use Integration Scale (SMUIS)\
+-   Ryff Scales of Psychological Wellbeing\
+-   Cheerfulness Scale\
+-   State-Trait Cheerfulness Inventory (STCI)
+
+------------------------------------------------------------------------

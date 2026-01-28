@@ -1,15 +1,15 @@
 ---
-title: "Welcome to the Psychology Technicians at Wrexham University"
+title: "Welcome to the Wrexham Psychology Tech-page"
 page-layout: full
+date-modified: last-modified
+date-format: "DD-MM-YYYY"
 ---
 
 ::: accent
-We provide technical expertise, equipment support, and resources to students and staff in the Psychology Department at Wrexham University.
+We provide technical expertise, equipment support, and resources to students and staff in the Psychology Department at Wrexham University
 :::
 
 ------------------------------------------------------------------------
-
-## What We Do
 
 ::::::::: {.grid style="grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem;"}
 :::: card
@@ -20,7 +20,7 @@ Equipment
 
 </h3>
 
-<p>Learn about our available lab equipment, from EEG and eye tracking to Biopac and CANTAB. Booking information and guides included.</p>
+<p>Learn about our available lab equipment, from EDA and eye tracking to Biopac and CANTAB. Booking information and guides included.</p>
 :::
 ::::
 
@@ -53,12 +53,29 @@ Support
 
 ## Explore Our Site
 
-To find what you need, please visit the sections above:  
+To find what you need, please visit the sections above:
 
-- **About** – learn more about our role and expertise  
-- **Equipment** – discover the tools and technologies available  
-- **Resources** – access open-source and academic tools  
-- **Contact** – get in touch with the Psychology Technicians team 
+-   [**About**](About/index.qmd) – learn more about our role and expertise\
+
+-   [**Equipment**](Equipment/index.qmd) – discover the tools and technologies available\
+
+-   [**Resources**](Resources/index.qmd) – access open-source and academic tools\
+
+-   [Students](Students/index.qmd) - Wrexham University Final year students can publish here under the [SONA platform](Students/SONA/index.qmd) section
+
+-   [**OSF**](OSF/index.qmd) - Open Science Framework and free open source materials provided
+
+-   [**Research Methods**](RM/index.qmd) - An upcoming OSF Teaching materials from Wrexham Universities Research Methods Modules
+
+-   [**Contact**](Contact/index.qmd) – get in touch with the Psychology Technicians team
+
+-   [**News**](Updates/index.qmd) - get the latest news on training and short courses provided by the department
+
+------------------------------------------------------------------------
+
+## Psychology Staff
+
+To find the rest of the psychology staff, please see our [full staff page](https://wrexham.ac.uk/research/our-research/faculty-of-social-and-life-sciences/psychology--counselling/) on the main Wrexham University website.
 
 ------------------------------------------------------------------------
 

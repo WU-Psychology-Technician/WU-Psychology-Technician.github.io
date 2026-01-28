@@ -1,0 +1,13 @@
+---
+title: "Home"
+format: html
+---
+
+Welcome to the WUPSY Network. 
+
+
+
+Potential participants: Use the ["Available Studies](Recruitment/index-2.qmd) button above to see a list of all available studies.
+
+
+Researchers: See the [Researcher Requirements](Recruitment/index-3.qmd) page for instructions on posting your studies.

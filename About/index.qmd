@@ -1,10 +1,12 @@
 ---
 title: ""
+date-modified: last-modified
+date-format: "DD-MM-YYYY"
 ---
 
 # About the Psychology Technicians
 
-The Psychology Technicians at Wrexham University provide essential technical support, training, and expertise to staff and students in the Psychology Department.\
+The Psychology Technicians at [Wrexham University](https://wrexham.ac.uk/) provide essential technical support, training, and expertise to staff and students in the Psychology Department.\
 We ensure that teaching, research, and student projects are supported with the right tools, equipment, and guidance.
 
 ------------------------------------------------------------------------
@@ -19,7 +21,7 @@ We support the Psychology Department in three key areas:
 
 -   **Research Support**\
     We help staff and students set up studies, collect data, and manage specialist equipment.\
-    Our expertise covers Biopac, EEG, Tobii Eye Tracking, CANTAB, and software such as PsychoPy, R, and Gorilla.
+    Our expertise covers Biopac, Tobii Eye Tracking, CANTAB, and software such as PsychoPy, R, and Gorilla.
 
 -   **Student Projects**\
     Undergraduate and postgraduate students rely on our guidance for dissertations, independent projects, and experiments.\
@@ -27,14 +29,14 @@ We support the Psychology Department in three key areas:
 
 ## Technical Expertise
 
-I’m always happy to support colleagues across the department and to collaborate on interdisciplinary projects. For undergraduate students, I strongly encourage you to discuss your third-year project ideas with me as early as possible. Many projects require careful planning, and I can often design experiments tailored to your specific needs. This may involve building bespoke solutions from scratch or identifying and adapting reliable “off-the-shelf” tools. Early conversations ensure we have the time to create a setup that works effectively and supports your research aims.
+We're always happy to support colleagues across the department and to collaborate on interdisciplinary projects. For undergraduate students, we strongly encourage you to discuss your third-year project ideas with us as early as possible. Many projects require careful planning, and we can often design experiments tailored to your specific needs. This may involve building bespoke solutions from scratch or identifying and adapting reliable “off-the-shelf” tools. Early conversations ensure we have the time to create a setup that works effectively and supports your research aims.
 
 -   JISC Survey development
--   Gorilla experimental Framework
+-   Gorilla Experimental Framework
 -   3D modelling and animation (Blender)
 -   2D art and animation
 -   C# / C++ Coding within the Unity / Unreal Game Engine
--   HTML web development, CSS and PHP coding (including basic Quarto development)
+-   HTML web development, and CSS (including basic Quarto deployment                   )
 -   Digital photography and video recording
 -   Video editing and post production (DaVinci Resolve)
 -   Virtual Reality

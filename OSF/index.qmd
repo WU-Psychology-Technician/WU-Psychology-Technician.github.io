@@ -1,0 +1,17 @@
+---
+title: ""
+date-modified: last-modified
+date-format: "DD-MM-YYYY"
+---
+
+# Open Source Materials
+
+At the Psychology Department at Wrexham University, we are committed to the values of Open Science. Following the practices set out by the [Open Science Framework (OSF)](https://osf.io/) , we aim to make our teaching, research, and experimental resources accessible to both students and the wider scientific community.
+
+This section provides open access materials that you can freely view, use, and adapt:
+
+-   [Gorilla Open Materials](https://app.gorilla.sc/openmaterials/1112705) – Example experiments, task templates, surveys (English and Welsh) and teaching resources created using [Gorilla Experiment Builder](https://gorilla.sc/).
+-   [Open Day Materials](https://github.com/WU-Psychology-Technician/Open-Day-Practicals) – Public engagement resources, activities, and handouts from departmental open days.
+-   [Experimental Materials](https://github.com/WU-Psychology-Technician) – Experimental code for studies, specific equipment, and technologies will be stored here via [GitHub](https://github.com/).
+
+By sharing these resources openly, we hope to encourage *transparency*, *collaboration*, and *innovation* in the psychological sciences.

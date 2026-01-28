@@ -14,8 +14,38 @@ website:
         href: About/index.qmd
       - text: "Equipment"
         href: Equipment/index.qmd
+      - text: "Students"
+        menu:
+          - text: "Home"
+            href: Students/index.qmd
+          - text: "Case Studies"
+            href: Students/case-studies/index.qmd
+          - text: "SONA (In-Development)"
+            href: Students/SONA/index.qmd
       - text: "Resources"
-        href: Resources/index.qmd
+        menu:
+          - text: "Main Resources Page"
+            href: Resources/index.qmd
+          - text: "Psychometric Scales"
+            href: Resources/index2.qmd
+          - text: "Experimental Tasks"
+            href: Resources/index3.qmd
+      - text: "Recruitment"
+        menu:
+          - text: "Main Recruitment Page"
+            href: Recruitment/index.qmd
+          - text: "Available Studies"
+            href: Recruitment/index-2.qmd
+          - text: "Researcher Requirements"
+            href: Recruitment/index-3.qmd
+      - text: "OSF"
+        menu:
+          - text: "GitHub"
+            href: "https://wu-psychology-technician.github.io/"
+          - text: "Gorilla.sc Open"
+            href: "https://app.gorilla.sc/openmaterials/1112705"
+          - text: "Research Methods"
+            href: RM/index.qmd
       - text: "Contact"
         href: Contact/index.qmd
       - text: "News"
@@ -23,6 +53,13 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: cosmo
+      dark: darkly
     css: styles.css
     toc: true
+    page-footer:
+      right: "Last updated: {{< meta date-modified >}}"
+    include-after-body: 
+      - "_includes/chat-widget.html"
+

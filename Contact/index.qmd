@@ -1,5 +1,7 @@
 ---
 title: ""
+date-modified: last-modified
+date-format: "DD-MM-YYYY"
 ---
 
 # Contact Us
@@ -24,6 +26,6 @@ If you need assistance with equipment, project support, training, or have reques
 
 ## Contacting Externally
 
-For reasons of academic integrity and operational efficiency, we kindly ask that all requests — whether for student projects, staff teaching support, or third-party collaborations — be directed through our main contact email. This ensures enquiries are handled promptly, consistently, and recorded appropriately.
+For reasons of academic integrity and operational efficiency, we kindly ask that all external requests — whether for student projects, staff teaching support, or third-party collaborations — be directed to your relevant psychology technician team within your university. However, if you wish to use the resources from our university then please contact us so we can ensure any enquiries are handled promptly, consistently, and recorded appropriately to the relevant channels:
 
 📧 [psychology.technician\@wrexham.ac.uk](mailto:psychology.technician@wrexham.ac.uk)
