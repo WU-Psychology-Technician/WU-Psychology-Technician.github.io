@@ -32,7 +32,7 @@ Resources
 
 </h3>
 
-<p>Access training materials, SOPs, and tutorials on tools such as SPSS, R, Gorilla, and PsychoPy.</p>
+<p>Access training materials, SOPs, and tutorials on tools/platforms such as SPSS, R, Gorilla, and PsychoPy.</p>
 :::
 ::::
 

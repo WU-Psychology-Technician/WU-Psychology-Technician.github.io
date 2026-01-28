@@ -99,6 +99,15 @@ body.quarto-light .accent {
   border-radius: 8px;
 }
 
+/* Accent block consistent dimensions */
+body.quarto-light .accent,
+body.quarto-dark .accent {
+  padding: 1rem;       /* inner spacing */
+  margin: 1rem 0;      /* spacing above/below block */
+  border-radius: 8px;  /* rounded corners */
+  line-height: 1.6;    /* consistent line height */
+}
+
 /* -------------------------
    Breadcrumbs
 ------------------------- */
@@ -201,27 +210,17 @@ body.quarto-light .breadcrumb-container a:hover {
   padding: 1rem;
 }
 
-/* Dark mode overrides */
+/* -------- Dark Mode Overrides -------- */
 body.quarto-dark {
-  background-color: #121212;
-  color: #e0e0e0;
-}
-
-body.quarto-dark h1, body.quarto-dark h2, body.quarto-dark h3, body.quarto-dark h4,
-body.quarto-dark h5, body.quarto-dark h6 {
-  color: #ffffff;
-}
-
-body.quarto-dark a {
-  color: #50b9a8;
-}
-body.quarto-dark a:hover {
-  color: #3b8d7f;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #121212; /* Dark base */
+  color: #e0e0e0; /* Light text */
+  line-height: 1.6;
 }
 
 /* Navbar dark mode */
 body.quarto-dark .navbar {
-  background-color: #0d1324 !important;
+  background-color: #0d1324 !important; /* Deeper navy */
 }
 body.quarto-dark .navbar a,
 body.quarto-dark .navbar-brand {
@@ -245,6 +244,20 @@ body.quarto-dark .card-title {
 body.quarto-dark .accent {
   background-color: #50b9a8;
   color: #121212;
+}
+
+/* Links dark mode */
+body.quarto-dark a {
+  color: #50b9a8;
+}
+body.quarto-dark a:hover {
+  color: #3b8d7f;
+}
+
+/* Headings dark mode */
+body.quarto-dark h1, body.quarto-dark h2, body.quarto-dark h3, body.quarto-dark h4,
+body.quarto-dark h5, body.quarto-dark h6 {
+  color: #ffffff;
 }
 
 /* -------------------------
