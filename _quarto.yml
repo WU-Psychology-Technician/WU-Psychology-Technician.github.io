@@ -25,18 +25,18 @@ website:
       - text: "Equipment"
         href: equipment/index.qmd
 
-#      - text: "Students"
-#        menu:
-#          - text: "Main Student Page"
-#            href: students/index.html
-#          - text: "Case Studies"
-#            href: students/case-studies/index.html
-#          - text: "SONA (In Development)"
-#            href: students/sona/index.html
-#          - text: "General Ethics Guide"
-#            href: students/ethics/index.html
-#          - text: "Online Ethics Application Guide"
-#            href: students/vidatum-academic/index.html
+      - text: "Students"
+        menu:
+          - text: "Main Student Page"
+            href: students/index.qmd
+          - text: "Case Studies"
+            href: students/case-studies/index.qmd
+          - text: "SONA (In Development)"
+            href: students/sona/index.qmd
+          - text: "General Ethics Guide"
+            href: students/ethics/index.qmd
+          - text: "Online Ethics Application Guide"
+            href: students/vidatum-academic/index.qmd
 
 #      - text: "Resources"
 #        menu:

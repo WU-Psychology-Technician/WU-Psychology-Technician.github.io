@@ -1,0 +1,404 @@
+---
+title: "Ethics"
+format: html
+---
+
+# Psychology Research Ethics Guidance for Students
+
+**Document status and authorship**
+This page has been generated collaboratively using artificial intelligence and human academic oversight. It is not a final or static policy document. Instead, it is a living, evolving resource intended to support psychology students across academic years in understanding and applying research ethics in practice. It should be read alongside formal university ethics procedures and supervisor guidance. Students are encouraged to consult only the sections relevant to their specific project rather than reading the document in its entirety; however, those intending to pursue psychology in an academic or research-focused context are strongly advised to engage with the full document, as it outlines foundational ethical principles and practices that are essential for academic psychological research.
+
+**Do / Do Not Guidance:**
+
+* ✅ Use this document as a practical guide alongside formal procedures
+* ✅ Read only the sections that are directly relevant to your specific project
+* ❌ Treat this as a final or exhaustive policy
+* ❌ Feel obliged to read every section if it is not relevant to your study
+
+---
+
+##  1. Purpose of This Document
+
+This document is designed to support psychology students in preparing ethically sound research proposals and ethics applications. Its primary aim is to translate core ethical principles—particularly those articulated by the British Psychological Society (BPS)—into practical guidance that aligns with the expectations of Research Ethics Committees (RECs). The emphasis throughout is on ethical viability, feasibility, and institutional responsibility, rather than simply regulatory compliance.
+
+It provides guidance on: practical implementation of ethics, common pitfalls for students, additional considerations for REC review, and guidance for managing sensitive or complex aspects of research.
+
+**Do / Do Not Guidance:**
+
+* ✅ Consult supervisors early and regularly
+* ✅ Consider practical feasibility as well as ethical principles
+* ❌ Assume mere adherence to rules ensures ethical approval
+* ❌ Start data collection without REC approval
+
+---
+
+## 2. British Psychological Society (BPS) Practical Values
+
+This guidance is grounded in the **British Psychological Society (BPS) Code of Human Research Ethics**:
+[https://www.bps.org.uk/guideline/bps-code-human-research-ethics](https://www.bps.org.uk/guideline/bps-code-human-research-ethics)
+
+The BPS framework emphasises practical values that must be operationalised in all psychology research. Additional ethical considerations incorporated here include confidentiality, researcher-participant boundaries, demographic justification, incentives, and environmental/social responsibility.
+
+### 2.1 Respect for the Autonomy and Dignity of Persons
+
+Researchers must recognise participants as autonomous agents with the right to make informed, voluntary decisions about participation.
+
+**Do / Do Not Guidance:**
+
+* ✅ Provide clear, accessible information and consent procedures
+* ✅ Respect participant autonomy and withdrawal rights
+* ❌ Coerce or mislead participants
+* ❌ Deny or obscure withdrawal options
+
+### 2.2 Scientific Integrity
+
+Research must be methodologically sound, theoretically justified, and conducted with honesty and transparency.
+
+**Do / Do Not Guidance:**
+
+* ✅ Use validated, appropriate methods
+* ✅ Justify all methodological choices
+* ❌ Conduct research without planning or justification
+* ❌ Fabricate or misrepresent data or methods
+
+### 2.3 Social Responsibility
+
+Researchers must consider broader social, institutional, and cultural consequences of their work, including cultural sensitivity, inclusivity, and environmental/institutional risks.
+
+**Do / Do Not Guidance:**
+
+* ✅ Protect vulnerable groups and consider societal impacts
+* ✅ Address potential misuses of findings
+* ✅ Ensure cultural and demographic considerations are justified
+* ✅ Mitigate environmental or institutional risks
+* ❌ Conduct research likely to harm or stigmatise participants
+* ❌ Ignore wider implications of findings
+
+### 2.4 Maximising Benefit and Minimising Harm
+
+All research involves some level of risk. Ethical research requires these risks to be proportionate, justified, and actively mitigated.
+
+**Do / Do Not Guidance:**
+
+* ✅ Assess and mitigate risks
+* ✅ Provide debriefing and support mechanisms
+* ❌ Expose participants to unnecessary harm
+* ❌ Assume participants can manage distress without support
+
+### 2.5 Confidentiality and Data Handling
+
+Researchers must ensure participant data is kept confidential and anonymised wherever possible.
+
+**Do / Do Not Guidance:**
+
+* ✅ Anonymise or pseudonymise participant data
+* ✅ Explain limits of confidentiality in consent forms
+* ❌ Share identifiable data without explicit consent
+* ❌ Store sensitive data on personal devices without institutional approval
+
+### 2.6 Researcher-Participant Boundaries and Power Imbalances
+
+Researchers must maintain professional boundaries and minimise power imbalances.
+
+**Do / Do Not Guidance:**
+
+* ✅ Maintain professional relationships and boundaries
+* ✅ Avoid implicit pressure due to authority or institutional roles
+* ❌ Exploit relationships or position of power
+* ❌ Coerce participation through hierarchical pressure
+
+### 2.7 Participant Demographics
+
+Demographic questions must be justified and referenced. Only collect what is necessary for research objectives.
+
+**Do / Do Not Guidance:**
+
+* ✅ Collect only necessary demographic information
+* ✅ Provide references for why each demographic variable is needed
+* ❌ Collect all demographics without justification
+* ❌ Include sensitive demographics without rationale
+
+### 2.8 Incentives and Financial Compensation (Caveat)
+
+Use of incentives must not coerce participation. Participants can withdraw without losing rewards.
+
+**Do / Do Not Guidance:**
+
+* ✅ Explain incentives and withdrawal rights
+* ✅ Ensure rewards are proportionate and ethical
+* ❌ Use incentives to pressure participation
+* ❌ Link participation to rewards in a way that creates undue influence
+
+---
+
+## 3. What Research Ethics Committees (RECs) Evaluate in Practice
+
+**Do / Do Not Guidance:**
+
+* ✅ Provide clear rationale, methodology, and risk management plans
+* ✅ Demonstrate researcher competence and supervision arrangements
+* ❌ Submit vague or incomplete proposals
+* ❌ Assume feasibility without evidence
+
+Key areas of REC evaluation include:
+
+* Feasibility within the academic timeframe
+* Appropriateness of the sample and recruitment method
+* Data protection, storage, and GDPR compliance
+* Researcher competence and supervision
+* Institutional risk and liability
+
+---
+
+## 4. Common Ethical Requirements and Restrictions for Student Projects
+
+### 4.1 Use of Measures and Scales
+
+**Do / Do Not Guidance:**
+
+* ✅ Use scales free for research or educational purposes
+* ✅ Frame measures as assessing traits, experiences, or self-reported states
+* ❌ Use copyrighted or proprietary measures without permission
+* ❌ Attempt to diagnose or imply clinical assessment
+
+### 4.2 Data Collection Platforms and Digital Tools
+
+**Do / Do Not Guidance:**
+
+* ✅ Use university-approved, GDPR-compliant platforms
+* ✅ Store data within institutional systems
+* ❌ Use unapproved third-party platforms (e.g., Google Forms)
+* ❌ Store participant data on personal or external cloud services
+
+### 4.3 Research Location and Facilities
+
+**Do / Do Not Guidance:**
+
+* ✅ Conduct research in approved university facilities
+* ✅ Book rooms, equipment, and risk assessments in advance
+* ✅ Consult the Psychology Technician in regards to Experiments at [psychology-technician@wrexham.ac.uk](mailto:psychology-technician@wrexham.ac.uk) 
+* ❌ Conduct research in unapproved or unsafe locations
+* ❌ Ignore risk assessment procedures
+
+### 4.4 Deception in Research
+
+**Do / Do Not Guidance:**
+
+* ✅ Avoid deception unless necessary
+* ✅ Fully debrief participants if deception is used
+* ❌ Mislead participants unnecessarily
+* ❌ Leave participants unaware of study purpose
+
+### 4.5 Where to find Ethics Templates 
+
+* You can find the appropriate ethics templates here: [https://wrexham.ac.uk/research/our-research/research-ethics/how-to-apply--university-templates/](https://wrexham.ac.uk/research/our-research/research-ethics/how-to-apply--university-templates/)
+
+### 4.5 Where to find the Research Application website 
+
+* You can find the appropriate Wrexham Research Ethics Application site here:  [https://wris.wrexham.ac.uk/main/research](https://wris.wrexham.ac.uk/main/research)
+
+### 4.6 Where to find all the information for my dissertation?
+
+* You can find all the necessary information such as assessment briefs, rubrics, and tips on how to write your dissertation on the Moodle Page of PSY619 (Undergraduates), PSY771 (MSc Applied), PSY775 (MSc Conversion). 
+
+### 4.7 Who to ask for 
+
+ 
+
+---
+
+## 5. Common Student Research Themes and Additional Ethical Considerations
+
+### 5.1 Sensitive Topics
+
+Research involving sensitive topics requires careful ethical justification, proportionate risk management, and clear evidence that the research question cannot be addressed using less intrusive means. Sensitive topics may include, but are not limited to: trauma, abuse, violence, self-harm, suicide, substance use, discrimination, illegal behaviour, bereavement, sexual behaviour, or highly personal life experiences.
+
+Research Ethics Committees assess sensitive-topic proposals with particular attention to **participant vulnerability, likelihood of distress, and researcher preparedness**. Students must demonstrate that they have anticipated potential emotional, psychological, or social risks and have put in place appropriate safeguards. This includes recognising that participants may have lived experience related to the topic, even if the study does not explicitly recruit clinical or vulnerable populations.
+
+Ethical viability depends not only on what is being studied, but *how* it is studied. Question wording, task framing, sequencing of measures, and the context in which participation occurs all influence participant wellbeing. Studies that are overly intrusive, poorly justified, or disproportionate to the level of academic training are likely to be rejected or require substantial revision.
+
+Students are expected to work closely with their supervisor when proposing sensitive topics and to engage in early ethical reflection rather than treating ethics as an administrative step. In many cases, Research Ethics Committees will expect explicit justification for why a sensitive topic is necessary, how harm will be minimised, and how participants will be supported both during and after participation.
+
+**Do / Do Not Guidance:**
+
+* ✅ Provide a clear theoretical and empirical justification for studying the sensitive topic
+* ✅ Demonstrate proportionality between research aims and participant burden
+* ✅ Include content warnings and remind participants of their right to skip questions
+* ✅ Implement robust debriefing and signposting procedures
+* ✅ Consult supervisors early and revise designs where risk is disproportionate
+* ❌ Include sensitive questions without strong justification
+* ❌ Use graphic, explicit, or unnecessarily detailed materials
+* ❌ Assume participants will not experience distress
+* ❌ Proceed without clear plans for managing adverse reactions
+
+Sensitive-topic research can be ethically appropriate and academically valuable when designed with care, reflexivity, and proportional safeguards. Students must show the REC that participant welfare, feasibility, and institutional responsibility have been prioritised at every stage of the research process.
+
+**Do / Do Not Guidance:**
+
+* ✅ Justify and manage sensitive topics carefully
+* ✅ Consult supervisors
+* ❌ Use sensitive topics without safeguards
+* ❌ Assume participants can cope without support
+
+### 5.2 Mental Health and Wellbeing
+
+Research focusing on mental health and wellbeing is common in psychology but carries **heightened ethical responsibility**, particularly in student research contexts. While such topics are not prohibited, Research Ethics Committees closely scrutinise how constructs are defined, measured, and communicated to participants. Students must be especially careful to distinguish between **research-oriented measurement** and any form of clinical assessment or diagnosis.
+
+Undergraduate and postgraduate taught students are **not qualified clinicians**, and therefore must not design studies that imply diagnosis, screening, or evaluation of mental disorders. Even widely used instruments (e.g., depression, anxiety, stress scales) must be framed explicitly as **self-report research measures** assessing experiences or traits, not as tools for identifying clinical conditions.
+
+Mental health research also increases the likelihood of participant distress. As such, ethics applications must demonstrate clear risk mitigation strategies, including advance warnings, the right to skip questions, withdrawal without penalty, and robust debriefing procedures. Appropriate **support signposting** (e.g., NHS, GP, university wellbeing services, crisis lines) must be included and tailored to the nature of the topic.
+
+Students should also consider the **cumulative burden** of questions, especially when combining multiple mental health measures or sensitive topics. RECs may reject studies that appear overly intrusive, excessive, or poorly justified relative to the research question.
+
+**Do / Do Not Guidance:**
+
+* ✅ Use non-diagnostic, research-appropriate self-report measures
+* ✅ Clearly state that measures are **not** providing clinical assessment or diagnosis
+* ✅ Provide clear content warnings and the option to skip questions
+* ✅ Include tailored support and wellbeing signposting in debrief materials
+* ✅ Justify the number and type of mental health measures used
+* ❌ Attempt to diagnose, screen, or label participants
+* ❌ Present scores as indicators of mental disorder or clinical risk
+* ❌ Use mental health measures without a clear theoretical rationale
+* ❌ Omit support information when researching distress-related topics
+
+When designed carefully, mental health and wellbeing research can be ethically sound and scientifically valuable. However, students must demonstrate to the REC that participant welfare, scope of competence, and proportionality of risk have been prioritised throughout the study design.
+
+**Do / Do Not Guidance:**
+
+* ✅ Use non-diagnostic, research-appropriate measures
+* ✅ Provide support signposting
+* ❌ Attempt to diagnose or label participants
+* ❌ Use measures implying clinical evaluation
+
+### 5.3 Educational Psychology and Research with Children and Young People (Under 18)
+
+Research involving children and young people under the age of 18 is subject to **significantly heightened ethical, legal, and safeguarding requirements**. Such participants are legally classified as a vulnerable population, meaning that Research Ethics Committees apply a much higher threshold when evaluating risk, consent, feasibility, and institutional responsibility.
+
+For undergraduate psychology students, primary data collection with under-18s is generally **not permitted** within standard dissertation timelines. This is due to multiple practical and ethical constraints, including the requirement for enhanced safeguarding procedures, parental or guardian consent, school or institutional gatekeeper approval, and, in many cases, a **Disclosure and Barring Service (DBS) check**. Collectively, these processes typically exceed the duration of an academic year and cannot be guaranteed within undergraduate project timeframes.
+
+Educational settings (e.g., schools, colleges, youth services) also impose their own ethics review processes and calendars, which operate independently of university RECs. Even where a research idea is ethically sound in principle, delays or refusals at the institutional level may render the project unviable.
+
+Students who are strongly interested in educational or developmental psychology must therefore treat under-18 research as a **long-term academic goal**, more appropriate for postgraduate or doctoral study. Any such interest must be communicated to academic staff **at least one year in advance**, and only in collaboration with a member of the Psychology Department who has existing expertise, contacts, and safeguarding clearance in educational research.
+
+Crucially, all students proposing research that *might* involve under-18s must prepare a **fully independent backup project** using adult participants. This backup must be capable of standing alone as the primary dissertation project in the event that ethics approval, school access, or DBS clearance is not obtained.
+
+**Do / Do Not Guidance:**
+
+* ✅ Inform academic staff at least **one year in advance** of any intention to work with under-18s
+* ✅ Expect under-18 research to be more appropriate for **postgraduate-level study**
+* ✅ Prepare a **complete adult-participant backup project** from the outset
+* ✅ Consider alternative approaches (e.g., adult educators, trainee teachers, parents, or retrospective self-report designs)
+* ❌ Attempt to recruit children or young people without full REC, parental, and institutional approval
+* ❌ Assume DBS checks and school permissions can be completed within one academic year
+* ❌ Design a dissertation that depends solely on under-18 access
+
+This approach protects children and young people, ensures compliance with safeguarding obligations, and prevents students from jeopardising degree progression due to delays or denied ethical approval.
+
+**Do / Do Not Guidance:**
+
+* ✅ Notify academic staff at least one year in advance, more appropriate for postgraduate study.
+* ✅ Develop a fully viable adult-participant backup project
+* ❌ Attempt research with under-18s without approvals
+* ❌ Assume school and DBS processes can be completed in one academic year
+
+### 5.4 Forensic Psychology and Research in Prisons
+
+Research in forensic settings (e.g., prisons, probation services, secure hospitals, or with justice-involved populations) presents substantial ethical, legal, and institutional challenges. Such research is considered **high-risk** due to heightened vulnerability, power imbalances, restricted autonomy, and institutional gatekeeping. As a result, undergraduate students are generally **not permitted** to conduct primary research within prisons or secure forensic environments.
+
+Key barriers include the need for multi-layered ethical approval (university REC, HM Prison and Probation Service or equivalent bodies), enhanced safeguarding procedures, security clearance, and extended timelines that far exceed a standard academic year. Participants in these settings may also experience constrained freedom to consent, raising serious concerns about voluntariness and coercion.
+
+**Do / Do Not Guidance:**
+
+* ✅ Notify academic staff **at least one year in advance** if interested in forensic research
+* ✅ Expect this type of research to be more appropriate for **postgraduate or doctoral study**
+* ✅ Develop a **fully viable backup project** using non-forensic adult populations
+* ✅ Frame forensic interests through **theoretical, survey-based, or analogue designs** where appropriate
+* ❌ Attempt to access prisons, probation services, or secure units independently
+* ❌ Recruit justice-involved participants without formal institutional agreements
+* ❌ Assume consent is freely given in custodial or mandated contexts
+* ❌ Underestimate timelines, safeguarding, and legal requirements
+
+Students with an interest in forensic psychology are strongly encouraged to explore **non-institutional samples** and ethically appropriate analogue methods (e.g., vignettes, mock juror studies) that involve **primary data collection**, allowing forensic concepts to be examined without exposing participants, researchers, or the university to undue risk. Publicly available datasets are not appropriate for dissertation projects where primary data collection is a core requirement.
+
+## 6. Quantitative and Qualitative Themes 
+
+This section will contain slightly more comprehensive information so that student's is fully informed and well guided to reach specific goals for their Dissertation project. 
+
+**Quantitative** 
+
+* ***Surveys*** 
+
+  * Decide upon research question 
+
+  * Find the appropriate templates that can be found on Link[[https://wrexham.ac.uk/research/our-research/research-ethics/how-to-apply--university-templates/](https://wrexham.ac.uk/research/our-research/research-ethics/how-to-apply--university-templates/)]
+
+  * Decide the statistical model that will fit the research question. 
+
+    * i.e. Correlation, Linear Regression, Poisson, Zero Inflated Count Models etc. 
+
+  * Your participant information sheet should be the first document shown to your participant unless you are asking if they are going to read the Welsh versions. The secondary document should be your consent form and have appropriate elements established to meet the appropriate BPS ethics guidelines. Once the participant give their informed consent the survey should begin with the appropriate psychometric measures implemented in the appropriate order the student researcher believes they should consist as. The last document should be the debrief that the participants should read to obtain the full details as to how the data will be used and that they are re-directed to the appropriate services if the survey influenced them in a negatively influenced their state of wellbeing. 
+
+  * Find an appropriate psychometric measures of the constructs of interest that will be used. 
+
+    * Decide how many items you require
+    * Decide whether to use a classic measure or newly validated psychometric measure
+    * Decide your statistical model: Linear regression, Multiple Linear regression, ANOVA 
+
+  * Explain why you require specific demographics in relation to the constructs of interest you want to research
+
+  * Obtain approval email to use JISC platform from Psychology Technician with Supervisor approval.
+
+  * Once you have 
+* ***Experiments***
+
+  * Decide upon research question 
+
+  * Use the appropriate templates that can be found on [Link]([https://wrexham.ac.uk/research/our-research/research-ethics/how-to-apply--university-templates/](https://wrexham.ac.uk/research/our-research/research-ethics/how-to-apply--university-templates/))
+
+  - Decide statistical model that fits the research question. 
+
+    * i.e. T-tests, Linear Regression, ANOVA, Poisson, Zero Inflated Count Models etc. 
+  - Find an appropriate psychological measure that can be understood in an experimental procedure
+  - Explain why you require specific demographics in relation to the measure of interest you want to research
+  - Decide if you will be doing a face-to-face or online experiment
+  - Consult with Psychology Technician with Supervisor approval if the experiment for assistance in creation and deployment of the experiment.
+  - **[If Face-to-Face**] Contact Psychology Technician to obtain K115 booking for experiment
+  - **[If Face-to-Face**] Create and Conduct experiment with participant(s)
+  - [***If using Gorilla.sc***] Obtain approval to use Gorilla.sc platform from Psychology Technician with Supervisor approval. 
+  - [***If using Gorilla.sc***] Use Gorilla.sc Tutorial to understand how to use the platform.  
+  - [***If using Gorilla.sc***] Insert materials into Gorilla.sc 
+  - [***If using Gorilla.sc***] Create experiment tree
+  - [***If using Gorilla.sc***] Obtain tokens from psychology technician with approval from supervisor
+  - **[If using Gorilla.sc]** Deploy experiment. Once you have deployed the experiment you will obtain your link that you can add to your research advert. 
+
+Qualitative 
+
+* Decide upon research question 
+* Decide the appropriate design 
+
+  * Phenomenology, Ethnography, Grounded Theory, Narrative research etc.  
+* Decide the appropriate method *
+
+  * Interview, Observation, *Fo*cus groups
+  * You cannot do document analysis as this is a secondary data collection method, and your dissertation project requirements is **primary data collection**
+* Decide whether you will be conducting a face-to-face or online method. 
+* **[Face-to-Face method]** Book with Psychology Technician to get K115 or contact timetables to book one of the K block rooms
+* [**Face-to-Face method**] Arrange an appropriate time with participants with coinciding room booking
+* [**Face-to-Face method**] Use Panopto platform recording and only record the audio.  
+* **[Online method]** Make sure to use Microsoft Teams and Panopto platform (not the application)
+* **[Online method]** Test if Teams records audio on Panopto before recording
+
+## 7. Final Guidance for Students
+
+**Do / Do Not Guidance:**
+
+* ✅ Engage supervisors and technicians early
+* ✅ Prepare ethical applications with clarity and feasibility in mind
+* ✅ Use the Wrexham Research Ethics Student Guide (WRIS: [undergraduate](https://wrexham.ac.uk/media/marketing/research/documents-misc/Wrexham-Research-Ethics-System-Student-User-Guide.pdf), [postgraduate](https://wrexham.ac.uk/media/marketing/research/documents-misc/Wrexham-Research-Ethics-System-Postgraduate-Student-User-Guide.pdf))
+* ❌ Assume ethical approval is automatic
+
+  * Expect at least 2 week maximum wait time. The earlier the application the better. 
+* ❌ Ignore institutional guidance or REC feedback
+
+Well-designed ethical research protects participants, researchers, and the institution—and strengthens the scientific value of the work produced.
