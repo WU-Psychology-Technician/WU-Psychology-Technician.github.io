@@ -13,14 +13,12 @@ website:
   navbar:
     logo: images/wrexham-icon.jpeg
     background: primary
-
     left:
       - text: "Home"
         href: index.qmd
 
       - text: "About"
         href: about/index.qmd
-
 
       - text: "Equipment"
         href: equipment/index.qmd
@@ -49,15 +47,15 @@ website:
           - text: "Coding Repository"
             href: resources/index4.qmd
 
-#      - text: "Recruitment"
+      - text: "Recruitment"
+        menu:
+          - text: "Main Recruitment Page"
+            href: recruitment/index.qmd
+          - text: "Available Studies"
+            href: recruitment/index-2-soon.qmd
+          - text: "Researcher Requirements"
+            href: recruitment/index-3.qmd
 
-#        menu:
-#          - text: "Main Recruitment Page"
-#            href: recruitment/index.html
-#          - text: "Available Studies"
-#            href: recruitment/index-2-soon.html
-#          - text: "Researcher Requirements"
-#            href: recruitment/index-3.html
 
 #      - text: "OSF"
 #        menu:
