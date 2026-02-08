@@ -69,12 +69,12 @@ website:
       - text: "Contact"
         href: contact/index.qmd
 
-#      - text: "News"
-#        menu:
-#          - text: "Main News Page"
-#            href: updates/index.html
-#          - text: "Current Technician Tasks"
-#            href: updates/tasks.html
+      - text: "News"
+        menu:
+          - text: "Main News Page"
+            href: updates/index.qmd
+          - text: "Current Technician Tasks"
+            href: updates/tasks.qmd
 
 format:
   html:
