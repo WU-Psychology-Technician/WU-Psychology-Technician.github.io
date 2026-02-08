@@ -22,8 +22,8 @@ website:
         href: about/index.qmd
 
 
-#      - text: "Equipment"
-#        href: equipment/index.html
+      - text: "Equipment"
+        href: equipment/index.qmd
 
 #      - text: "Students"
 #        menu:
