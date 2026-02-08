@@ -38,16 +38,16 @@ website:
           - text: "Online Ethics Application Guide"
             href: students/vidatum-academic/index.qmd
 
-#      - text: "Resources"
-#        menu:
-#          - text: "Main Resources Page"
-#            href: resources/index.html
-#          - text: "Psychometric Scales"
-#            href: resources/index2.html
-#          - text: "Experimental Tasks"
-#            href: resources/index3.html
-#          - text: "Coding Repository"
-#            href: resources/index4.html
+      - text: "Resources"
+        menu:
+          - text: "Main Resources Page"
+            href: resources/index.qmd
+          - text: "Psychometric Scales"
+            href: resources/index2.qmd
+          - text: "Experimental Tasks"
+            href: resources/index3.qmd
+          - text: "Coding Repository"
+            href: resources/index4.qmd
 
 #      - text: "Recruitment"
 
