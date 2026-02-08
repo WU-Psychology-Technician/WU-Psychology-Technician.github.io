@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "updates/tasks.html",
+    "href": "updates/tasks.html",
+    "title": "Current Psychology Technicians Tasks",
+    "section": "",
+    "text": "This is a list of current tasks I have created to help both students and staff clearly understand the responsibilities of the psychology technicians.\n\nCurrent Tasks\n\nAdd more comprehensive equipment List onto the Website(add Neural Network maybe?)\nComplete remaining sections:\n\nAvailable Studies\nResearcher Requirements\nCoding Repository\n\nFind ways to automate tasks for several administrative tasks in the department.\nAdd KTANE details into equipment\nAdd H&S Training list for Student’s, Staff and Technicians\nAdd Downloadable Risk Assessments for both Student’s and Staff\nAdd more code into the GitHub Repository\nDevelop R, Python and Julia scripts to replace SPSS in the department.\nEstablish hormone/neurendocrinological data acquisition procedures for the Psychology department\nEstablish online textbook for Research Method modules\nEstablish SONA for Recruitment for the Psychology Department\nEstablish Tobii EyeTracker Risk Assessments, H&S Procedure, and open PsychoPy Case Studies\nCreate a Psychology Technician Page for the Online Programme.\nAcquiesce Meta VR Headsets\n\nGo for Internal Grants when they release.\n\nCreate VR Lounge (Virtual Reality Space with several psychology experiments) [INSERT REMAINING TASKS FROM LOCAL REPOSITORIES IN HERE]\n\n\n\nCompleted Tasks\n\nAdd appropriate University branding to the Psych-Tech Website (01-2026)\nAdd appropriate functionality to the website (01-2026)\nAdd 200\\(\\approx\\) Psychometric Scales to Gorilla.sc Wrexham Open Materials\nAdd Wrexham University logo and make it interactive (01-2026)\n\nAlso add useful links as planetary orbit around logo."
+  },
+  {
     "objectID": "students/vidatum-academic/index.html",
     "href": "students/vidatum-academic/index.html",
     "title": "Guide to Online Ethics Applications (Wrexham Research Information System (WRIS) / Vidatum Academic)",
@@ -462,6 +469,34 @@
     "text": "Psychology Staff\nTo find the rest of the psychology staff, please see our full staff page on the main Wrexham University website."
   },
   {
+    "objectID": "contact/index.html",
+    "href": "contact/index.html",
+    "title": "Contact Us",
+    "section": "",
+    "text": "We welcome enquiries from students, staff, and external partners who may require technical support or information about the facilities in the Psychology Department at Wrexham University.\nIf you need assistance with equipment, project support, training, or have requests regarding technical services, please contact us at:\n📧 psychology.technician@wrexham.ac.uk\n\n\n\n\nStudents – Please contact us as early as possible if you require technical support for third-year projects, dissertations, or research activities. Early discussions allow us to plan effectively and ensure you have the right equipment and training in place.\nAcademic Staff – We are available to support teaching, laboratory practicals, open days, and research projects. If your module or event requires technical input, please reach out in advance so we can coordinate.\nExternal Enquiries / Third Parties – All requests relating to collaborations, equipment demonstrations, or technical support for external projects should also be directed to the email above. We will respond or redirect your enquiry as appropriate.\n\n\n\n\n\nFor reasons of academic integrity and operational efficiency, we kindly ask that all external requests — whether for student projects, staff teaching support, or third-party collaborations — be directed to your relevant psychology technician team within your university. However, if you wish to use the resources from our university then please contact us so we can ensure any enquiries are handled promptly, consistently, and recorded appropriately to the relevant channels:\n📧 psychology.technician@wrexham.ac.uk"
+  },
+  {
+    "objectID": "contact/index.html#guidance-for-enquiries",
+    "href": "contact/index.html#guidance-for-enquiries",
+    "title": "Contact Us",
+    "section": "",
+    "text": "Students – Please contact us as early as possible if you require technical support for third-year projects, dissertations, or research activities. Early discussions allow us to plan effectively and ensure you have the right equipment and training in place.\nAcademic Staff – We are available to support teaching, laboratory practicals, open days, and research projects. If your module or event requires technical input, please reach out in advance so we can coordinate.\nExternal Enquiries / Third Parties – All requests relating to collaborations, equipment demonstrations, or technical support for external projects should also be directed to the email above. We will respond or redirect your enquiry as appropriate."
+  },
+  {
+    "objectID": "contact/index.html#contacting-externally",
+    "href": "contact/index.html#contacting-externally",
+    "title": "Contact Us",
+    "section": "",
+    "text": "For reasons of academic integrity and operational efficiency, we kindly ask that all external requests — whether for student projects, staff teaching support, or third-party collaborations — be directed to your relevant psychology technician team within your university. However, if you wish to use the resources from our university then please contact us so we can ensure any enquiries are handled promptly, consistently, and recorded appropriately to the relevant channels:\n📧 psychology.technician@wrexham.ac.uk"
+  },
+  {
+    "objectID": "OSF/index.html",
+    "href": "OSF/index.html",
+    "title": "Open Source Materials",
+    "section": "",
+    "text": "Open Source Materials\nAt the Psychology Department at Wrexham University, we are committed to the values of Open Science. Following the practices set out by the Open Science Framework (OSF) , we aim to make our teaching, research, and experimental resources accessible to both students and the wider scientific community.\nThis section provides open access materials that you can freely view, use, and adapt:\n\nGorilla Open Materials – Example experiments, task templates, surveys (English and Welsh) and teaching resources created using Gorilla Experiment Builder.\nOpen Day Materials – Public engagement resources, activities, and handouts from departmental open days.\nExperimental Materials – Experimental code for studies, specific equipment, and technologies will be stored here via GitHub.\n\nBy sharing these resources openly, we hope to encourage transparency, collaboration, and innovation in the psychological sciences."
+  },
+  {
     "objectID": "about/index.html",
     "href": "about/index.html",
     "title": "About the Psychology Technicians",
@@ -495,6 +530,34 @@
     "title": "About the Psychology Technicians",
     "section": "",
     "text": "If you’d like to know more, book equipment, or get support for your project, head to our Contact page."
+  },
+  {
+    "objectID": "equipment/index.html",
+    "href": "equipment/index.html",
+    "title": "Equipment and Facilities",
+    "section": "",
+    "text": "The Psychology Department at Wrexham University has a wide range of specialist equipment to support teaching, research, and student projects. Our technicians provide training, setup, and ongoing support to ensure equipment is used safely and effectively.\n\n\n\n\nTobii Pro Spark Eye Trackers\nPortable, user-friendly devices for high-quality eye-tracking research. Suitable for projects in attention, cognition, and visual behaviour.\nBiopac Systems\nA comprehensive suite for recording physiological signals such as EDA (electrodermal activity), ECG (electrocardiogram), EMG (electromyogram), and respiration. Ideal for psychophysiology and health psychology studies.\nBioRadio\nWireless physiological data acquisition system, particularly useful for mobility studies and projects requiring real-time bio-signal monitoring.\nCANTAB (Cambridge Neuropsychological Test Automated Battery)\nA widely used computerized system for assessing cognitive functions such as memory, attention, and executive function.\nVirtual Reality Equipment\nVR headsets and software support for immerse experimental paradigms using the Unity Experimental Framework. Useful in applied psychology, perception studies, and innovative research designs.\nHigh-Quality Audio-Visual Recording\nDigital cameras, microphones, and editing tools for experimental recording, behavioural coding, and presentation material.\n\n\n\n\n\nThe Psychology technicians are trained in the latest, simulation training\n\nVR/AR/XR Implementations Designing and delivering immersive experiences using Virtual, Augmented, and Extended Reality to simulate real-world environments for teaching, training, and research purposes.\nImmersive Simulation & Scenario-Based Learning Developing tailored scenarios and role-play environments that allow students to experience, practice, and reflect on psychological concepts and professional skills in safe, controlled conditions.\nImmersive Studio Toolkit Applying advanced studio tools and platforms to create high-quality, interactive content that integrates seamlessly into teaching and experimental setups.\nInteractive Wearables & Portable Technology Utilizing wearable devices (such as biometric sensors, VR headsets, and mobile-based platforms) to gather real-time physiological and behavioral data, supporting innovative psychological research.\n3D Scanning, Photogrammetry & Digital Twins Capturing physical environments and objects to build digital replicas, enabling highly accurate reconstructions for analysis, training, or experimental immersion.\nMotion Capture for Immersive Performance & Interaction Implementing motion capture systems to study movement, behavior, and interaction in both research and applied contexts, bringing realism and precision into immersive simulations. —\n\n\n\n\n\nEquipment can only be booked in advance via the Psychology Technicians with prior approval from your supervisor.\n\nTraining is provided where specialist knowledge is required (e.g., ECG, EDA, Eye Tracking).\n\nStudents are encouraged to discuss project needs early so we can plan suitable training and ensure availability of equipment.\n\nFor all bookings and enquiries, please contact us at:\n📧 psychology.technician@wrexham.ac.uk"
+  },
+  {
+    "objectID": "equipment/index.html#available-equipment",
+    "href": "equipment/index.html#available-equipment",
+    "title": "Equipment and Facilities",
+    "section": "",
+    "text": "Tobii Pro Spark Eye Trackers\nPortable, user-friendly devices for high-quality eye-tracking research. Suitable for projects in attention, cognition, and visual behaviour.\nBiopac Systems\nA comprehensive suite for recording physiological signals such as EDA (electrodermal activity), ECG (electrocardiogram), EMG (electromyogram), and respiration. Ideal for psychophysiology and health psychology studies.\nBioRadio\nWireless physiological data acquisition system, particularly useful for mobility studies and projects requiring real-time bio-signal monitoring.\nCANTAB (Cambridge Neuropsychological Test Automated Battery)\nA widely used computerized system for assessing cognitive functions such as memory, attention, and executive function.\nVirtual Reality Equipment\nVR headsets and software support for immerse experimental paradigms using the Unity Experimental Framework. Useful in applied psychology, perception studies, and innovative research designs.\nHigh-Quality Audio-Visual Recording\nDigital cameras, microphones, and editing tools for experimental recording, behavioural coding, and presentation material."
+  },
+  {
+    "objectID": "equipment/index.html#specialist-skills",
+    "href": "equipment/index.html#specialist-skills",
+    "title": "Equipment and Facilities",
+    "section": "",
+    "text": "The Psychology technicians are trained in the latest, simulation training\n\nVR/AR/XR Implementations Designing and delivering immersive experiences using Virtual, Augmented, and Extended Reality to simulate real-world environments for teaching, training, and research purposes.\nImmersive Simulation & Scenario-Based Learning Developing tailored scenarios and role-play environments that allow students to experience, practice, and reflect on psychological concepts and professional skills in safe, controlled conditions.\nImmersive Studio Toolkit Applying advanced studio tools and platforms to create high-quality, interactive content that integrates seamlessly into teaching and experimental setups.\nInteractive Wearables & Portable Technology Utilizing wearable devices (such as biometric sensors, VR headsets, and mobile-based platforms) to gather real-time physiological and behavioral data, supporting innovative psychological research.\n3D Scanning, Photogrammetry & Digital Twins Capturing physical environments and objects to build digital replicas, enabling highly accurate reconstructions for analysis, training, or experimental immersion.\nMotion Capture for Immersive Performance & Interaction Implementing motion capture systems to study movement, behavior, and interaction in both research and applied contexts, bringing realism and precision into immersive simulations. —"
+  },
+  {
+    "objectID": "equipment/index.html#booking-and-training",
+    "href": "equipment/index.html#booking-and-training",
+    "title": "Equipment and Facilities",
+    "section": "",
+    "text": "Equipment can only be booked in advance via the Psychology Technicians with prior approval from your supervisor.\n\nTraining is provided where specialist knowledge is required (e.g., ECG, EDA, Eye Tracking).\n\nStudents are encouraged to discuss project needs early so we can plan suitable training and ensure availability of equipment.\n\nFor all bookings and enquiries, please contact us at:\n📧 psychology.technician@wrexham.ac.uk"
   },
   {
     "objectID": "recruitment/index-2-soon.html",
@@ -698,5 +761,26 @@
     "title": "Dissertation Students",
     "section": "What We Offer",
     "text": "What We Offer\n\n\n\n\nCase Studies\n\n\nLearn about our previous dissertation projects and what they conducted.\n\n\n\n\n\n\nSONA - Recruitment Page\n\n\nLearn what you can do on this page to get as many participants as possible for your dissertation project in your final year.\n\n\n\n\n\n\nSupport\n\n\nMeet the technicians, book time with us, and discover how we can help with your final year dissertation project and other modules."
+  },
+  {
+    "objectID": "updates/index.html",
+    "href": "updates/index.html",
+    "title": "News",
+    "section": "",
+    "text": "Stay up to date with the latest announcements, training opportunities, and developments from the Psychology Technicians at Wrexham University.\nThis page is updated on a regular basis with new information about upcoming workshops, open days, and changes to available resources.\n\n\n\n📢 No new announcements at the moment\nCheck back soon for upcoming events, equipment updates, and student opportunities.\n\n\n\n\nOn this page, we’ll share:\n- Training sessions & workshops (e.g., SPSS, Gorilla, Quarto setup)\n- New equipment or software added to the department news history\n- Guides and resources that we’ve recently published\n- Opportunities for students to get involved in projects or events\n- Highlights from past activities and successful collaborations"
+  },
+  {
+    "objectID": "updates/index.html#current-status",
+    "href": "updates/index.html#current-status",
+    "title": "News",
+    "section": "",
+    "text": "📢 No new announcements at the moment\nCheck back soon for upcoming events, equipment updates, and student opportunities."
+  },
+  {
+    "objectID": "updates/index.html#what-you-can-expect-here",
+    "href": "updates/index.html#what-you-can-expect-here",
+    "title": "News",
+    "section": "",
+    "text": "On this page, we’ll share:\n- Training sessions & workshops (e.g., SPSS, Gorilla, Quarto setup)\n- New equipment or software added to the department news history\n- Guides and resources that we’ve recently published\n- Opportunities for students to get involved in projects or events\n- Highlights from past activities and successful collaborations"
   }
 ]

@@ -1,0 +1,42 @@
+---
+title: "Current Psychology Technicians Tasks"
+format: html
+---
+
+This is a list of current tasks I have created to help both students and staff clearly understand the responsibilities of the psychology technicians. 
+
+
+# Current Tasks
+
+- Add more comprehensive equipment List onto the Website(add Neural Network maybe?)
+- Complete remaining sections: 
+  - Available Studies 
+  - Researcher Requirements 
+  - Coding Repository 
+- Find ways to automate tasks for several administrative tasks in the department. 
+- Add KTANE details into equipment 
+- Add H&S Training list for Student's, Staff and Technicians
+- Add Downloadable Risk Assessments for both Student's and Staff
+- Add more code into the GitHub Repository
+- Develop R, Python and Julia scripts to replace SPSS in the department. 
+- Establish hormone/neurendocrinological data acquisition procedures for the Psychology department 
+- Establish online textbook for Research Method modules 
+- Establish SONA for Recruitment for the Psychology Department
+- Establish Tobii EyeTracker Risk Assessments, H&S Procedure, and open PsychoPy Case Studies
+- Create a Psychology Technician Page for the Online Programme. 
+- Acquiesce Meta VR Headsets
+  - Go for Internal Grants when they release. 
+- Create VR Lounge (Virtual Reality Space with several psychology experiments) 
+[INSERT REMAINING TASKS FROM LOCAL REPOSITORIES IN HERE]
+
+
+
+# Completed Tasks 
+
+- Add appropriate University branding to the Psych-Tech Website (01-2026) 
+- Add appropriate functionality to the website (01-2026)
+- Add 200$\approx$ Psychometric Scales to Gorilla.sc Wrexham Open Materials
+- Add Wrexham University logo and make it interactive (01-2026)
+  - Also add useful links as planetary orbit around logo. 
+
+

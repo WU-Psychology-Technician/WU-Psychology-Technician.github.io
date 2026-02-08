@@ -66,8 +66,8 @@ website:
           - text: "Research Methods"
             href: rm/index.qmd
 
-#      - text: "Contact"
-#        href: contact/
+      - text: "Contact"
+        href: contact/index.qmd
 
 #      - text: "News"
 #        menu:
