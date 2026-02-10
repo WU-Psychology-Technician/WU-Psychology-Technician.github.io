@@ -1,42 +1,206 @@
 ---
 title: "Current Psychology Technicians Tasks"
 format: html
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
-This is a list of current tasks I have created to help both students and staff clearly understand the responsibilities of the psychology technicians. 
+This is a list of current tasks I have created to help both students and
+staff clearly understand the responsibilities of the psychology
+technicians.
 
+::: callout-important
+# Current Task
 
-# Current Tasks
+Focus on establishing the **H&S Training List** and **Traffic Light
+Dashboard** to ensure lab safety and resource transparency.
+:::
 
-- Add more comprehensive equipment List onto the Website(add Neural Network maybe?)
-- Complete remaining sections: 
-  - Available Studies 
-  - Researcher Requirements 
-  - Coding Repository 
-- Find ways to automate tasks for several administrative tasks in the department. 
-- Add KTANE details into equipment 
-- Add H&S Training list for Student's, Staff and Technicians
-- Add Downloadable Risk Assessments for both Student's and Staff
-- Add more code into the GitHub Repository
-- Develop R, Python and Julia scripts to replace SPSS in the department. 
-- Establish hormone/neurendocrinological data acquisition procedures for the Psychology department 
-- Establish online textbook for Research Method modules 
-- Establish SONA for Recruitment for the Psychology Department
-- Establish Tobii EyeTracker Risk Assessments, H&S Procedure, and open PsychoPy Case Studies
-- Create a Psychology Technician Page for the Online Programme. 
-- Acquiesce Meta VR Headsets
-  - Go for Internal Grants when they release. 
-- Create VR Lounge (Virtual Reality Space with several psychology experiments) 
-[INSERT REMAINING TASKS FROM LOCAL REPOSITORIES IN HERE]
+# Tasks
 
+::: callout-note
+## Project Overview
 
+This roadmap tracks the development of the Psychology Technician Website
+and Ecosystem of resources, guides, and procedures. Items marked with
+`[x]` are completed.
+:::
 
-# Completed Tasks 
+-   [ ] **Add an Immersive Tools section** - Create a section with all
+    the necessary details for Immersive reality - Links to the tools
+    used and discussed in the videos and podcasts:
 
-- Add appropriate University branding to the Psych-Tech Website (01-2026) 
-- Add appropriate functionality to the website (01-2026)
-- Add 200$\approx$ Psychometric Scales to Gorilla.sc Wrexham Open Materials
-- Add Wrexham University logo and make it interactive (01-2026)
-  - Also add useful links as planetary orbit around logo. 
+    -   [ ] NotebookLM: https://notebooklm.google/ - a research and
+        note-taking application from Google.
 
+    -   [ ] Horizon Workrooms are being removed. Maybe create an
+        Experiment version of it?
 
+    -   [ ] ShapesXR - A good way to teach student's how to create on
+        MetaQuest? How do I implement it with Unity Experimental
+        Framework?
+
+    -   [ ] MetaSteps - Another no-code creation for VR.
+
+    -   [ ] Create a Immersive version of the lab?
+
+-   [ ] **Create an AI section** All the relevant AI tools for students,
+    staff, researchers etc.
+
+    -   [ ] 3DVista: https://www.3dvista.com/en/ - a 360-degree
+        immersive creation platform for tours and simulations -
+
+    -   [ ] ElevenLabs: https://elevenlabs.io/ - an AI Voice platform
+        (AI music, sound effects, podcasts etc.)
+
+    -   [ ] Google Vids: https://workspace.google.com/ - an AI-supported
+        video and presentation creation program (only supported on some
+        paid Google plans)
+
+    -   [ ] <https://suno.com/home>
+
+    -   [ ] 
+
+-   [ ] **Add GitHub Repositories** of interest and add them into a
+    compendium list onto the Technician Website. Then categorise them
+    for Subject of interest. - Biological Psychology:
+    https://github.com/rasmusab/drinkr (Influence of Alcohol) +
+    https://github.com/rasmusab/iba-cocktails - Cognitive Psychology:
+    https://github.com/rasmusab/bitsy-maze-generator (Cog Task) -
+    https://github.com/AnshKathpal/Kinder-Counselor-Chatbot -
+
+-   [ ] **Visitor Metrics**: Add site visit interactivity to view
+    website traffic statistics.
+
+-   [ ] **Ethics Application "Common Pitfalls"**: A list of the top 5
+    reasons the Ethics Committee sends applications back, with "Correct
+    vs. Incorrect" examples.
+
+-   [ ] **Comprehensive Equipment List**: Expand website catalog (e.g.,
+    Neural Network resources).
+
+-   [ ] **Section Completion**:  - \[ \] Available Studies  - \[ \]
+    Researcher Requirements  - \[ \] Coding Repository 
+
+-   [ ] **Administrative Automation**: Identify and implement ways to
+    automate departmental administrative tasks. 
+
+-   [ ] **KTANE**: Add details into equipment catalog.
+
+-   [ ] **Health & Safety Training**: Add H&S Training list for
+    Students, Staff, and Technicians.
+
+-   [ ] **Risk Assessments**: Add downloadable Risk Assessments for both
+    Students and Staff.
+
+-   [ ] **GitHub Expansion**: Add more code and scripts to the GitHub
+    Repository.
+
+-   [ ] **Language Transition**: Develop R, Python, and Julia scripts to
+    replace SPSS in the department. 
+
+-   [ ] **Hormone Data Acquisition**: Establish neuroendocrinological
+    procedures for the department.
+
+-   [ ] **Online Textbook**: Establish web-based resource for Research
+    Method modules.
+
+-   [ ] **SONA System**: Establish SONA for recruitment within the
+    department.
+
+-   [ ] **Tobii EyeTracker**: Establish Risk Assessments, H&S
+    Procedures, and open PsychoPy Case Studies.
+
+-   [ ] **Online Programme Support**: Create a Psychology Technician
+    Page specifically for the Online Programme. 
+
+-   [ ] **Hardware Acquisition**: Acquiesce Meta VR Headsets (Target
+    internal grants upon release).
+
+-   [ ] **Scheduling**: Add Microsoft Booking onto the Wrexham
+    Technician Page.
+
+-   [ ] **Technician Chat Bot**: Implement a GPT-based bot to assist
+    with queries beyond basic FAQs.
+
+-   [ ] **FAQ Section**: Add a specific FAQ bot and section to the
+    technical page.
+
+-   [ ] **Laboratory Induction**: Create a Laboratory Induction Module
+    for users.
+
+-   [ ] **Equipment Deadlines**: Create separate equipment deadlines for
+    Undergraduates and Postgraduates.
+
+-   [ ] **Traffic Light Dashboard**: Show real-time
+    availability/maintenance status for labs and equipment.
+
+-   [ ] **OSF & Version Control**: Develop a guide for integrating
+    projects with OSF and GitHub.
+
+-   [ ] **Preregistration**: Add a guide on why it matters and how to
+    execute it on OSF.
+
+-   [ ] **Data Management Plans**: Guidance on secure storage of
+    sensitive data on university servers.
+
+-   [ ] **Coding Snippets**: A "Cookbook" of R/Python code for cleaning
+    eye-tracker data, counterbalancing, etc.
+
+-   [ ] **Interactive Demo Experiments**: Embed mini-experiments using
+    JavaScript or Gorilla iframes.
+
+-   [ ] **Virtual Tour**: Implement a photo-slider or 360° image of the
+    Psychology labs.
+
+-   [ ] **Technician "Blog" / News**: A section for highlighting new
+    equipment and software updates.
+
+-   [ ] **SOPs (Standard Operating Procedures)**: Short, bulleted guides
+    (e.g., sanitizing VR headsets, applying EEG gel).
+
+-   [ ] **Staff "WANT" List**: Add a section for staff to suggest
+    equipment. - Add FNRIS into the equipment list. - Add EEG into the
+    equipment list
+
+-   [ ] **Add friendly AI**: Create a GPT for answering module specific
+    questions.
+
+-   [ ] **Statistics Flowchart**: An interactive/visual guide for
+    choosing the correct statistical test.
+
+-   [ ] **Poster Printing Guide**: Dimensions, templates, and
+    instructions for final year posters.
+
+-   [ ] **Grant Support Section**: Technical specifications for
+    equipment to be used in grant applications.
+
+-   [x] **Open Materials**: Add Gorilla.sc experiments into the open
+    materials section.
+
+-   [ ] **Search Optimizations**: Add keywords to metadata on every page
+    for internal site search. - Add this to the ethics guides - Add this
+    to the H&S Guides - Add this to the Risk Assessments Guides
+
+**Summer Tasks**
+
+-   [ ] **VR Lounge**: Create a Virtual Reality Space featuring several
+    psychology experiments.
+
+-   [ ] **Establish Immersive Resources**: Collaborate with the
+    Immersive Team with resources and online stuff.
+
+------------------------------------------------------------------------
+
+\[INSERT REMAINING TASKS FROM LOCAL REPOSITORIES IN HERE\]
+
+# Completed Tasks
+
+-   [x] Add appropriate University branding to the Psych-Tech Website
+    (01-2026)
+-   [x] Add appropriate functionality to the website (01-2026)
+-   [x] Add 200$\approx$ Psychometric Scales to Gorilla.sc Wrexham Open
+    Materials
+-   [x] Add Wrexham University logo and make it interactive (01-2026)
+    -   [x] Also add useful links as planetary orbit around logo.
