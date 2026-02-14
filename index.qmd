@@ -5,13 +5,19 @@ date-modified: last-modified
 date-format: "DD-MM-YYYY"
 ---
 
+::: callout-important
+# Website Maitenance
+
+The site will be getting updated over the weekend with additional content and features.
+:::
+
 ::: accent
 We provide technical expertise, equipment support, and resources to students and staff in the Psychology Department at Wrexham University
 :::
 
 ------------------------------------------------------------------------
 
-::::::::: {.grid style="grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem;"}
+::::::::::::: {.grid style="grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem;"}
 :::: card
 ::: card-body
 <h3 class="card-title">
@@ -56,21 +62,22 @@ Booking Slots
 
 </h3>
 
-<p>We provide flexible meeting slots on a daily basis. Feel free to book in to discuss your technical needs. [**Contact us via email or click here book a meeting**](mailto:psychology.technician@Wrexham.ac.uk)</p>
-
+<p>We provide flexible meeting slots on a daily basis. Feel free to book in to discuss your technical needs. [**Click here book a meeting**](https://outlook.office.com/book/PsychTechWrexham@MAILGLYNDWRAC.onmicrosoft.com/?ismsaljsauthenabled)</p>
 :::
 ::::
+
 :::: card
 ::: card-body
 <h3 class="card-title">
-    Student Guides
+
+Student Guides
+
 </h3>
 
 The technicians have created guides to help students complete Risk Assessments, submit Online Ethics applications, and explore case studies showcasing the lab’s capabilities.
-
 :::
 ::::
-:::::::::
+:::::::::::::
 
 ------------------------------------------------------------------------
 
@@ -101,4 +108,3 @@ To find what you need, please visit the sections above:
 To find the rest of the psychology staff, please see our [**full staff page**](https://wrexham.ac.uk/research/our-research/faculty-of-social-and-life-sciences/psychology--counselling/) on the main Wrexham University website.
 
 ------------------------------------------------------------------------
-

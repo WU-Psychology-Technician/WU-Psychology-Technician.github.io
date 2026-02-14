@@ -27,6 +27,25 @@ and Ecosystem of resources, guides, and procedures. Items marked with
 `[x]` are completed.
 :::
 
+
+-   [ ] Add Clawdbot into Automation Stream of ideas?
+
+-   [ ] Add Risk Assessment's List 
+
+-   [ ] Add integrators to PowerAutomate + Microsoft Bookings for possible automation. 
+
+-   [ ] Complete an Asset Managment Register / Inventory Checklist / Future equipment proposals. 
+ 
+
+
+-   [ ] Create a Feedback section in the Booking System in Microsoft Forms
+
+-   [ ] Add new gorilla.sc link into the Open Materials Section. 
+
+-   [ ] Add a Frequently Asked Questions section in the Student section.
+
+-   [ ] Add a Maintenance banner that activates on specific dates.
+
 -   [ ] **Add an Immersive Tools section** - Create a section with all
     the necessary details for Immersive reality - Links to the tools
     used and discussed in the videos and podcasts:
@@ -60,7 +79,7 @@ and Ecosystem of resources, guides, and procedures. Items marked with
 
     -   [ ] <https://suno.com/home>
 
-    -   [ ] 
+    -   \[ \]
 
 -   [ ] **Add GitHub Repositories** of interest and add them into a
     compendium list onto the Technician Website. Then categorise them
@@ -197,6 +216,7 @@ and Ecosystem of resources, guides, and procedures. Items marked with
 
 # Completed Tasks
 
+-   [x] Add the new booking system onto the WU-Psychology-Technician Website 
 -   [x] Add appropriate University branding to the Psych-Tech Website
     (01-2026)
 -   [x] Add appropriate functionality to the website (01-2026)
