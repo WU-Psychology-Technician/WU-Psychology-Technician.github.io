@@ -39,7 +39,7 @@ This section is straightforward. Add the necessary basic details such as
 
     -   MSc Psychology (Conversion)
 
--   Your supervisor's name - (You will have to search for their name).
+-   Your supervisor's name - (You will have to search for their name in the system. Nonetheless, you should know their name as you will have had meetings beforehand).
 
 -   Supervisor's Faculty - **Faculty of Social and Life Sciences**.\
 
@@ -62,17 +62,8 @@ Another straightforward section — this should simply be a **“no.”**
 Another straightforward section — this should simply be a **“no.”** However, students would only need **External Approval** if their research involves an organisation, setting, or participant group **outside the University**, where that organisation has its *own* ethics or permission procedures. Examples include:
 
 -   **Schools or Colleges** — Many schools require their own safeguarding and research approval before any contact with pupils or staff.
-
-<!-- -->
-
 -   **NHS settings** — Any research involving patients, staff, data, or premises within the NHS requires approval through the Health Research Authority (HRA).
-
-<!-- -->
-
 -   **Charities, workplaces, or community organisations** — If you intend to recruit participants or collect data through an external organisation, they may have internal research governance processes you must follow.
-
-<!-- -->
-
 -   **Private companies or clinical services** — Some services (e.g., counselling agencies, private clinics) require written permission or internal ethical review.
 
 In short, a student needs **External Approval** whenever another organisation acts as a gatekeeper to participants, data, or locations, and that organisation insists on its own permission procedure.
@@ -114,7 +105,47 @@ You do *not* need to guarantee outcomes—simply outline the possible positive c
 
 If you are requesting permission to access an individual or a group of potential research participants through an external organisation, you **must select “Yes”** for this question. This applies whenever an organisation, gatekeeper, or authorised person is required to grant you access.
 
-Please also speak with your supervisor, as some organisations are classed as **higher‑risk** for ethical review. These may require additional scrutiny, longer approval times, or further documentation before your application can be approved.
+-   Examples:
+
+    -   LinkedIn Groups (Unless they have a post saying they are open to posts, however you must supply in the ethics application evidence of this via screenshot)
+
+    -   Facebook Groups
+
+    -   Reddit Forums
+
+    -   External Communities
+
+Gatekeeper approval is **not normally required** when recruiting via:
+
+-   Open university-approved recruitment systems (e.g. participant pools)
+
+-   Your own personal social media **without targeting a specific group**
+
+-   Fully open public spaces where no permission is required and no moderation exists
+
+**Evidence -** Later you will need to show this evidence of approval/permission by the gatekeeper. This can be:
+
+-   Email or written confirmation from a gatekeeper or administrator
+
+<!-- -->
+
+-   A screenshot of group rules explicitly allowing research recruitment
+
+<!-- -->
+
+-   A message confirming permission to post recruitment materials
+
+**Common Mistakes -** Some pitfalls to avoid so you don't get rejected in your application process.
+
+-   Assuming “public” means “permission not needed”
+
+-   Posting without moderator approval
+
+-   Failing to upload screenshots or written evidence
+
+-   Treating online communities differently from physical organisations
+
+If in doubt, assume approval **is required** and seek clarification. Please also speak with your supervisor, as some organisations are classed as **higher‑risk** (i.e. NHS, Schools, Prisons) for ethical review. These may require additional scrutiny, longer approval times, or further documentation before your application can be approved. Essentially, if someone controls access to your pool of participants you wish to collect, they are the gatekeeper. Thus, you need to declare the gatekeeper and then provide the evidence of approval.
 
 ## *2-3-Risk*
 
@@ -294,12 +325,12 @@ This should hopefully be **None of the Above**.
 
 This section should comprise of the necessary documents that. For this section please try to add all the necessary documents:
 
-- Advert
-- Participant Information Sheet
-- Consent Form
-- Experimental Materials (if quantitative experiment)
-- Psychometric Scales (If quantitative survey)
-- Interview schedule (if qualitative interview)
-- Risk Assessment (if conducting face-to-face/on university grounds)
-- Data Management Plan
-- Debrief
+-   Advert
+-   Participant Information Sheet
+-   Consent Form
+-   Experimental Materials (if quantitative experiment)
+-   Psychometric Scales (If quantitative survey)
+-   Interview schedule (if qualitative interview)
+-   Risk Assessment (if conducting face-to-face/on university grounds)
+-   Data Management Plan
+-   Debrief

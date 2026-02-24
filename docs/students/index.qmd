@@ -3,27 +3,22 @@ title: "Dissertation Students"
 format: html
 ---
 
-Even if you are not a dissertation student at Wrexham University, this place is a good start to understand what resources, support, and options you have for your dissertation project.  
-
-
-
-
-
+Even if you are not a dissertation student at Wrexham University, this place is a good start to understand what resources, support, and options you have for your dissertation project.
 
 ------------------------------------------------------------------------
 
 ## What We Offer
 
-::::::::: {.grid style="grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem;"}
+::::::::::::: {.grid style="grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem;"}
 :::: card
 ::: card-body
 <h3 class="card-title">
 
-[Case Studies](case-studies/index.qmd)
+[**Case Studies**](case-studies/index.qmd)
 
 </h3>
 
-<p>Learn about our previous dissertation projects and what they conducted.</p>
+<p>(<b>CURRENTLY IN-DEVELOPMENT</b>)Learn about our previous dissertation projects and what they conducted.</p>
 :::
 ::::
 
@@ -31,11 +26,11 @@ Even if you are not a dissertation student at Wrexham University, this place is 
 ::: card-body
 <h3 class="card-title">
 
-[SONA - Recruitment Page](Students/SONA/index.qmd)
+[**SONA - Recruitment Page**](Students/SONA/index.qmd)
 
 </h3>
 
-<p>Learn what you can do on this page to get as many participants as possible for your dissertation project in your final year.</p>
+<p>(<b>CURRENTLY IN-DEVELOPMENT</b>). Learn what you can do on this page to get as many participants as possible for your dissertation project in your final year.</p>
 :::
 ::::
 
@@ -43,26 +38,37 @@ Even if you are not a dissertation student at Wrexham University, this place is 
 ::: card-body
 <h3 class="card-title">
 
-[Support](About/index.qmd)
+[**Support**](https://outlook.office.com/book/PsychTechWrexham@MAILGLYNDWRAC.onmicrosoft.com/?ismsaljsauthenabled)
 
 </h3>
 
-<p>Meet the technicians, book time with us, and discover how we can help with your final year dissertation project and other modules.</p>
+<p>Meet the technicians, [book time with us](https://outlook.office.com/book/PsychTechWrexham@MAILGLYNDWRAC.onmicrosoft.com/?ismsaljsauthenabled), and discover how we can help with your final year dissertation project and other modules.</p>
 :::
 ::::
-:::::::::
+
+:::: card
+::: card-body
+<h3 class="card-title">
+
+[**General Ethics Guide**](ethics/index.qmd)
+
+</h3>
+
+<p>Read this document to understand the ethical standards you must abide for your dissertation project</p>
+:::
+::::
+
+:::: card
+::: card-body
+<h3 class="card-title">
+
+[**Online Ethics Guide**](vidatum-academic/index.qmd)
+
+</h3>
+
+<p>Read this document to understand how to tackle each section of the online ethics application for your dissertation project.</p>
+:::
+::::
+:::::::::::::
 
 ------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-
-

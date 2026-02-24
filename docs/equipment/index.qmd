@@ -5,6 +5,12 @@ date-format: "DD-MM-YYYY"
 editor: 
   markdown: 
     wrap: 72
+format:
+  html:
+    theme: flatly
+    toc: false
+execute:
+  freeze: true
 ---
 
 # Equipment and Facilities
@@ -13,6 +19,12 @@ The Psychology Department at Wrexham University has a wide range of
 specialist equipment to support teaching, research, and student
 projects. Our technicians provide training, setup, and ongoing support
 to ensure equipment is used safely and effectively.
+
+| Colour   | Status      | Meaning                            |
+|----------|-------------|------------------------------------|
+| 🟢 Green | Available   | Fully operational, bookable        |
+| 🟠 Amber | Limited     | Partial availability / minor issue |
+| 🔴 Red   | Unavailable | Maintenance, fault, or closed      |
 
 ------------------------------------------------------------------------
 
@@ -51,6 +63,21 @@ to ensure equipment is used safely and effectively.
     Digital cameras, microphones, and editing tools for experimental
     recording, behavioural coding, and presentation material.
 
+| Resource              | Status         | Notes                     |
+|-----------------------|----------------|---------------------------|
+| BioPac System         | 🔴 Unavailable | Under maintenance         |
+| VR Equipment          | 🟠 Limited     | Under maintenance         |
+| EDA Equipment         | 🟢 Available   | Fully operational         |
+| BioRadio              | 🟢 Available   | Fully operational         |
+| CANTAB                | 🟠 Limited     | Under maintenance         |
+| Olympus Recorders     | 🟠 Limited     | Purchase request ongoing. |
+| Tobii Pro Spark       | 🟢 Available   | Fully operational         |
+| Experimental Cubicles | 🟢 Available   | Fully Operational         |
+
+*Status reflects the most recent known condition.\
+If availability is critical, please confirm with the Psychology
+Technician team before use.*
+
 ------------------------------------------------------------------------
 
 ## Specialist Skills
@@ -86,6 +113,37 @@ training
     Implementing motion capture systems to study movement, behavior, and
     interaction in both research and applied contexts, bringing realism
     and precision into immersive simulations. ---
+
+# Facilities 
+
+## Centre of the Child 
+
+The Centre of the Child has allowed us to use their facilities to be
+able conduct observational studies with the children within the play
+areas. Interested dissertation student's can use this available facility
+for their project's. Please book a [*technical meeting*]{.underline} via
+the [booking
+system](https://outlook.office.com/book/PsychTechWrexham@MAILGLYNDWRAC.onmicrosoft.com/?ismsaljsauthenabled)
+for more information.
+
+## Flight Simulator 
+
+Our engineering department has a flight simulator where the psychology
+department obtains permission for both teaching and research purposes.
+Interested dissertation student's can use this available facility for
+their project's. Please book a *technical meeting* via the [booking
+system](https://outlook.office.com/book/PsychTechWrexham@MAILGLYNDWRAC.onmicrosoft.com/?ismsaljsauthenabled)
+for more information.
+
+## Immersive Technologies - HEIQ Building 
+
+The HEIQ Building comprises of several different immersive technologies
+at disposal. In essence, this building allows for dissertation student's
+to be able to conduct VR-based dissertations for their undergratuate /
+postgraduate projects. Please book a *technical meeting* via the
+[booking
+system](https://outlook.office.com/book/PsychTechWrexham@MAILGLYNDWRAC.onmicrosoft.com/?ismsaljsauthenabled)
+for more information.
 
 ## Booking and Training
 

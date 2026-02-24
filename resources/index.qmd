@@ -74,7 +74,20 @@ Our Psychology Technicians use advanced virtual reality tools to help students d
 ## Training and Learning
 
 -   **[GitHub](https://github.com/) / [GitLab](https://about.gitlab.com/)**
-    Collaborative platforms for version control and code sharing. Essential for research teams practicing open science.
+    Collaborative platforms for version control and code sharing. Essential for research teams practicing appropriate standards followed by the open science framework.
+
+
+
+------------------------------------------------------------------------
+
+
+## External Resources 
+
+
+- Centre for the Child
+- Flight Simulator 
+- K Block Rooms 
+- 
 
 ------------------------------------------------------------------------
 

@@ -294,10 +294,21 @@ window.Quarto = {
     <a class="nav-link" href="../about/index.html"> 
 <span class="menu-text">About</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../equipment/index.html"> 
-<span class="menu-text">Equipment</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-equipment" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Equipment</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-equipment">    
+        <li>
+    <a class="dropdown-item" href="../equipment/index.html">
+ <span class="dropdown-text">Main Equipment Page</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="../equipment/index-2.html">
+ <span class="dropdown-text">Lab Targets - Equipment</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-students" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Students</span>
@@ -309,11 +320,11 @@ window.Quarto = {
   </li>  
         <li>
     <a class="dropdown-item" href="../students/case-studies/index.html">
- <span class="dropdown-text">Case Studies</span></a>
+ <span class="dropdown-text">Case Studies (In Development)</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../students/sona/index.html">
- <span class="dropdown-text">SONA (In Development)</span></a>
+    <a class="dropdown-item" href="../students/H&amp;s/index.qmd">
+ <span class="dropdown-text">Risk Assessments</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../students/ethics/index.html">
@@ -346,6 +357,14 @@ window.Quarto = {
     <a class="dropdown-item" href="../resources/index4.html">
  <span class="dropdown-text">Coding Repository</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="../resources/index5.html">
+ <span class="dropdown-text">Immersive Applications</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../resources/index6.html">
+ <span class="dropdown-text">AI Tools</span></a>
+  </li>  
     </ul>
   </li>
   <li class="nav-item dropdown ">
@@ -368,28 +387,63 @@ window.Quarto = {
     </ul>
   </li>
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-osf" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">OSF</span>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-platforms" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Platforms</span>
     </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-osf">    
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-platforms">    
         <li>
-    <a class="dropdown-item" href="https://github.com/WU-Psychology-Technician">
- <span class="dropdown-text">GitHub</span></a>
+    <a class="dropdown-item" href="../platforms/index.html">
+ <span class="dropdown-text">Main Platforms Page</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="https://app.gorilla.sc/openmaterials/1112705">
  <span class="dropdown-text">Gorilla.sc Open</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../rm/index.html">
+    <a class="dropdown-item" href="../platforms/sona/index.html">
+ <span class="dropdown-text">SONA (In-development)</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../platforms/panopto.html">
+ <span class="dropdown-text">Panopto</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../platforms/jisc.html">
+ <span class="dropdown-text">JISC</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://github.com/WU-Psychology-Technician">
+ <span class="dropdown-text">GitHub</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-data-science" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Data Science</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-data-science">    
+        <li>
+    <a class="dropdown-item" href="../data-science/index.html">
+ <span class="dropdown-text">Main Data Science page</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../data-science/index5.html">
+ <span class="dropdown-text">Mathematical Prerequisites</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../data-science/index-4.html">
+ <span class="dropdown-text">Probability</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../data-science/index-2.html">
+ <span class="dropdown-text">Statistics</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../data-science/index-3.html">
  <span class="dropdown-text">Research Methods</span></a>
   </li>  
     </ul>
   </li>
-  <li class="nav-item">
-    <a class="nav-link" href="../contact/index.html"> 
-<span class="menu-text">Contact</span></a>
-  </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-news" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">News</span>
@@ -403,8 +457,16 @@ window.Quarto = {
     <a class="dropdown-item" href="../updates/tasks.html">
  <span class="dropdown-text">Current Technician Tasks</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="../updates/FAQ.html">
+ <span class="dropdown-text">FAQ</span></a>
+  </li>  
     </ul>
   </li>
+  <li class="nav-item">
+    <a class="nav-link" href="../contact/index.html"> 
+<span class="menu-text">Contact</span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -422,8 +484,14 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#tasks" id="toc-tasks" class="nav-link active" data-scroll-target="#tasks">Tasks</a></li>
+  <li><a href="#tasks" id="toc-tasks" class="nav-link active" data-scroll-target="#tasks">Tasks</a>
+  <ul class="collapse">
+  <li><a href="#ongoing-tasks" id="toc-ongoing-tasks" class="nav-link" data-scroll-target="#ongoing-tasks">Ongoing Tasks</a></li>
+  <li><a href="#website-tasks" id="toc-website-tasks" class="nav-link" data-scroll-target="#website-tasks"><strong>Website Tasks</strong></a></li>
+  <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section"></a></li>
+  </ul></li>
   <li><a href="#completed-tasks" id="toc-completed-tasks" class="nav-link" data-scroll-target="#completed-tasks">Completed Tasks</a></li>
+  <li><a href="#removed-ideas" id="toc-removed-ideas" class="nav-link" data-scroll-target="#removed-ideas">Removed Ideas</a></li>
   </ul>
 </nav>
     </div>
@@ -479,88 +547,237 @@ window.Quarto = {
 <p>This roadmap tracks the development of the Psychology Technician Website and Ecosystem of resources, guides, and procedures. Items marked with <code>[x]</code> are completed.</p>
 </div>
 </div>
-<ul class="task-list">
-<li><p><label><input type="checkbox">Add Clawdbot into Automation Stream of ideas?</label></p></li>
-<li><p><label><input type="checkbox">Add Risk Assessment’s List</label></p></li>
-<li><p><label><input type="checkbox">Add integrators to PowerAutomate + Microsoft Bookings for possible automation.</label></p></li>
-<li><p><label><input type="checkbox">Complete an Asset Managment Register / Inventory Checklist / Future equipment proposals.</label></p></li>
-<li><p><label><input type="checkbox">Create a Feedback section in the Booking System in Microsoft Forms</label></p></li>
-<li><p><label><input type="checkbox">Add new gorilla.sc link into the Open Materials Section.</label></p></li>
-<li><p><label><input type="checkbox">Add a Frequently Asked Questions section in the Student section.</label></p></li>
-<li><p><label><input type="checkbox">Add a Maintenance banner that activates on specific dates.</label></p></li>
-<li><p><label><input type="checkbox"><strong>Add an Immersive Tools section</strong> - Create a section with all the necessary details for Immersive reality - Links to the tools used and discussed in the videos and podcasts:</label></p>
-<ul class="task-list">
-<li><p><label><input type="checkbox">NotebookLM: https://notebooklm.google/ - a research and note-taking application from Google.</label></p></li>
-<li><p><label><input type="checkbox">Horizon Workrooms are being removed. Maybe create an Experiment version of it?</label></p></li>
-<li><p><label><input type="checkbox">ShapesXR - A good way to teach student’s how to create on MetaQuest? How do I implement it with Unity Experimental Framework?</label></p></li>
-<li><p><label><input type="checkbox">MetaSteps - Another no-code creation for VR.</label></p></li>
-<li><p><label><input type="checkbox">Create a Immersive version of the lab?</label></p></li>
-</ul></li>
-<li><p><label><input type="checkbox"><strong>Create an AI section</strong> All the relevant AI tools for students, staff, researchers etc.</label></p>
+<section id="ongoing-tasks" class="level2">
+<h2 class="anchored" data-anchor-id="ongoing-tasks">Ongoing Tasks</h2>
 <ul>
-<li><p><label><input type="checkbox">3DVista: https://www.3dvista.com/en/ - a 360-degree immersive creation platform for tours and simulations -</label></p></li>
-<li><p><label><input type="checkbox">ElevenLabs: https://elevenlabs.io/ - an AI Voice platform (AI music, sound effects, podcasts etc.)</label></p></li>
-<li><p><label><input type="checkbox">Google Vids: https://workspace.google.com/ - an AI-supported video and presentation creation program (only supported on some paid Google plans)</label></p></li>
-<li><p><label><input type="checkbox"><a href="https://suno.com/home" class="uri">https://suno.com/home</a></label></p></li>
-<li><p>[ ]</p></li>
+<li><p><strong>Update Immersive Applications section</strong> (Find more)</p>
+<ul>
+<li>Horizon Workrooms are being removed. Maybe create an Experiment version of it?</li>
+<li>ShapesXR - A good way to teach student’s how to create on MetaQuest? How do I implement it with Unity Experimental Framework?</li>
+<li>MetaSteps - Another no-code creation for VR.</li>
+<li>Create a Immersive version of the lab?</li>
+<li><strong>Establish Immersive Resources</strong>: Collaborate with the Immersive Team with resources and online stuff.</li>
+<li>XSens <strong>Update AI Section</strong></li>
 </ul></li>
-<li><p><label><input type="checkbox"><strong>Add GitHub Repositories</strong> of interest and add them into a compendium list onto the Technician Website. Then categorise them for Subject of interest. - Biological Psychology: https://github.com/rasmusab/drinkr (Influence of Alcohol) + https://github.com/rasmusab/iba-cocktails - Cognitive Psychology: https://github.com/rasmusab/bitsy-maze-generator (Cog Task) - https://github.com/AnshKathpal/Kinder-Counselor-Chatbot -</label></p></li>
-<li><p><label><input type="checkbox"><strong>Visitor Metrics</strong>: Add site visit interactivity to view website traffic statistics.</label></p></li>
-<li><p><label><input type="checkbox"><strong>Ethics Application “Common Pitfalls”</strong>: A list of the top 5 reasons the Ethics Committee sends applications back, with “Correct vs.&nbsp;Incorrect” examples.</label></p></li>
-<li><p><label><input type="checkbox"><strong>Comprehensive Equipment List</strong>: Expand website catalog (e.g., Neural Network resources).</label></p></li>
-<li><p><label><input type="checkbox"><strong>Section Completion</strong>:&nbsp; - [ ] Available Studies&nbsp; - [ ] Researcher Requirements&nbsp; - [ ] Coding Repository&nbsp;</label></p></li>
-<li><p><label><input type="checkbox"><strong>Administrative Automation</strong>: Identify and implement ways to automate departmental administrative tasks.&nbsp;</label></p></li>
-<li><p><label><input type="checkbox"><strong>KTANE</strong>: Add details into equipment catalog.</label></p></li>
-<li><p><label><input type="checkbox"><strong>Health &amp; Safety Training</strong>: Add H&amp;S Training list for Students, Staff, and Technicians.</label></p></li>
-<li><p><label><input type="checkbox"><strong>Risk Assessments</strong>: Add downloadable Risk Assessments for both Students and Staff.</label></p></li>
-<li><p><label><input type="checkbox"><strong>GitHub Expansion</strong>: Add more code and scripts to the GitHub Repository.</label></p></li>
-<li><p><label><input type="checkbox"><strong>Language Transition</strong>: Develop R, Python, and Julia scripts to replace SPSS in the department.&nbsp;</label></p></li>
-<li><p><label><input type="checkbox"><strong>Hormone Data Acquisition</strong>: Establish neuroendocrinological procedures for the department.</label></p></li>
-<li><p><label><input type="checkbox"><strong>Online Textbook</strong>: Establish web-based resource for Research Method modules.</label></p></li>
-<li><p><label><input type="checkbox"><strong>SONA System</strong>: Establish SONA for recruitment within the department.</label></p></li>
-<li><p><label><input type="checkbox"><strong>Tobii EyeTracker</strong>: Establish Risk Assessments, H&amp;S Procedures, and open PsychoPy Case Studies.</label></p></li>
-<li><p><label><input type="checkbox"><strong>Online Programme Support</strong>: Create a Psychology Technician Page specifically for the Online Programme.&nbsp;</label></p></li>
-<li><p><label><input type="checkbox"><strong>Hardware Acquisition</strong>: Acquiesce Meta VR Headsets (Target internal grants upon release).</label></p></li>
-<li><p><label><input type="checkbox"><strong>Scheduling</strong>: Add Microsoft Booking onto the Wrexham Technician Page.</label></p></li>
-<li><p><label><input type="checkbox"><strong>Technician Chat Bot</strong>: Implement a GPT-based bot to assist with queries beyond basic FAQs.</label></p></li>
-<li><p><label><input type="checkbox"><strong>FAQ Section</strong>: Add a specific FAQ bot and section to the technical page.</label></p></li>
-<li><p><label><input type="checkbox"><strong>Laboratory Induction</strong>: Create a Laboratory Induction Module for users.</label></p></li>
-<li><p><label><input type="checkbox"><strong>Equipment Deadlines</strong>: Create separate equipment deadlines for Undergraduates and Postgraduates.</label></p></li>
-<li><p><label><input type="checkbox"><strong>Traffic Light Dashboard</strong>: Show real-time availability/maintenance status for labs and equipment.</label></p></li>
-<li><p><label><input type="checkbox"><strong>OSF &amp; Version Control</strong>: Develop a guide for integrating projects with OSF and GitHub.</label></p></li>
-<li><p><label><input type="checkbox"><strong>Preregistration</strong>: Add a guide on why it matters and how to execute it on OSF.</label></p></li>
-<li><p><label><input type="checkbox"><strong>Data Management Plans</strong>: Guidance on secure storage of sensitive data on university servers.</label></p></li>
-<li><p><label><input type="checkbox"><strong>Coding Snippets</strong>: A “Cookbook” of R/Python code for cleaning eye-tracker data, counterbalancing, etc.</label></p></li>
-<li><p><label><input type="checkbox"><strong>Interactive Demo Experiments</strong>: Embed mini-experiments using JavaScript or Gorilla iframes.</label></p></li>
-<li><p><label><input type="checkbox"><strong>Virtual Tour</strong>: Implement a photo-slider or 360° image of the Psychology labs.</label></p></li>
-<li><p><label><input type="checkbox"><strong>Technician “Blog” / News</strong>: A section for highlighting new equipment and software updates.</label></p></li>
-<li><p><label><input type="checkbox"><strong>SOPs (Standard Operating Procedures)</strong>: Short, bulleted guides (e.g., sanitizing VR headsets, applying EEG gel).</label></p></li>
-<li><p><label><input type="checkbox"><strong>Staff “WANT” List</strong>: Add a section for staff to suggest equipment. - Add FNRIS into the equipment list. - Add EEG into the equipment list</label></p></li>
-<li><p><label><input type="checkbox"><strong>Add friendly AI</strong>: Create a GPT for answering module specific questions.</label></p></li>
-<li><p><label><input type="checkbox"><strong>Statistics Flowchart</strong>: An interactive/visual guide for choosing the correct statistical test.</label></p></li>
-<li><p><label><input type="checkbox"><strong>Poster Printing Guide</strong>: Dimensions, templates, and instructions for final year posters.</label></p></li>
-<li><p><label><input type="checkbox"><strong>Grant Support Section</strong>: Technical specifications for equipment to be used in grant applications.</label></p></li>
-<li><p><label><input type="checkbox" checked=""><strong>Open Materials</strong>: Add Gorilla.sc experiments into the open materials section.</label></p></li>
-<li><p><label><input type="checkbox"><strong>Search Optimizations</strong>: Add keywords to metadata on every page for internal site search. - Add this to the ethics guides - Add this to the H&amp;S Guides - Add this to the Risk Assessments Guides</label></p></li>
+<li><p><strong>Update AI Tools sections</strong></p>
+<ul>
+<li>NotebookLM: https://notebooklm.google/ - a research and note-taking application from Google.</li>
+</ul></li>
+<li><p><strong>Update</strong> / <strong>Improve data science section</strong></p>
+<ul>
+<li>Use some references from here and PhD work –&gt; <a href="https://teachpsych.org/E-xcellence-in-Teaching-Blog" class="uri">https://teachpsych.org/E-xcellence-in-Teaching-Blog</a></li>
+</ul></li>
+<li><p><strong>Update Risk Assessments section</strong></p>
+<ul>
+<li><p>Add necessary links for new SOPS + Equipment</p>
+<ul>
+<li>Add when EEG is acquiesced –&gt; <a href="https://eeg100.org/">ttps://eeg100.org/</a></li>
+</ul></li>
+<li><p><strong>SOPs (Standard Operating Procedures)</strong>: Short, bulleted guides (e.g., sanitizing VR headsets, applying EEG gel).</p></li>
+</ul></li>
 </ul>
-<p><strong>Summer Tasks</strong></p>
-<ul class="task-list">
-<li><p><label><input type="checkbox"><strong>VR Lounge</strong>: Create a Virtual Reality Space featuring several psychology experiments.</label></p></li>
-<li><p><label><input type="checkbox"><strong>Establish Immersive Resources</strong>: Collaborate with the Immersive Team with resources and online stuff.</label></p></li>
+</section>
+<section id="website-tasks" class="level2">
+<h2 class="anchored" data-anchor-id="website-tasks"><strong>Website Tasks</strong></h2>
+<ul>
+<li>Fix Traffic Light System Dark Mode Functionality in Equipment Page</li>
+<li>Create a GitHub Repository with all the data-sets that Technicians will use for Teaching for R, Python and SPSS examples.
+<ul>
+<li>Where to find open data sets
+<ul>
+<li>Kaggle</li>
+<li>Data.gov.uk</li>
+<li>awesomedata/awesome-public-datasets</li>
+<li>World Bank Open Data</li>
+</ul></li>
+<li>From Data-Cleaning</li>
+<li>From Statistical Modelling</li>
+</ul></li>
+<li>Create a Feedback section in the Booking System in Microsoft Forms</li>
+<li>Add Risk Assessment’s table into Student Section.</li>
+<li>Add a Frequently Asked Questions section in the Student section.</li>
+<li>Create and Add a Maintenance banner that activates on specific dates instead of using the callout function.</li>
+<li><strong>Visitor Metrics</strong>: Add site visit interactivity to view website traffic statistics.</li>
+<li><strong>Update - Add ethics Application “Common Pitfalls”</strong> A specific list of reasons the Ethics Committee sends applications back. Also add a “Correct vs.&nbsp;Incorrect” examples.</li>
+<li><strong>KTANE</strong>: Add details into equipment catalog.</li>
+<li><strong>Comprehensive Equipment List</strong>: Expand website catalog (e.g., Neural Network resources).</li>
+<li><strong>Complete these sections</strong>: Available Studies, Researcher Requirements, Coding Repository</li>
+<li><strong>Online Textbook</strong>: Establish web-based resource for Research Method modules.
+<ul>
+<li>Focused around Data Science &amp; Research Methods in Psychology</li>
+</ul></li>
+<li><strong>Tobii EyeTracker</strong>: Establish Risk Assessments, H&amp;S Procedures, and open PsychoPy Case Studies.</li>
+<li><strong>Technician Chat Bot</strong>: Implement a GPT-based bot to assist with queries beyond basic FAQs.</li>
+<li><strong>Virtual Tour</strong>: Implement a photo-slider or 360° image of the Psychology labs.</li>
+<li><strong>OSF &amp; Version Control</strong>: Develop a guide for integrating projects with OSF and GitHub.</li>
+<li><strong>Search Optimizations</strong>: Add keywords to metadata on every page for internal site search. - Add this to the ethics guides - Add this to the H&amp;S Guides - Add this to the Risk Assessments Guides</li>
+<li><strong>FAQ Section</strong>: Add a specific FAQ bot and section to the technical page.</li>
+<li><strong>Preregistration</strong>: Add a guide on why it matters and how to execute it on OSF.</li>
+<li><strong>Data Management Plans</strong>: Guidance on secure storage of sensitive data on university servers in the Ethics section.</li>
+<li><strong>Coding Snippets</strong>: A “Cookbook” of R/Python code for cleaning eye-tracker data, counterbalancing, etc.</li>
+<li><strong>Interactive Demo Experiments</strong>: Embed mini-experiments using JavaScript or Gorilla iframes.</li>
+<li><strong>Add friendly AI</strong>: Create a GPT for answering module specific questions.</li>
+<li><strong>Statistics Flowchart</strong>: An interactive/visual guide for choosing the correct statistical test. Take from Statistical Theory &amp; A Student’s guide to Bayesian Statistics. Create a tree node.</li>
+<li><strong>Poster Printing Guide</strong>: Dimensions, templates, and instructions for final year posters.</li>
+<li>Add a Docker for helping students to run R code in small cloud environments. (Long-term task)</li>
 </ul>
-<hr>
+<p><u><strong>Automation</strong></u></p>
+<ul>
+<li>Figure out how to use free AI models from Claude AI for Claude Code and Claude MCP with N8N MCP.</li>
+<li>Add Clawdbot into Automation Stream of ideas?</li>
+<li>Add integrators to PowerAutomate + Microsoft Bookings for possible automation.</li>
+<li><strong>Administrative Automation</strong>: Identify and implement ways to automate departmental administrative tasks.
+<ul>
+<li>Use n8n? Possible new alternatives other than PowerAutomate?</li>
+</ul></li>
+<li>Add <strong>Risk Assessments</strong>: Add downloadable Risk Assessments for both Students and Staff.</li>
+<li>Complete an Asset Management Register / Inventory Checklist / Future equipment proposals.</li>
+<li><strong>Equipment Deadlines</strong>: Create separate equipment deadlines for Undergraduates and Postgraduates.</li>
+</ul>
+<p><strong>Online Programme</strong></p>
+<ul>
+<li>Create a Psychology Technician Page specifically for the Online Programme</li>
+</ul>
+<p><strong>Resources</strong></p>
+<ul>
+<li><p>Add software resources</p>
+<ul>
+<li><a href="https://www.reaper.fm/" class="uri">https://www.reaper.fm/</a></li>
+</ul></li>
+</ul>
+<p><strong>Platforms</strong></p>
+<ul>
+<li><strong>GitHub Expansion</strong>: Add more code and scripts to the GitHub Repository.
+<ul>
+<li>Complete FUKUDA Step Test (Neuro-otological test) GitHub experiment using Camera Object tracking to detect unilateral; vestibular hypofunction.</li>
+<li>Detecting Anxiety and Depression with Facial and speech emotion recognition (<a href="https://github.com/hariharitha21/Detection-of-Anxiety-and-Depression">github</a>)</li>
+<li>Utilising VR for social anxiety (<a href="https://github.com/Agora-VR/Agora-VR">github</a>)</li>
+<li>Detecting subclinical social anxiety using physiological data from a wrist worn wearable (<a href="https://github.com/rs2416/Detecting_Social_Anxiety">github</a>)</li>
+<li>Detecting real-time face and emotional recongition (<a href="https://github.com/PratikSavla/aio-bot" class="uri">https://github.com/PratikSavla/aio-bot</a>)</li>
+<li>Extract more: <a href="https://github.com/jasiek-net/awesome-psychology-projects" class="uri">https://github.com/jasiek-net/awesome-psychology-projects</a></li>
+</ul></li>
+<li>Develop R, Python, and Julia scripts to replace SPSS in the department.</li>
+</ul>
+<p><strong>New Procedures</strong></p>
+<ul>
+<li><strong>Hormone Data Acquisition</strong>: Establish neuroendocrinological procedures for the department.</li>
+<li><strong>SONA System</strong>: Establish SONA for recruitment within the department.</li>
+<li><strong>Immersive:</strong> Establish Training Procedures for available equipment within the HEIQ.</li>
+</ul>
+<p><strong>Immersive Tools</strong></p>
+<ul>
+<li><p><strong>VR Lounge</strong>: Create a Virtual Reality Space featuring several psychology experiments. The space will be a VR environment for psychology student’s to be able to understand a full scope of applications that they can use for their own experiments.</p>
+<ul>
+<li><p>Create (Cognitive) Experimental Module: <a href="https://www.youtube.com/watch?v=PDHMxMQ9jag">Astygmatism</a></p></li>
+<li><p>Create (Cognitive) Experimental Module: <a href="https://www.youtube.com/watch?v=zNYiGVfmKgI">Macular Degeneration</a></p></li>
+<li><p>Create (Cognitive) Experimental Module: <a href="https://www.youtube.com/watch?v=WoGK_Xf9cdU">Eye Shadows</a></p></li>
+<li><p>Create (Cognitive) Experimental Module: <a href="https://www.youtube.com/watch?v=9kRilVoQxgI">Visual Deficit Suite</a></p></li>
+<li><p>Create (Cognitive) Experimental Module: <a href="https://www.youtube.com/watch?v=CqNWlAJ0vH8">VR Simulation of Starbursting, halosm and ghosting after laser eye surgery</a></p></li>
+<li><p>Create (Cognitive) Experimental Module: <a href="https://www.youtube.com/watch?v=B1Bi3i-zFH4">Visual Deficits in Virtual Reality</a></p></li>
+<li><p>Create (Biological) Experimental Module: 3D VR Interactive Brain Lab</p></li>
+<li><p>Create (Social) Experimental Module: Prisoner’s Dilemma with <em>Trustful</em> AI.</p></li>
+<li><p>Create (Developmental) Experimental Module: Biological Neuro-Development Showcase</p></li>
+<li><p><strong>Laboratory Induction</strong>: Create a VR Laboratory Induction Module for users.</p></li>
+</ul></li>
+<li><p>Enhance Experimental Tasks into Experimental Repository Sections</p>
+<ul>
+<li>Add Unity Experimental Framework Guide
+<ul>
+<li>Add Trellis 2 https://github.com/microsoft/TRELLIS.2</li>
+</ul></li>
+</ul></li>
+<li><p><strong>Add GitHub Repositories</strong> of interest and add them into a compendium list onto the Technician Website. Then categorise them for Subject of interest.</p>
+<ul>
+<li>Biological Psychology: https://github.com/rasmusab/drinkr (Influence of Alcohol) + https://github.com/rasmusab/iba-cocktails</li>
+<li>Cognitive Psychology: https://github.com/rasmusab/bitsy-maze-generator (Cog Task)</li>
+<li>https://github.com/AnshKathpal/Kinder-Counselor-Chatbot</li>
+<li><a href="https://github.com/pieeg-club/EEGwithRaspberryPI" class="uri">https://github.com/pieeg-club/EEGwithRaspberryPI</a></li>
+<li><a href="https://mynoise.net/NoiseMachines/binauralBrainwaveGenerator.php" class="uri">https://mynoise.net/NoiseMachines/binauralBrainwaveGenerator.php</a></li>
+</ul></li>
+</ul>
+<p><strong>Equipment</strong></p>
+<ul>
+<li><p><strong>Staff “WANT” List</strong>: Add a section for staff to suggest equipment.</p>
+<ul>
+<li><p>Create the 3D EyeTrackers.</p>
+<ul>
+<li><a href="https://github.com/JEOresearch/EyeTracker/tree/main" class="uri">https://github.com/JEOresearch/EyeTracker/tree/main</a></li>
+</ul></li>
+<li><p>Add FNRIS into the equipment list.</p></li>
+<li><p>Add EEG into the equipment list</p></li>
+<li><p>Add Meta VR Headsets (Target internal grants upon release).</p></li>
+<li><p>Create low-cost FNRIS</p>
+<ul>
+<li>del Angel Arrieta, F., Cisneros, M. R., Rivas, J. J., Castrejón, L. R., Sucar, L. E., Andreu-Perez, J., &amp; Orihuela-Espina, F. (2021, November). Characterization of a Raspberry Pi as the core for a low-cost multimodal EEG-fNIRS platform. In&nbsp;<em>2021 43rd Annual International Conference of the IEEE Engineering in Medicine &amp; Biology Society (EMBC)</em>&nbsp;(pp.&nbsp;1288-1291). IEEE.</li>
+</ul></li>
+</ul></li>
+</ul>
+<p><strong>Biological Psychology</strong></p>
+<ul>
+<li>Add some components from Neuroscience to improve <strong>bio-psychology</strong> <strong>content.</strong></li>
+</ul>
+<p><strong>Miscellaneous</strong></p>
+<ul>
+<li><p>Try to find out ways to use Rasperry Pi for Psychology, Automation, or for teaching.</p>
+<ul>
+<li><p>Jolles, J. W. (2021). Broad‐scale applications of the Raspberry Pi: A review and guide for biologists.&nbsp;<em>Methods in Ecology and Evolution</em>,&nbsp;<em>12</em>(9), 1562-1579.</p></li>
+<li><p>Mathe, S. E., Kondaveeti, H. K., Vappangi, S., Vanambathina, S. D., &amp; Kumaravelu, N. K. (2024). A comprehensive review on applications of Raspberry Pi.&nbsp;<em>Computer Science Review</em>,&nbsp;<em>52</em>,</p>
+<ol start="100636" type="1">
+<li></li>
+</ol></li>
+<li><p><a href="https://www.raspberrypi.org/blog/grounded-cognition/" class="uri">https://www.raspberrypi.org/blog/grounded-cognition/</a></p></li>
+<li><p><a href="https://www.biorxiv.org/content/10.1101/807693v1.full.pdf" class="uri">https://www.biorxiv.org/content/10.1101/807693v1.full.pdf</a></p></li>
+<li><p><a href="https://forums.raspberrypi.com/viewtopic.php?t=83037" class="uri">https://forums.raspberrypi.com/viewtopic.php?t=83037</a></p></li>
+<li><p><a href="https://brendg.co.uk/2021/07/26/creating-a-mood-detector-using-lobe-and-a-raspberry-pi/" class="uri">https://brendg.co.uk/2021/07/26/creating-a-mood-detector-using-lobe-and-a-raspberry-pi/</a></p></li>
+<li><p><a href="https://www.bps.org.uk/psychologist/why-do-we-need-psychology-and-what-does-psychology-need" class="uri">https://www.bps.org.uk/psychologist/why-do-we-need-psychology-and-what-does-psychology-need</a></p></li>
+<li><p><a href="https://www.britishecologicalsociety.org/raspberry-pi-computers-are-helping-revolutionize-biological-research/" class="uri">https://www.britishecologicalsociety.org/raspberry-pi-computers-are-helping-revolutionize-biological-research/</a></p></li>
+</ul></li>
+</ul>
+</section>
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section"></h2>
 <p>[INSERT REMAINING TASKS FROM LOCAL REPOSITORIES IN HERE]</p>
+</section>
 </section>
 <section id="completed-tasks" class="level1">
 <h1>Completed Tasks</h1>
 <ul class="task-list">
-<li><label><input type="checkbox" checked="">Add the new booking system onto the WU-Psychology-Technician Website</label></li>
+<li><label><input type="checkbox" checked=""><strong>Create an AI section</strong> All the relevant AI tools for students, staff, researchers etc. (02/2026)</label></li>
+<li><label><input type="checkbox" checked=""><strong>Add an Immersive Tools section</strong> (02/2026)</label></li>
+<li><label><input type="checkbox" checked=""><strong>Add Risk Assessment - H&amp;S - SOPs Section</strong> (02/2026)</label></li>
+<li><label><input type="checkbox" checked=""><strong>Traffic Light Dashboard</strong>: Show real-time availability/maintenance status for labs and equipment. (02/2026)</label></li>
+<li><label><input type="checkbox" checked="">Create a URL to the Technician Space. Then place it on the noticeboard in front of K115. (02/2026)</label></li>
+<li><label><input type="checkbox" checked=""><strong>Technician News</strong>. (02/2026)</label></li>
+<li><label><input type="checkbox" checked=""><strong>Scheduling</strong>: Add Microsoft Booking onto the Wrexham Technician Page (02/2026)</label></li>
+<li><label><input type="checkbox" checked="">Add new gorilla.sc link into the Open Materials Section. (02/2026)</label></li>
+<li><label><input type="checkbox" checked=""><strong>Open Materials</strong>: Add Gorilla.sc experiments into the open materials section.</label></li>
+<li><label><input type="checkbox" checked="">Add the new booking system onto the WU-Psychology-Technician Website (02/2026)</label></li>
 <li><label><input type="checkbox" checked="">Add appropriate University branding to the Psych-Tech Website (01-2026)</label></li>
 <li><label><input type="checkbox" checked="">Add appropriate functionality to the website (01-2026)</label></li>
 <li><label><input type="checkbox" checked="">Add 200<span class="math inline">\(\approx\)</span> Psychometric Scales to Gorilla.sc Wrexham Open Materials</label></li>
-<li><label><input type="checkbox" checked="">Add Wrexham University logo and make it interactive (01-2026)</label>
+<li><label><input type="checkbox">Add Wrexham University logo and make it interactive (01-2026)</label>
 <ul class="task-list">
 <li><label><input type="checkbox" checked="">Also add useful links as planetary orbit around logo.</label></li>
+</ul></li>
+</ul>
+</section>
+<section id="removed-ideas" class="level1">
+<h1>Removed Ideas</h1>
+<ul>
+<li><p><strong>Technician Support</strong>: Here we can book another system maybe for things that the psych staff want?</p>
+<ul>
+<li><code>span style="color:red;"&gt; No point as it is a small department. Maybe instead do it for externals or when dept expands &lt;/span&gt;</code>)</li>
+</ul></li>
+<li><p>Add <strong>Health &amp; Safety Training</strong>. Specifically, add H&amp;S Training list for Students, Staff, and Technicians.</p>
+<ul>
+<li><code>span style="color:red;"&gt; No point. Keep it in house. &lt;/span&gt;</code>)</li>
+</ul></li>
+<li><p><strong>Create a Staff Section</strong>:</p>
+<ul>
+<li><strong>Grant Support Section</strong>: Technical specifications for equipment to be used in grant applications.
+<ul>
+<li><code>span style="color:red;"&gt; No point. The website needs to be more for the student's than the staff. Therefore keep it in house. &lt;/span&gt;</code>)</li>
+</ul></li>
 </ul></li>
 </ul>
 

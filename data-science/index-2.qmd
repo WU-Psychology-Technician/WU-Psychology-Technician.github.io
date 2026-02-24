@@ -1,0 +1,36 @@
+---
+title: "Statistics"
+format: html
+---
+
+Coming soon... 
+
+
+# Statistical Inference 
+
+## Frequentist Statistics 
+
+
+## Bayesian Statistics 
+
+
+# Statistical Modelling 
+
+## Normal Linear Models
+
+$$
+ y_i \sim N(\mu_i, \sigma^2) \quad \quad \mu_i = \beta_0 + \sum^K_{k=1} \beta_k x_k
+$$
+
+```{r, warning=FALSE}
+library(psych)
+data(bfi)
+View(bfi)
+
+# Example of Simple linear regression 
+lm(education ~ age + gender, data = bfi)
+```
+
+
+
+

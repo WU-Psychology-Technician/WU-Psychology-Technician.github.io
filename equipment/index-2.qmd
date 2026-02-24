@@ -1,0 +1,105 @@
+---
+title: "Lab Targets - Equipment"
+format: html
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+A set of equipment the Psychology Technicians are keeping a track to
+obtain for improving the equipment inventory in the department.
+
+**Lab stationery**
+
+-   20 Laptops (to place in Laptop Kiosk)
+-   Flip-top Desk for K115
+-   Laptop Kiosks
+-   Fridge / Freezer
+
+**Cognitive Psychology**
+
+-   [BioSemi Active](https://www.biosemi.com/products.htm)
+
+-   <https://www.emotiv.com/>
+
+    -   [Epoc X](https://www.emotiv.com/epoc-x)
+
+-   EMG Sensors
+
+-   Cube Construction
+
+-   EyeLink 1000 Plus
+
+-   CRS LiveTrack Lightning
+
+-   HTC Vive Pro Eye (with eye-tracking capabilities)
+
+-   Neuropsychological test library
+
+**Driving Simulation Lab/Room**
+
+-   Equipment for Simulated Driving
+
+**Social Media Lab/Room**
+
+Social media laboratory has facilities for the analysis of social media
+conversations and interactions. 
+
+-   Add LLM text analysis
+
+**Qualitative Analysis Lab**
+
+-   
+
+**Centre of the Child**
+
+-   Add an Observational System for Multi-observation.
+
+    -   4 Monitors
+
+-   Add BORIS Software for recording
+
+**Psychophysiology**
+
+-   fNRIS Systems
+-   BioPac Additional Components
+-   FitBits Actigraphy devices
+-   Sleep monitoring devices
+-   Aesthesiometric Index (Two Points)
+-   <https://www.neurocaregroup.com/technology/dc-stimulator-plus>
+    -   Transcranial Alternating Current Stimulation (tACS)
+    -   Direct current stimulation (tDCS),
+    -   Galvanic Vestibular Stimulation (GVS).
+-   Magstim Transcranial Magnetic Stimulator (TMS)
+-   Advanced Thermosensory Stimulator
+-   Blood Pressure Monitors
+-   Motion Watches
+-   Lion Alcolmeter 500 Breathalyzers 
+-   Polar RS400 wristwatch and chest strap heart rate monitors
+-   CamNTech activity monitors for remote physiological monitoring
+
+**Audio Equipment**
+
+-   Olympus Recorders
+
+**Virtual Reality Resources**
+
+-   Meta Quests Headsets
+-   HTEC ViVe
+
+**Flexible-Equipment**
+
+-   Raspberry Pi units
+-   Arduino microcontrollers
+-   Motion Capture Systems
+-   Calibrated Headphones
+-   MeVo Cameras
+-   Go Pro Max 360
+-   Osmo Pocket Vlogging Cameras
+
+**Miscellaneous**
+
+-   Rorschach Test (1 unit)
+-   Black Box Toolkit & Robotic Response Key Actuator
+-   3D Scanners
+-   3D Printers

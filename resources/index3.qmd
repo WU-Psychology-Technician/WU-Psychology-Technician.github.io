@@ -10,7 +10,7 @@ Psychologists regularly use experiments to collect data about peoples cognitions
 
 However, there are a number of solutions available for conducting data collection with behavioural tasks, such as the Stroop task, Go/No-Go task, or N-back task. At Wrexham University, we predominantly use 2 solutions; Psychopy and Gorilla.
 
-Each has different strengths and weaknesses, so you should consider which system is best for your research. The video below provides a brief introduction to Gorilla.sc and PsychoPy. We have also listed various experimental tasks.
+Each has different strengths and weaknesses, so you should consider which system is best for your research. 
 
 If you have further questions, you can contact: [psychology.technician\@wrexham.ac.uk](mailto:psychology.technician@wrexham.ac.uk)
 :::

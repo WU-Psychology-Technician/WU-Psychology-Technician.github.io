@@ -21,16 +21,20 @@ website:
         href: about/index.qmd
 
       - text: "Equipment"
-        href: equipment/index.qmd
+        menu: 
+          - text: "Main Equipment Page"
+            href: equipment/index.qmd
+          - text: "Lab Targets - Equipment"
+            href: equipment/index-2.qmd
 
       - text: "Students"
         menu:
           - text: "Main Student Page"
             href: students/index.qmd
-          - text: "Case Studies"
+          - text: "Case Studies (In Development)"
             href: students/case-studies/index.qmd
-          - text: "SONA (In Development)"
-            href: students/sona/index.qmd
+          - text: "Risk Assessments"
+            href: students/H&s/index.qmd
           - text: "General Ethics Guide"
             href: students/ethics/index.qmd
           - text: "Online Ethics Application Guide"
@@ -46,6 +50,10 @@ website:
             href: resources/index3.qmd
           - text: "Coding Repository"
             href: resources/index4.qmd
+          - text: "Immersive Applications"
+            href: resources/index5.qmd
+          - text: "AI Tools"
+            href: resources/index6.qmd
 
       - text: "Recruitment"
         menu:
@@ -57,17 +65,37 @@ website:
             href: recruitment/index-3.qmd
 
 
-      - text: "OSF"
+      - text: "Platforms"
         menu:
-          - text: "GitHub"
-            href: https://github.com/WU-Psychology-Technician
+          - text: "Main Platforms Page"
+            href: platforms/index.qmd
           - text: "Gorilla.sc Open"
             href: https://app.gorilla.sc/openmaterials/1112705
-          - text: "Research Methods"
-            href: rm/index.qmd
+          - text: "SONA (In-development)"
+            href: platforms/sona/index.qmd
+          - text: "Panopto"
+            href: platforms/panopto.qmd
+          - text: "JISC"
+            href: platforms/jisc.qmd
+          - text: "GitHub"
+            href: https://github.com/WU-Psychology-Technician
+            
 
-      - text: "Contact"
-        href: contact/index.qmd
+
+
+      - text: "Data Science"
+        menu:
+          - text: "Main Data Science page"
+            href: data-science/index.qmd
+          - text: "Mathematical Prerequisites"
+            href: data-science/index5.qmd
+          - text: "Probability"
+            href: data-science/index-4.qmd
+          - text: "Statistics"
+            href: data-science/index-2.qmd
+          - text: "Research Methods"
+            href: data-science/index-3.qmd
+
 
       - text: "News"
         menu:
@@ -75,6 +103,14 @@ website:
             href: updates/index.qmd
           - text: "Current Technician Tasks"
             href: updates/tasks.qmd
+          - text: "FAQ"
+            href: updates/FAQ.qmd
+
+
+
+      - text: "Contact"
+        href: contact/index.qmd
+
 
 format:
   html:

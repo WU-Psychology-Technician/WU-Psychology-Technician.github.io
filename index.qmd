@@ -6,13 +6,13 @@ date-format: "DD-MM-YYYY"
 ---
 
 ::: callout-important
-# Website Maitenance
+# Website Maintenance
 
-The site will be getting updated over the weekend with additional content and features.
+The site will be getting periodically updated before the start of the [**academic year 2026/27**]{.underline} with additional content and features.
 :::
 
 ::: accent
-We provide technical expertise, equipment support, and resources to students and staff in the Psychology Department at Wrexham University
+We provide technical expertise, equipment support, and resources to students and staff in the Psychology Department at Wrexham University. More specifically, we provide technical advice to students, academics, and external clients for feasibility of projects and choosing appropriate equipment or methods to prevent bad study designs, unsafe setups, or unrealistic proposals *before* they happen.
 :::
 
 ------------------------------------------------------------------------
@@ -62,7 +62,7 @@ Booking Slots
 
 </h3>
 
-<p>We provide flexible meeting slots on a daily basis. Feel free to book in to discuss your technical needs. [**Click here book a meeting**](https://outlook.office.com/book/PsychTechWrexham@MAILGLYNDWRAC.onmicrosoft.com/?ismsaljsauthenabled)</p>
+<p>We provide flexible meeting slots on a daily basis. Feel free to book in to discuss your technical needs. [Click here to book a meeting with us.](https://outlook.office.com/book/PsychTechWrexham@MAILGLYNDWRAC.onmicrosoft.com/?ismsaljsauthenabled)</p>
 :::
 ::::
 
@@ -85,21 +85,23 @@ The technicians have created guides to help students complete Risk Assessments, 
 
 To find what you need, please visit the sections above:
 
--   [**About**](About/index.qmd) – learn more about our role and expertise\
+-   [**About**](About/index.qmd) – learn more about our role and expertise
 
--   [**Equipment**](Equipment/index.qmd) – discover the tools and technologies available\
+-   [**Equipment**](Equipment/index.qmd) – discover the tools and technologies available
 
--   [**Resources**](Resources/index.qmd) – access open-source and academic tools\
+-   [**Students**](Students/index.qmd) - Wrexham University Final year students can publish here under the [SONA platform](Students/SONA/index.qmd) (Currently in-development) section
 
--   [**Students**](Students/index.qmd) - Wrexham University Final year students can publish here under the [SONA platform](Students/SONA/index.qmd) section
+-   [**Resources**](Resources/index.qmd) - access open-source and academic tools
 
--   [**OSF**](OSF/index.qmd) - Open Science Framework and free open source materials provided
+-   [**Recruitment**](recruitment/index.qmd) **-** A page to host our internal and external available studies page.
 
--   [**Research Methods**](RM/index.qmd) - An upcoming OSF Teaching materials from Wrexham Universities Research Methods Modules
+-   [**Data Science**](data-science/index.qmd) - An upcoming repository of teaching materials and instructions in regards to research methods, statistics and other quantitative applications for psychology students.
 
--   [**Contact**](Contact/index.qmd) – get in touch with the Psychology Technicians team
+-   [**Platforms**](platforms/index.qmd)- All the main platforms the psychology department use for teaching and research.
 
 -   [**News**](Updates/index.qmd) - get the latest news on training and short courses provided by the department
+
+-   [**Contact**](contact/index.qmd) – get in touch with the Psychology Technicians team
 
 ------------------------------------------------------------------------
 

@@ -1,0 +1,6 @@
+---
+title: "Research Methods"
+format: html
+---
+
+These will comprise of Research Methods guides on topics from Research Methods 1, 2, 3 and 4. 

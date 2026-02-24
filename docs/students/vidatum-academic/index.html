@@ -294,10 +294,21 @@ window.Quarto = {
     <a class="nav-link" href="../../about/index.html"> 
 <span class="menu-text">About</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../equipment/index.html"> 
-<span class="menu-text">Equipment</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-equipment" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Equipment</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-equipment">    
+        <li>
+    <a class="dropdown-item" href="../../equipment/index.html">
+ <span class="dropdown-text">Main Equipment Page</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="../../equipment/index-2.html">
+ <span class="dropdown-text">Lab Targets - Equipment</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-students" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Students</span>
@@ -309,11 +320,11 @@ window.Quarto = {
   </li>  
         <li>
     <a class="dropdown-item" href="../../students/case-studies/index.html">
- <span class="dropdown-text">Case Studies</span></a>
+ <span class="dropdown-text">Case Studies (In Development)</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../students/sona/index.html">
- <span class="dropdown-text">SONA (In Development)</span></a>
+    <a class="dropdown-item" href="../../students/H&amp;s/index.qmd">
+ <span class="dropdown-text">Risk Assessments</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../../students/ethics/index.html">
@@ -346,6 +357,14 @@ window.Quarto = {
     <a class="dropdown-item" href="../../resources/index4.html">
  <span class="dropdown-text">Coding Repository</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="../../resources/index5.html">
+ <span class="dropdown-text">Immersive Applications</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../resources/index6.html">
+ <span class="dropdown-text">AI Tools</span></a>
+  </li>  
     </ul>
   </li>
   <li class="nav-item dropdown ">
@@ -368,28 +387,63 @@ window.Quarto = {
     </ul>
   </li>
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-osf" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">OSF</span>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-platforms" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Platforms</span>
     </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-osf">    
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-platforms">    
         <li>
-    <a class="dropdown-item" href="https://github.com/WU-Psychology-Technician">
- <span class="dropdown-text">GitHub</span></a>
+    <a class="dropdown-item" href="../../platforms/index.html">
+ <span class="dropdown-text">Main Platforms Page</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="https://app.gorilla.sc/openmaterials/1112705">
  <span class="dropdown-text">Gorilla.sc Open</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../rm/index.html">
+    <a class="dropdown-item" href="../../platforms/sona/index.html">
+ <span class="dropdown-text">SONA (In-development)</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../platforms/panopto.html">
+ <span class="dropdown-text">Panopto</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../platforms/jisc.html">
+ <span class="dropdown-text">JISC</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://github.com/WU-Psychology-Technician">
+ <span class="dropdown-text">GitHub</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-data-science" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Data Science</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-data-science">    
+        <li>
+    <a class="dropdown-item" href="../../data-science/index.html">
+ <span class="dropdown-text">Main Data Science page</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../data-science/index5.html">
+ <span class="dropdown-text">Mathematical Prerequisites</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../data-science/index-4.html">
+ <span class="dropdown-text">Probability</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../data-science/index-2.html">
+ <span class="dropdown-text">Statistics</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../data-science/index-3.html">
  <span class="dropdown-text">Research Methods</span></a>
   </li>  
     </ul>
   </li>
-  <li class="nav-item">
-    <a class="nav-link" href="../../contact/index.html"> 
-<span class="menu-text">Contact</span></a>
-  </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-news" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">News</span>
@@ -403,8 +457,16 @@ window.Quarto = {
     <a class="dropdown-item" href="../../updates/tasks.html">
  <span class="dropdown-text">Current Technician Tasks</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="../../updates/FAQ.html">
+ <span class="dropdown-text">FAQ</span></a>
+  </li>  
     </ul>
   </li>
+  <li class="nav-item">
+    <a class="nav-link" href="../../contact/index.html"> 
+<span class="menu-text">Contact</span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -513,7 +575,7 @@ window.Quarto = {
 <li><p>MSc Applied Psychology</p></li>
 <li><p>MSc Psychology (Conversion)</p></li>
 </ul></li>
-<li><p>Your supervisor’s name - (You will have to search for their name).</p></li>
+<li><p>Your supervisor’s name - (You will have to search for their name in the system. Nonetheless, you should know their name as you will have had meetings beforehand).</p></li>
 <li><p>Supervisor’s Faculty - <strong>Faculty of Social and Life Sciences</strong>.<br>
 </p></li>
 </ul>
@@ -536,17 +598,8 @@ window.Quarto = {
 <p>Another straightforward section — this should simply be a <strong>“no.”</strong> However, students would only need <strong>External Approval</strong> if their research involves an organisation, setting, or participant group <strong>outside the University</strong>, where that organisation has its <em>own</em> ethics or permission procedures. Examples include:</p>
 <ul>
 <li><strong>Schools or Colleges</strong> — Many schools require their own safeguarding and research approval before any contact with pupils or staff.</li>
-</ul>
-<!-- -->
-<ul>
 <li><strong>NHS settings</strong> — Any research involving patients, staff, data, or premises within the NHS requires approval through the Health Research Authority (HRA).</li>
-</ul>
-<!-- -->
-<ul>
 <li><strong>Charities, workplaces, or community organisations</strong> — If you intend to recruit participants or collect data through an external organisation, they may have internal research governance processes you must follow.</li>
-</ul>
-<!-- -->
-<ul>
 <li><strong>Private companies or clinical services</strong> — Some services (e.g., counselling agencies, private clinics) require written permission or internal ethical review.</li>
 </ul>
 <p>In short, a student needs <strong>External Approval</strong> whenever another organisation acts as a gatekeeper to participants, data, or locations, and that organisation insists on its own permission procedure.</p>
@@ -585,7 +638,41 @@ Your <strong>aim</strong> should give an overall statement of the purpose of you
 <section id="gatekeeper" class="level2">
 <h2 class="anchored" data-anchor-id="gatekeeper"><em>2-2-Gatekeeper</em></h2>
 <p>If you are requesting permission to access an individual or a group of potential research participants through an external organisation, you <strong>must select “Yes”</strong> for this question. This applies whenever an organisation, gatekeeper, or authorised person is required to grant you access.</p>
-<p>Please also speak with your supervisor, as some organisations are classed as <strong>higher‑risk</strong> for ethical review. These may require additional scrutiny, longer approval times, or further documentation before your application can be approved.</p>
+<ul>
+<li><p>Examples:</p>
+<ul>
+<li><p>LinkedIn Groups (Unless they have a post saying they are open to posts, however you must supply in the ethics application evidence of this via screenshot)</p></li>
+<li><p>Facebook Groups</p></li>
+<li><p>Reddit Forums</p></li>
+<li><p>External Communities</p></li>
+</ul></li>
+</ul>
+<p>Gatekeeper approval is <strong>not normally required</strong> when recruiting via:</p>
+<ul>
+<li><p>Open university-approved recruitment systems (e.g.&nbsp;participant pools)</p></li>
+<li><p>Your own personal social media <strong>without targeting a specific group</strong></p></li>
+<li><p>Fully open public spaces where no permission is required and no moderation exists</p></li>
+</ul>
+<p><strong>Evidence -</strong> Later you will need to show this evidence of approval/permission by the gatekeeper. This can be:</p>
+<ul>
+<li>Email or written confirmation from a gatekeeper or administrator</li>
+</ul>
+<!-- -->
+<ul>
+<li>A screenshot of group rules explicitly allowing research recruitment</li>
+</ul>
+<!-- -->
+<ul>
+<li>A message confirming permission to post recruitment materials</li>
+</ul>
+<p><strong>Common Mistakes -</strong> Some pitfalls to avoid so you don’t get rejected in your application process.</p>
+<ul>
+<li><p>Assuming “public” means “permission not needed”</p></li>
+<li><p>Posting without moderator approval</p></li>
+<li><p>Failing to upload screenshots or written evidence</p></li>
+<li><p>Treating online communities differently from physical organisations</p></li>
+</ul>
+<p>If in doubt, assume approval <strong>is required</strong> and seek clarification. Please also speak with your supervisor, as some organisations are classed as <strong>higher‑risk</strong> (i.e.&nbsp;NHS, Schools, Prisons) for ethical review. These may require additional scrutiny, longer approval times, or further documentation before your application can be approved. Essentially, if someone controls access to your pool of participants you wish to collect, they are the gatekeeper. Thus, you need to declare the gatekeeper and then provide the evidence of approval.</p>
 </section>
 <section id="risk" class="level2">
 <h2 class="anchored" data-anchor-id="risk"><em>2-3-Risk</em></h2>

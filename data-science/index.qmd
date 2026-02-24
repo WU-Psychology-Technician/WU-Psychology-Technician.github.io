@@ -1,0 +1,22 @@
+---
+title: "Data Science"
+format: html
+---
+
+# Coming soon...
+
+This section will comprise of necessary quantitative skills that psychologists should understand from data science, probability, statistics, and research methods.
+
+A psychologist primarily needs to understand the **essential toolkit** for conducting quantitative research is that of **research methods**. This essentially comprises some fundamentals from **data science**, **statistics**, and **philosophy.** Here we will primarily focus upon the **quantitative** and **inferential philsophy** of applying statistical models and rudimentary data cleaning for student's in psychology to understand how to appropriately apply their understanding of the world via statistical modelling and research methods.
+
+# Normal Linear Models
+
+# T-tests
+
+# ANOVAs
+
+# References
+
+<https://teachpsych.org/E-xcellence-in-Teaching-Blog>
+
+<https://r4ds.hadley.nz/>
