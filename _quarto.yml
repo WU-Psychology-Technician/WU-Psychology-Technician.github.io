@@ -7,7 +7,7 @@ project:
 
 
 website:
-  title: "Psychology Technicians – Wrexham University"
+  title: "PsyTech - Wrexham University"
   favicon: images/wrexham-icon.jpeg
 
   navbar:
@@ -24,7 +24,7 @@ website:
         menu: 
           - text: "Main Equipment Page"
             href: equipment/index.qmd
-          - text: "Lab Targets - Equipment"
+          - text: "Bucket List - Equipment"
             href: equipment/index-2.qmd
 
       - text: "Students"
@@ -39,6 +39,8 @@ website:
             href: students/ethics/index.qmd
           - text: "Online Ethics Application Guide"
             href: students/vidatum-academic/index.qmd
+          - text: "Learning Navigator"
+            href: https://gemini.google.com/gem/a302fe46b25e?usp=sharing
 
       - text: "Resources"
         menu:

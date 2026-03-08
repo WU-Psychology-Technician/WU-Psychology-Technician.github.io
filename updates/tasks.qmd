@@ -27,7 +27,7 @@ and Ecosystem of resources, guides, and procedures. Items marked with
 `[x]` are completed.
 :::
 
-## Ongoing Tasks 
+## Ongoing Tasks
 
 -   **Update Immersive Applications section** (Find more)
 
@@ -64,13 +64,19 @@ and Ecosystem of resources, guides, and procedures. Items marked with
 
 ## **Website Tasks**
 
+-   Change the Lab Targets to Bucket List of Equipment. Equipment \| Lab
+    spaces that will be arranged for implementation at Wrexham
+    University
+    -   Create a Section in the News part of the Welsh Psychometrics Lab
+-   Complete the Resources section
+-   Create a Toggle Wheel for Accessibility for contrasting sight.
 -   Fix Traffic Light System Dark Mode Functionality in Equipment Page
 -   Create a GitHub Repository with all the data-sets that Technicians
     will use for Teaching for R, Python and SPSS examples.
     -   Where to find open data sets
         -   Kaggle
         -   Data.gov.uk
-        -   awesomedata/awesome-public-datasets
+        -   awesomedata/awesome-public-data-sets
         -   World Bank Open Data
     -   From Data-Cleaning
     -   From Statistical Modelling
@@ -120,8 +126,11 @@ and Ecosystem of resources, guides, and procedures. Items marked with
     Student's guide to Bayesian Statistics. Create a tree node.
 -   **Poster Printing Guide**: Dimensions, templates, and instructions
     for final year posters.
--   Add a Docker for helping students to run R code in small cloud
-    environments. (Long-term task)
+-   Add a [Docker](https://www.docker.com/) for helping students to run
+    R code in small cloud environments. (Long-term task)
+-   Create a final version of a consistent workflow that will work for
+    teaching R and Statistics for students at Wrexham University
+-   
 
 [**Automation**]{.underline}
 
@@ -172,6 +181,10 @@ and Ecosystem of resources, guides, and procedures. Items marked with
         <https://github.com/jasiek-net/awesome-psychology-projects>
 -   Develop R, Python, and Julia scripts to replace SPSS in the
     department.
+-   Case Studies
+    -   PSY765
+        -   Qual Case Studies
+        -   Quant Case Studies
 
 **New Procedures**
 
@@ -267,6 +280,29 @@ and Ecosystem of resources, guides, and procedures. Items marked with
 -   Add some components from Neuroscience to improve **bio-psychology**
     **content.**
 
+**Social Psychology**
+
+-   Create Norm Transmission Gorilla.sc Programme
+
+**PSY765**
+
+-   Create Case studies + Visualisations + Model Selection + Model fit
+
+    -   Normal Linear Models
+
+    -   Generalised Linear Models
+
+    -   Multi-Level Models
+
+**Research**
+
+-   Develop a custom "Research Assistant" Chatbot for student's for
+    helping in specifically how to help student's understand the
+    workload and priorities, help, links, pathways after university etc.
+    at Wrexham University.
+
+-   Develop a "Learning Statistics" chatbot from Hugging Face models.
+
 **Miscellaneous**
 
 -   Try to find out ways to use Rasperry Pi for Psychology, Automation,
@@ -300,6 +336,14 @@ and Ecosystem of resources, guides, and procedures. Items marked with
 
 # Completed Tasks
 
+-   [x] Add GitHub Link to all data-sets for Wrexham-Psychology-Datasets
+
+-   [x] Sam V completed EDS426. Allowing for supervision of students in
+    the HEIQ Building for immersive applications of dissertation
+    projects (02/2026)
+
+<!-- -->
+
 -   [x] **Create an AI section** All the relevant AI tools for students,
     staff, researchers etc. (02/2026)
 -   [x] **Add an Immersive Tools section** (02/2026)
@@ -322,7 +366,7 @@ and Ecosystem of resources, guides, and procedures. Items marked with
 -   [x] Add appropriate functionality to the website (01-2026)
 -   [x] Add 200$\approx$ Psychometric Scales to Gorilla.sc Wrexham Open
     Materials
--   [ ] Add Wrexham University logo and make it interactive (01-2026)
+-   [x] Add Wrexham University logo and make it interactive (01-2026)
     -   [x] Also add useful links as planetary orbit around logo.
 
 # Removed Ideas

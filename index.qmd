@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the Wrexham Psychology Tech-page"
+title: "Welcome to the Wrexham Psy-Tech Page"
 page-layout: full
 date-modified: last-modified
 date-format: "DD-MM-YYYY"
@@ -27,9 +27,16 @@ Equipment
 </h3>
 
 <p>Learn about our available lab equipment, from EDA and eye tracking to Biopac and CANTAB. Booking information and guides included.</p>
+
+<img src="images/equipment-logo.png" 
+     alt="PsyTech Icon" 
+     style="width: 200px; 
+            display: block; 
+            margin-left: 20px;
+            margin-top: 30px;
+            margin-bottom: 0.05rem;">
 :::
 ::::
-
 :::: card
 ::: card-body
 <h3 class="card-title">
@@ -39,6 +46,16 @@ Resources
 </h3>
 
 <p>Access training materials, SOPs, and tutorials on tools/platforms such as SPSS, R, Gorilla, and PsychoPy.</p>
+
+<img src="images/resources.png" 
+     alt="PsyTech Icon" 
+     style="width: 110px; 
+            display: block; 
+            margin-left: 70px;
+            margin-top: 50px;
+            margin-bottom: 0.05rem;">
+
+
 :::
 ::::
 
@@ -46,11 +63,19 @@ Resources
 ::: card-body
 <h3 class="card-title">
 
-Support
+PsyTech Support
 
 </h3>
 
 <p>Meet the technicians, book time with us, and discover how we can help with your research and teaching projects.</p>
+
+<img src="../images/psy-tech-image-2.png" 
+     alt="PsyTech Icon" 
+     style="width: 170px; 
+            display: block;
+            margin-top: 10px;
+            margin-left: 37px; 
+            margin-bottom: 0.2rem;">
 :::
 ::::
 
@@ -62,10 +87,17 @@ Booking Slots
 
 </h3>
 
-<p>We provide flexible meeting slots on a daily basis. Feel free to book in to discuss your technical needs. [Click here to book a meeting with us.](https://outlook.office.com/book/PsychTechWrexham@MAILGLYNDWRAC.onmicrosoft.com/?ismsaljsauthenabled)</p>
+<p>We provide flexible meeting slots on a daily basis. Feel free to book in to discuss your technical needs. <b> [Click here to book a meeting with us.](https://outlook.office.com/book/PsychTechWrexham@MAILGLYNDWRAC.onmicrosoft.com/?ismsaljsauthenabled)</p> </b>
+
+<img src="images/booking.jpg" 
+     alt="PsyTech Icon" 
+     style="width: 120px; 
+            display: block;
+            margin-top: 80px;
+            margin-left: 50px; 
+            margin-bottom: 0.2rem;">
 :::
 ::::
-
 :::: card
 ::: card-body
 <h3 class="card-title">
@@ -75,6 +107,35 @@ Student Guides
 </h3>
 
 The technicians have created guides to help students complete Risk Assessments, submit Online Ethics applications, and explore case studies showcasing the lab’s capabilities.
+
+<img src="images/guide.png" 
+     alt="PsyTech Icon" 
+     style="width: 100px; 
+            display: block;
+            margin-top: 40px;
+            margin-left: 70px; 
+            margin-bottom: 0.2rem;">
+
+:::
+::::
+
+:::: card
+::: card-body
+<h3 class="card-title">
+
+Data Science
+
+</h3>
+
+The technicians are creating guides and case studies on data science topics such as probability theory, statistics, and research methods necessary for psychology students and researchers.
+
+<img src="images/data-science.jpg" 
+     alt="PsyTech Icon" 
+     style="width: 140px; 
+            display: block; 
+            margin-left: 50px; 
+            margin-bottom: 0.2rem;">
+
 :::
 ::::
 :::::::::::::

@@ -11,6 +11,13 @@ Coming soon...
 ## Frequentist Statistics 
 
 
+Normal Linear Models
+
+T-tests
+
+ANOVAs
+
+
 ## Bayesian Statistics 
 
 

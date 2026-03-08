@@ -9,11 +9,96 @@ This section will comprise of necessary quantitative skills that psychologists s
 
 A psychologist primarily needs to understand the **essential toolkit** for conducting quantitative research is that of **research methods**. This essentially comprises some fundamentals from **data science**, **statistics**, and **philosophy.** Here we will primarily focus upon the **quantitative** and **inferential philsophy** of applying statistical models and rudimentary data cleaning for student's in psychology to understand how to appropriately apply their understanding of the world via statistical modelling and research methods.
 
-# Normal Linear Models
+## What We Offer
 
-# T-tests
+::::::::::::: {.grid style="grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem;"}
+:::: card
+::: card-body
+<h3 class="card-title">
 
-# ANOVAs
+[**Mathematical Prerequisities**](case-studies/index.qmd)
+
+</h3>
+
+<p> <b>(~IN DEVELOPMENT~)</b> Learn some prerequisite skills on algebra, calculus, and lastly linear algebra for data science.</p>
+
+<img src="../images/math-prereq.png" 
+     alt="PsyTech Icon" 
+     style="width: 70px; 
+            display: block; 
+            margin-left: 130px;
+            margin-top: 50px;
+            margin-bottom: 0.01rem;">
+:::
+::::
+
+:::: card
+::: card-body
+<h3 class="card-title">
+
+[**Probabilty Theory**](data-science/index.qmd)
+
+</h3>
+
+<p> <b>(~IN DEVELOPMENT~)</b> Learn some prerequisite skills on Probability Theory and other theories such as measure theory, spaces, conditional probability for data science.</p>
+
+<img src="../images/probability-dice.png" 
+     alt="sona logo" 
+     style="width: 150px; 
+            display: block; 
+            margin-left: 110px; 
+            margin-bottom: 0.01rem;">
+:::
+::::
+
+:::: card
+::: card-body
+
+
+<h3 class="card-title">
+
+[**Statistics**](data-science/index-2.qmd)
+
+</h3>
+
+<p> <b>(~IN DEVELOPMENT~)</b> Learn the fundamental statistical models that you need to implement from the modelling perspective</p>
+
+<img src="../images/statistics-logo.png" 
+     alt="PsyTech Icon" 
+     style="width: 190px; 
+            display: block; 
+            margin-left: 80px; 
+            margin-bottom: 0.2rem;">
+:::
+::::
+:::: card
+::: card-body
+<h3 class="card-title">
+
+[**Research Methods**](data-science/index-3.qmd)
+
+</h3>
+
+<p> <b>(~IN DEVELOPMENT~)</b> Read this page to understand some core topics on Research methods</p>
+
+<img src="../images/research-methods.png" 
+     alt="PsyTech Icon" 
+     style="width: 160px; 
+            display: block; 
+            margin-left: 100px; 
+            margin-bottom: 0.2rem;">
+
+
+:::
+::::
+:::::::::::::
+
+
+
+
+# Data-sets
+
+The repository for most of the files for the the data-sets used in these pages can be found here: [Link](https://github.com/WU-Psychology-Technician/wrexham-psych-data)
 
 # References
 
