@@ -107,6 +107,8 @@ website:
             href: updates/tasks.qmd
           - text: "FAQ"
             href: updates/FAQ.qmd
+          - text: "Feedback"
+            href: updates/feedback.qmd
 
 
 

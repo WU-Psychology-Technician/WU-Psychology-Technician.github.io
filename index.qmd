@@ -73,9 +73,9 @@ PsyTech Support
      alt="PsyTech Icon" 
      style="width: 170px; 
             display: block;
-            margin-top: 10px;
+            margin-top: 18px;
             margin-left: 37px; 
-            margin-bottom: 0.2rem;">
+            margin-bottom: 0.05rem;">
 :::
 ::::
 
@@ -154,11 +154,11 @@ To find what you need, please visit the sections above:
 
 -   [**Resources**](Resources/index.qmd) - access open-source and academic tools
 
--   [**Recruitment**](recruitment/index.qmd) **-** A page to host our internal and external available studies page.
-
--   [**Data Science**](data-science/index.qmd) - An upcoming repository of teaching materials and instructions in regards to research methods, statistics and other quantitative applications for psychology students.
+-   [**Recruitment**](recruitment/index.qmd) A page to host our internal and external available studies page.
 
 -   [**Platforms**](platforms/index.qmd)- All the main platforms the psychology department use for teaching and research.
+
+-   [**Data Science**](data-science/index.qmd) - An upcoming repository of teaching materials and instructions in regards to research methods, statistics and other quantitative applications for psychology students.
 
 -   [**News**](Updates/index.qmd) - get the latest news on training and short courses provided by the department
 

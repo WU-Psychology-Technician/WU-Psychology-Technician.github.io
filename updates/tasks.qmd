@@ -68,6 +68,10 @@ and Ecosystem of resources, guides, and procedures. Items marked with
     spaces that will be arranged for implementation at Wrexham
     University
     -   Create a Section in the News part of the Welsh Psychometrics Lab
+-   Create a network in the first page to show how to best search find
+    what pages to find.
+-   Create a Discourse page –\> <https://github.com/discourse/discourse>
+    -   <https://blogs.oracle.com/developers/install-run-discourse-for-free-in-the-oracle-cloud>
 -   Complete the Resources section
 -   Create a Toggle Wheel for Accessibility for contrasting sight.
 -   Fix Traffic Light System Dark Mode Functionality in Equipment Page
@@ -100,8 +104,6 @@ and Ecosystem of resources, guides, and procedures. Items marked with
     -   Focused around Data Science & Research Methods in Psychology
 -   **Tobii EyeTracker**: Establish Risk Assessments, H&S Procedures,
     and open PsychoPy Case Studies.
--   **Technician Chat Bot**: Implement a GPT-based bot to assist with
-    queries beyond basic FAQs.
 -   **Virtual Tour**: Implement a photo-slider or 360° image of the
     Psychology labs.
 -   **OSF & Version Control**: Develop a guide for integrating projects
@@ -160,7 +162,110 @@ and Ecosystem of resources, guides, and procedures. Items marked with
 
     -   <https://www.reaper.fm/>
 
-**Platforms**
+-   Search the Psych Equipment Storage and find out what specific
+    proprietary scales we have and place it in the **psychometrics
+    page.**
+
+**Equipment / Facilities**
+
+-   Add [Electroencephalography Lab Plans]{.underline}
+
+-   Add [Eye Tracking Lab plans]{.underline}
+
+-   Add [Driving Simulation lab plans]{.underline}
+
+-   Add [Interview or Focus Group Project Rooms plans]{.underline}
+
+-   Add [Multi-Testing Suite plans]{.underline}
+
+-   Add [Biopsychology Project Rooms]{.underline}
+
+-   Add PsychoPy Case studies and experiments.
+
+-   Add Blood Pressure Monitors
+
+-   Add Pain Advanced Thermosensory stimualtor
+
+-   Add Cold Pressor
+
+-   Add MotionWatches
+
+-   Add Transcranial Electrical Stimulation (nurostym)
+
+-   Add Biopac MP36
+
+-   Look into SISO Asset Management System
+
+-   Add AI Case Studies
+
+    -   Bespoke Game design
+
+    -   Social media
+
+    -   Shopping faked environments for experiments.
+
+-   Look into becoming registered IST Practitioner
+
+-   Look into Prototyping, user testing, and unit testing (PHPUnit) to
+    ensure reliable applications.
+
+-   Look into Creating AI models in Microsoft AI Builder
+
+-   Look into Using ChatGPT API in research for generating fake
+    chatrooms in Qualtrics and other systems and how it could be done
+    via JISC.
+
+-   Look into Integration, maintenance, and support documentation for
+    for Biopac MP150/MP35 (EMG, GSR), Brain Products EEG Acticap, GVS
+    (Brainbox), EyeLink 1000/1000+, TMS, FNIRS, and Brainbox Neuro
+    Navigator.
+
+-   Look into miscellaneuous –\> University systems, including Ethics
+    systems, KCDU database, Lab/Asset booking (SISO Store), IRP
+    management, FYP/MSc and RES allocation systems, and University-wide
+    JISC and SISO Loans/Room Booking system (mapping + SSO integration).
+    Power Platform and Power Automate workflows for process automation.
+    Software/web technologies: Python, Matlab, Java, Perl, Ruby, C++,
+    VB.Net, XHTML/HTML5, CSS3, PHP, JavaScript/JQuery (+ UI), WordPress,
+    Drupal, Ruby on Rails, Laravel, Symfony. Authentication/data
+    protocols: SAML (auth modules), LDAP. Version control: Git, SVN.
+    Development/deployment environments: Homestead, Vagrant, Docker,
+    Capistrano, Deployer. Database design: MySQL, SQLite, SQL Server. IT
+    and application support, including hardware, software, connectivity,
+    and general troubleshooting. Managing/auditing yearly software
+    upgrades (PsychoPy, Matlab)Running training workshops (PsychoPy,
+    Qualtrics). Lean and Agile methodologies (including Scrum Master).
+    LCS Level 1a Lean Competency training for Continuous Improvement.
+
+-   Create Avatar Models for Virtual Reality Software development in
+    Unity.
+
+    -   Using Metahuman in Unreal Engine
+
+    -   Using Avatar Maker in Unity or using Blender for more
+        definition.
+
+-   Create a Research Labs and Groups Webpage on the main Wrexham Page
+
+    -   Create a Voluntary Research Assistant Scheme for increasing
+        research output
+
+-   
+
+-   Look into collaborations with with external suppliers and
+    development teams.
+
+-   Create a Staff Section for Technical consultancy on new projects,
+    including planning, specifications, and costings for research bids.
+
+-   Look into Basic building, electrical, and soldering skills (e.g.,
+    GVS cables). Some Fusion 360 and 3D printing experience for lab
+    equipment casings.
+
+-   Add Design and editing skills in GIMP and Scribus (inDesign
+    alternative)
+
+<!-- -->
 
 -   **GitHub Expansion**: Add more code and scripts to the GitHub
     Repository.
@@ -344,6 +449,7 @@ and Ecosystem of resources, guides, and procedures. Items marked with
 
 <!-- -->
 
+-   [x] **Implement** PsyGem Learning Navigator (03/2026)
 -   [x] **Create an AI section** All the relevant AI tools for students,
     staff, researchers etc. (02/2026)
 -   [x] **Add an Immersive Tools section** (02/2026)

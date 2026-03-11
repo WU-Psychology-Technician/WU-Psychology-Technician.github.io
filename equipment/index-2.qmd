@@ -49,8 +49,6 @@ conversations and interactions. 
 
 **Qualitative Analysis Lab**
 
--   
-
 **Centre of the Child**
 
 -   Add an Observational System for Multi-observation.
