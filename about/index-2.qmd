@@ -1,0 +1,72 @@
+---
+title: "The Lab"
+format: html
+---
+
+
+The Psychology Laboratory is situated in the Bevan Building in K115. 
+
+
+# Facilities 
+
+The lab facilitates 2 experimental pods with light and air cooling control. The lab currently holds  contains all the specialised and miscellaneuous equipment used by the Psychology Team, more information on this can be found in the [equipment section](equipment/index.qmd).  
+
+
+
+
+# Lab Sustainability 
+
+This guide outlines the sustainable practices expected within the Psychology lab to minimise environmental impact, reduce waste, improve energy efficiency, and promote responsible use of departmental resources. It applies to all staff, students, visitors, and external researchers using the facilities. 
+
+
+## Key Practices for Using the Lab 
+
+- Keep Doors closed to help heating/cooling work efficiently. 
+- Use the sleep mode on the computers when taking breaks 
+- Turn off radiators, air conditioning or any devices off when exiting the lab. 
+- Use the digital versions of stimuli, forms, and information sheets where possible. 
+- Look for reusable options for any consumables your research requires. 
+- Correctly use recyclick, general waste and other bins.  
+- Handle equipment with care to avoid wasteful repears or replacements.
+- Report any broken, faulty, or unused equipment to [PsychTech](mailto:Psychology.Technician@Wrexham.ac.uk)
+
+
+## More Detail on What You Can Do for Sustainability
+
+::::::::::::: {.grid style="grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem;"}
+
+:::: card
+::: card-body
+### [**When Designing Research**]{.card-title}
+
+* Plan to use digital, rather than paper, forms and stimuli if possible.
+* Reduce the number of devices used simultaneously.
+* Investigate if you can make use of unused equipment or share resources across projects.
+* Group data collection sessions to reduce setup frequency.
+* Prioritize reusable or sustainable equipment and resources.
+* Alter procedures to make consumables reusable or extend equipment lifespan.
+* Source sustainable resources when purchasing is necessary.
+
+:::
+::::
+
+:::: card
+::: card-body
+### [**During Research**]{.card-title}
+
+* Adjust blinds/curtains to manage room temperature naturally. 
+* Keep doors closed to improve heating efficiency.
+* Use equipment with care to avoid unnecessary repair or replacement.
+* Reuse lab resources and only use what is strictly required.
+* Utilize **Sleep Mode** on PCs during breaks.
+* Reuse cardboard and plastic for storage or postage.
+* Correctly use recycling and general waste bins (located in lab corridors).
+* Follow signage on/near bins for correct disposal instructions.
+* Print double-sided or reuse blank sides for notes when printing is essential.
+
+:::
+::::
+
+:::::::::::::
+
+

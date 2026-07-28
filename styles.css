@@ -1569,3 +1569,44 @@ body.quarto-dark .grid .card:nth-child(5) .card-title {
 }
 
 
+<style>
+  /* 1. Base Container Styling (Consistent for both modes) */
+  details {
+    border: 2px solid #005A8C; /* Navy border remains constant */
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 12px;
+    transition: all 0.3s ease;
+  }
+
+  /* 2. Light Mode: Text is Navy */
+  summary {
+    cursor: pointer;
+    font-weight: 700;
+    color: #005A8C; /* Navy text */
+    font-size: 1.1em;
+    list-style: none;
+  }
+
+  /* Arrow remains Navy in light mode */
+  summary::after {
+    content: ' ▼';
+    float: right;
+    color: #005A8C;
+  }
+
+  details[open] summary::after {
+    content: ' ▲';
+  }
+
+  /* 3. Dark Mode: Text turns Teal */
+  .quarto-dark summary,
+  .quarto-dark summary::after {
+    color: #008080 !important; /* Teal text in dark mode */
+  }
+
+  /* Optional: Keep the container background dark but don't change the border */
+  .quarto-dark details {
+    background-color: #1f1f1f; 
+  }
+</style>

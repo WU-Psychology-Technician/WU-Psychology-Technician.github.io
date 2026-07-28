@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>feedback – PsyTech - Wrexham University</title>
+<title>Feedback – PsyTech - Wrexham University</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -261,10 +261,21 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../about/index.html"> 
-<span class="menu-text">About</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">About</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-about">    
+        <li>
+    <a class="dropdown-item" href="../about/index.html">
+ <span class="dropdown-text">Technicians</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="../about/index-2.html">
+ <span class="dropdown-text">Laboratory</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-equipment" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Equipment</span>
@@ -291,7 +302,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
         <li>
     <a class="dropdown-item" href="../students/case-studies/index.html">
- <span class="dropdown-text">Case Studies (In Development)</span></a>
+ <span class="dropdown-text">Dissertation Case Studies</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../students/H&amp;s/index.qmd">
@@ -352,7 +363,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="dropdown-text">Main Recruitment Page</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../recruitment/index-2-soon.html">
+    <a class="dropdown-item" href="../recruitment/index-2.html">
  <span class="dropdown-text">Available Studies</span></a>
   </li>  
         <li>
@@ -402,7 +413,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="dropdown-text">Main Data Science page</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../data-science/index5.html">
+    <a class="dropdown-item" href="../data-science/index5.qmd">
  <span class="dropdown-text">Mathematical Prerequisites</span></a>
   </li>  
         <li>
@@ -467,7 +478,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">feedback</h1>
+<h1 class="title">Feedback</h1>
 </div>
 
 
@@ -485,9 +496,11 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>We welcome feedback from our student’s all the time to better improve our services as psychology technicians and ways to improve our website and resources.</p>
-<p>[Students] - Please use the Microsoft Forms for sanonymous responding. Please click here: <a href="">Link</a></p>
-<p>[Internal Staff] - Please contact <a href="mailto:psychology.technician@wrexham.ac.uk%5D">psychology.technician@wrexham.ac.uk</a> if you wish for any adjustments to our website or services.</p>
-<p>[Externals] - Please contact <a href="mailto:psychology.technician@wrexham.ac.uk%5D">psychology.technician@wrexham.ac.uk</a> for any queries on our site.</p>
+<ul>
+<li><p>[Students] - Please use the <a href="https://forms.cloud.microsoft/e/7QMF1KrC3M">Microsoft Forms</a> for anonymous responding of our services.</p></li>
+<li><p>[Internal Staff] - Please contact <a href="mailto:psychology.technician@wrexham.ac.uk%5D">psychology.technician@wrexham.ac.uk</a> if you wish for any adjustments to our website or services.</p></li>
+<li><p>[Externals] - Please contact <a href="mailto:psychology.technician@wrexham.ac.uk%5D">psychology.technician@wrexham.ac.uk</a> for any queries on our site.</p></li>
+</ul>
 
 
 
@@ -949,6 +962,107 @@ document.addEventListener("DOMContentLoaded", function() {
     <circle class="tech-node" cx="170" cy="380" r="4.5"></circle> <circle class="tech-node" cx="130" cy="640" r="4"></circle>   <circle class="tech-node" cx="100" cy="900" r="3"></circle>   <circle class="tech-node" cx="100" cy="450" r="2.5"></circle> </svg>
 
 </div>
+<div id="google_translate_element" style="display:none;"></div>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+<script type="text/javascript">
+
+  function googleTranslateElementInit() {
+
+    new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'en,cy'}, 'google_translate_element');
+
+  }
+
+</script>
+
+
+
+<script>
+
+document.addEventListener("DOMContentLoaded", function() {
+
+  const CYMRU_FLAG = 'https://upload.wikimedia.org/wikipedia/commons/d/dc/Flag_of_Wales.svg';
+
+  const ENGLAND_FLAG = 'https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg';
+
+
+
+  function setupLangButton() {
+
+    const navTools = document.querySelector('.quarto-navbar-tools');
+
+    if (!navTools || document.getElementById('lang-trigger')) return;
+
+
+
+    const langBtn = document.createElement('div');
+
+    langBtn.id = 'lang-trigger';
+
+    langBtn.style.cursor = 'pointer';
+
+    langBtn.style.padding = '5px';
+
+    langBtn.innerHTML = `<img src="${CYMRU_FLAG}" style="width:24px; vertical-align:middle;">`;
+
+    navTools.insertBefore(langBtn, navTools.firstChild);
+
+
+
+    langBtn.addEventListener('click', function() {
+
+      const select = document.querySelector('.goog-te-combo');
+
+      if (select) {
+
+        // Detect current language from Google's internal value
+
+        const currentLang = select.value;
+
+        const newLang = (currentLang === 'cy') ? 'en' : 'cy';
+
+        
+
+        // Update Google Translate
+
+        select.value = newLang;
+
+        select.dispatchEvent(new Event('change'));
+
+        
+
+        // Immediate visual update to flag
+
+        const img = langBtn.querySelector('img');
+
+        img.src = (newLang === 'cy') ? ENGLAND_FLAG : CYMRU_FLAG;
+
+      }
+
+    });
+
+  }
+
+
+
+  // Poll for navbar and widget
+
+  const interval = setInterval(() => {
+
+    if (document.querySelector('.quarto-navbar-tools') && document.querySelector('.goog-te-combo')) {
+
+      setupLangButton();
+
+      clearInterval(interval);
+
+    }
+
+  }, 300);
+
+});
+
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right

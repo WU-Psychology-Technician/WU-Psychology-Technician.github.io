@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the Wrexham Psy-Tech Page"
+title: "Welcome to the Wrexham PsychTech Page"
 page-layout: full
 date-modified: last-modified
 date-format: "DD-MM-YYYY"
@@ -150,7 +150,7 @@ To find what you need, please visit the sections above:
 
 -   [**Equipment**](Equipment/index.qmd) – discover the tools and technologies available
 
--   [**Students**](Students/index.qmd) - Wrexham University Final year students can publish here under the [SONA platform](Students/SONA/index.qmd) (Currently in-development) section
+-   [**Students**](Students/index.qmd) - Year 3 / Level 6 students will be able to publish their study on the [SONA platform](Students/SONA/index.qmd) (**Currently in-development**) section
 
 -   [**Resources**](Resources/index.qmd) - access open-source and academic tools
 

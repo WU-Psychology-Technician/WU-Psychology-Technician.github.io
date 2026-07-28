@@ -7,7 +7,7 @@ project:
 
 
 website:
-  title: "PsyTech - Wrexham University"
+  title: "PsychTech - Wrexham University"
   favicon: images/wrexham-icon.jpeg
 
   navbar:
@@ -18,20 +18,24 @@ website:
         href: index.qmd
 
       - text: "About"
-        href: about/index.qmd
+        menu: 
+          - text: "Technicians"
+            href: about/index.qmd
+          - text: "Laboratory"
+            href: about/index-2.qmd
+          - text: "FAQ"
+            href: about/FAQ.qmd
 
       - text: "Equipment"
         menu: 
           - text: "Main Equipment Page"
             href: equipment/index.qmd
-          - text: "Bucket List - Equipment"
-            href: equipment/index-2.qmd
 
       - text: "Students"
         menu:
           - text: "Main Student Page"
             href: students/index.qmd
-          - text: "Case Studies (In Development)"
+          - text: "Dissertation Case Studies"
             href: students/case-studies/index.qmd
           - text: "Risk Assessments"
             href: students/H&s/index.qmd
@@ -62,7 +66,7 @@ website:
           - text: "Main Recruitment Page"
             href: recruitment/index.qmd
           - text: "Available Studies"
-            href: recruitment/index-2-soon.qmd
+            href: recruitment/index-2.qmd
           - text: "Researcher Requirements"
             href: recruitment/index-3.qmd
 
@@ -90,11 +94,11 @@ website:
           - text: "Main Data Science page"
             href: data-science/index.qmd
           - text: "Mathematical Prerequisites"
-            href: data-science/index5.qmd
+            href: data-science/index-5.qmd
           - text: "Probability"
             href: data-science/index-4.qmd
           - text: "Statistics"
-            href: data-science/index-2.qmd
+            href: data-science/index-2-soon.qmd
           - text: "Research Methods"
             href: data-science/index-3.qmd
 
@@ -105,8 +109,6 @@ website:
             href: updates/index.qmd
           - text: "Current Technician Tasks"
             href: updates/tasks.qmd
-          - text: "FAQ"
-            href: updates/FAQ.qmd
           - text: "Feedback"
             href: updates/feedback.qmd
 
@@ -134,3 +136,4 @@ format:
       - "_includes/footer.html"
       - "_includes/technician-chat.html"
       - "_includes/background-lines.html"
+      - "_includes/welsh-widget.html"

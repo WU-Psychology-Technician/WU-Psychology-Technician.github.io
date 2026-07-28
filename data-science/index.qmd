@@ -7,21 +7,22 @@ format: html
 
 This section will comprise of necessary quantitative skills that psychologists should understand from data science, probability, statistics, and research methods.
 
-A psychologist primarily needs to understand the **essential toolkit** for conducting quantitative research is that of **research methods**. This essentially comprises some fundamentals from **data science**, **statistics**, and **philosophy.** Here we will primarily focus upon the **quantitative** and **inferential philsophy** of applying statistical models and rudimentary data cleaning for student's in psychology to understand how to appropriately apply their understanding of the world via statistical modelling and research methods.
+A psychologist primarily needs to understand the **essential toolkit** for conducting quantitative research is that of **research methods**. This essentially comprises some fundamentals from **data science**, **statistics**, and **philosophy.** Here we will primarily focus upon the **quantitative** and **inferential philsophy** of applying statistical models and rudimentary data cleaning for student's in psychology to understand how to appropriately apply their understanding of the world via a modelling perspective over data and an informed toolkit of methods in research.
 
 ## What We Offer
 
-::::::::::::: {.grid style="grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem;"}
+::::::::::: {.grid style="grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem;"}
 :::: card
 ::: card-body
 <h3 class="card-title">
 
-[**Mathematical Prerequisities**](case-studies/index.qmd)
+[**Mathematical Prerequisities**](data-science/index-5.qmd)
 
 </h3>
 
-<p> <b>(~IN DEVELOPMENT~)</b> Learn some prerequisite skills on algebra, calculus, and lastly linear algebra for data science.</p>
+<p><b>(\~IN DEVELOPMENT\~)</b> Learn some prerequisite skills on algebra, calculus, and lastly linear algebra for data science.</p>
 
+```{=html}
 <img src="../images/math-prereq.png" 
      alt="PsyTech Icon" 
      style="width: 70px; 
@@ -29,6 +30,7 @@ A psychologist primarily needs to understand the **essential toolkit** for condu
             margin-left: 130px;
             margin-top: 50px;
             margin-bottom: 0.01rem;">
+```
 :::
 ::::
 
@@ -36,41 +38,44 @@ A psychologist primarily needs to understand the **essential toolkit** for condu
 ::: card-body
 <h3 class="card-title">
 
-[**Probabilty Theory**](data-science/index.qmd)
+[**Probabilty Theory**](data-science/index-4.qmd)
 
 </h3>
 
-<p> <b>(~IN DEVELOPMENT~)</b> Learn some prerequisite skills on Probability Theory and other theories such as measure theory, spaces, conditional probability for data science.</p>
+<p><b>(\~IN DEVELOPMENT\~)</b> Learn some prerequisite skills on Probability Theory and other theories such as measure theory, spaces, conditional probability for data science.</p>
 
+```{=html}
 <img src="../images/probability-dice.png" 
      alt="sona logo" 
      style="width: 150px; 
             display: block; 
             margin-left: 110px; 
             margin-bottom: 0.01rem;">
+```
 :::
 ::::
 
 :::: card
 ::: card-body
-
-
 <h3 class="card-title">
 
 [**Statistics**](data-science/index-2.qmd)
 
 </h3>
 
-<p> <b>(~IN DEVELOPMENT~)</b> Learn the fundamental statistical models that you need to implement from the modelling perspective</p>
+<p><b>(\~IN DEVELOPMENT\~)</b> Learn the fundamental statistical models that you need to implement from the modelling perspective</p>
 
+```{=html}
 <img src="../images/statistics-logo.png" 
      alt="PsyTech Icon" 
      style="width: 190px; 
             display: block; 
             margin-left: 80px; 
             margin-bottom: 0.2rem;">
+```
 :::
 ::::
+
 :::: card
 ::: card-body
 <h3 class="card-title">
@@ -79,22 +84,19 @@ A psychologist primarily needs to understand the **essential toolkit** for condu
 
 </h3>
 
-<p> <b>(~IN DEVELOPMENT~)</b> Read this page to understand some core topics on Research methods</p>
+<p><b>(\~IN DEVELOPMENT\~)</b> Read this page to understand some core topics on Research methods</p>
 
+```{=html}
 <img src="../images/research-methods.png" 
      alt="PsyTech Icon" 
      style="width: 160px; 
             display: block; 
             margin-left: 100px; 
             margin-bottom: 0.2rem;">
-
-
+```
 :::
 ::::
-:::::::::::::
-
-
-
+:::::::::::
 
 # Data-sets
 
