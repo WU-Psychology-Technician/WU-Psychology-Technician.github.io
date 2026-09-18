@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>jisc – PsychTech - Wrexham University</title>
+<title>Using JISC for your Dissertation Project – PsychTech - Wrexham University</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -72,6 +72,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -281,48 +310,33 @@ ul.task-list li input[type="checkbox"] {
     </ul>
   </li>
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-equipment" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Equipment</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-equipment">    
-        <li>
-    <a class="dropdown-item" href="../equipment/index.html">
- <span class="dropdown-text">Main Equipment Page</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../equipment/index-2.html">
- <span class="dropdown-text">Bucket List - Equipment</span></a>
-  </li>  
-    </ul>
-  </li>
-  <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-students" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Students</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-students">    
         <li>
-    <a class="dropdown-item" href="../students/index.html">
+    <a class="dropdown-item" href="../students/student-main-page.html">
  <span class="dropdown-text">Main Student Page</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../students/case-studies/index.html">
+    <a class="dropdown-item" href="../students/case-studies/case-studies.html">
  <span class="dropdown-text">Dissertation Case Studies</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../students/H&amp;s/index.qmd">
+    <a class="dropdown-item" href="../students/H&amp;S/risk-assessments.html">
  <span class="dropdown-text">Risk Assessments</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../students/ethics/index.html">
+    <a class="dropdown-item" href="../students/ethics/general-ethics-guide.html">
  <span class="dropdown-text">General Ethics Guide</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../students/vidatum-academic/index.html">
+    <a class="dropdown-item" href="../students/vidatum-academic/online-ethics-guide.html">
  <span class="dropdown-text">Online Ethics Application Guide</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="https://gemini.google.com/gem/a302fe46b25e?usp=sharing">
- <span class="dropdown-text">Learning Navigator</span></a>
+    <a class="dropdown-item" href="https://bookings.cloud.microsoft/book/PsychTechWrexham@MAILGLYNDWRAC.onmicrosoft.com/?ismsaljsauthenabled">
+ <span class="dropdown-text">PsychTech Booking System</span></a>
   </li>  
     </ul>
   </li>
@@ -336,24 +350,16 @@ ul.task-list li input[type="checkbox"] {
  <span class="dropdown-text">Main Resources Page</span></a>
   </li>  
         <li>
+    <a class="dropdown-item" href="../equipment/index.html">
+ <span class="dropdown-text">Equipment</span></a>
+  </li>  
+        <li>
     <a class="dropdown-item" href="../resources/index2.html">
  <span class="dropdown-text">Psychometric Scales</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../resources/index3.html">
  <span class="dropdown-text">Experimental Tasks</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../resources/index4.html">
- <span class="dropdown-text">Coding Repository</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../resources/index5.html">
- <span class="dropdown-text">Immersive Applications</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../resources/index6.html">
- <span class="dropdown-text">AI Tools</span></a>
   </li>  
     </ul>
   </li>
@@ -363,16 +369,12 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-recruitment">    
         <li>
-    <a class="dropdown-item" href="../recruitment/index.html">
+    <a class="dropdown-item" href="../recruitment/main-page.html">
  <span class="dropdown-text">Main Recruitment Page</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../recruitment/index-2.html">
+    <a class="dropdown-item" href="../recruitment/available-studies.html">
  <span class="dropdown-text">Available Studies</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../recruitment/index-3.html">
- <span class="dropdown-text">Researcher Requirements</span></a>
   </li>  
     </ul>
   </li>
@@ -386,7 +388,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="dropdown-text">Main Platforms Page</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="https://app.gorilla.sc/openmaterials/1112705">
+    <a class="dropdown-item" href="../platforms/gorilla.html">
  <span class="dropdown-text">Gorilla.sc Open</span></a>
   </li>  
         <li>
@@ -402,8 +404,8 @@ ul.task-list li input[type="checkbox"] {
  <span class="dropdown-text">JISC</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="https://github.com/WU-Psychology-Technician">
- <span class="dropdown-text">GitHub</span></a>
+    <a class="dropdown-item" href="https://wrexhamuniversity.servicedeskplus.uk/app/itdesk/ui/ssp/pages/home">
+ <span class="dropdown-text">IT Support</span></a>
   </li>  
     </ul>
   </li>
@@ -435,6 +437,17 @@ ul.task-list li input[type="checkbox"] {
     </ul>
   </li>
   <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-staff" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Staff</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-staff">    
+        <li>
+    <a class="dropdown-item" href="../updates/staff.qmd">
+ <span class="dropdown-text">Main Staff Page</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-news" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">News</span>
     </a>
@@ -442,10 +455,6 @@ ul.task-list li input[type="checkbox"] {
         <li>
     <a class="dropdown-item" href="../updates/index.html">
  <span class="dropdown-text">Main News Page</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../updates/tasks.html">
- <span class="dropdown-text">Current Technician Tasks</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../updates/feedback.html">
@@ -469,8 +478,16 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#essential-checklist-for-choosing-using-psychometric-scales" id="toc-essential-checklist-for-choosing-using-psychometric-scales" class="nav-link active" data-scroll-target="#essential-checklist-for-choosing-using-psychometric-scales"><strong>Essential Checklist for Choosing &amp; Using Psychometric Scales</strong></a></li>
+  <li><a href="#data-cleaning-and-statistical-modelling" id="toc-data-cleaning-and-statistical-modelling" class="nav-link" data-scroll-target="#data-cleaning-and-statistical-modelling">Data Cleaning and Statistical Modelling</a></li>
+  <li><a href="#key-concepts-to-keep-in-mind" id="toc-key-concepts-to-keep-in-mind" class="nav-link" data-scroll-target="#key-concepts-to-keep-in-mind"><strong>Key Concepts to Keep in Mind</strong></a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -478,7 +495,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">jisc</h1>
+<h1 class="title">Using JISC for your Dissertation Project</h1>
 </div>
 
 
@@ -495,9 +512,34 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Coming soon…</p>
+<p>Over the years the PsychTech have provided guides and videos on how to use JISC and how to create surveys. However, the issue with this is that platform JISC has gone through various changes and shifts both as an organisation and more importantly on their website. Therefore, creating guides by us is essentially not of great time usage for us. Therefore, we advise students to follow the <a href="https://onlinesurveys.jisc.ac.uk/help/">Help &amp; Support Page</a> which is heavily updated by the JISC team itself.</p>
+<p>JISC Online Surveys is an ideal tool for designing academic questionnaires and primary research because it ensures strict GDPR compliance, offers advanced logic branching, and handles secure data exports directly to tools like Excel or SPSS. You can request access by completing this <a href="https://forms.cloud.microsoft/e/eMnAwn4RVA">form</a> here and you can easily log in through <a href="https://myuni.wrexham.ac.uk/">myuni.wrexham.ac.uk</a> under the <strong>VLE &amp; Teaching Resources</strong> section or you can access it via <a href="https://app.onlinesurveys.jisc.ac.uk/login?callbackUrl=%2Fdashboard%2Fwgu">here</a>.</p>
+<section id="essential-checklist-for-choosing-using-psychometric-scales" class="level2">
+<h2 class="anchored" data-anchor-id="essential-checklist-for-choosing-using-psychometric-scales"><strong>Essential Checklist for Choosing &amp; Using Psychometric Scales</strong></h2>
+<p>What we can provide with assistance is some helpful pointers when searching for your Psychometric scale. So firstly, before selecting a psychometric scale or questionnaire for your research project, work through these key considerations to ensure your measure is both scientifically valid and ethically sound:</p>
+<ul>
+<li><strong>Licensing &amp; Terms of Use:</strong> Verify whether the scale is freely available in the public domain or requires explicit permission/payment from the copyright holder before distribution.</li>
+<li><strong>Ethical Approval:</strong> Ensure the content of the scale is age-appropriate, non-triggering for your target demographic, and explicitly approved by your ethics committee. If you do use sensitive scales then make sure you provide information on mitigation factors via a Risk assessment or appropriate information in your Particiapant information sheet and online ethics application for using that scale.</li>
+<li><strong>Item Redundancy &amp; Subscales:</strong> Check if the scale contains overlapping or redundant items. Group questions into their correct underlying subscale dimensions prior to analysis.</li>
+<li><strong>Scoring &amp; Aggregation Rules:</strong> Review the author’s scoring manual to determine whether to sum or average item responses, handle reverse-scored items, and manage missing data points.</li>
+</ul>
+</section>
+<section id="data-cleaning-and-statistical-modelling" class="level2">
+<h2 class="anchored" data-anchor-id="data-cleaning-and-statistical-modelling">Data Cleaning and Statistical Modelling</h2>
+<p>Please refer to the PsychTech Moodle Page for videos that refer to data cleaning, and modelling. You can also find the necessary information for running SPSS here:</p>
+<p><a href="https://www.ibm.com/docs/en/spss-statistics/29.0.0?topic=system-data-transformations"><strong>SPSS HELP GUIDE</strong></a></p>
+</section>
+<section id="key-concepts-to-keep-in-mind" class="level2">
+<h2 class="anchored" data-anchor-id="key-concepts-to-keep-in-mind"><strong>Key Concepts to Keep in Mind</strong></h2>
+<ul>
+<li><strong>Reverse Scoring:</strong> Identify negative or oppositely phrased items (e.g., “I rarely feel happy” on a self-esteem scale) and invert their values before calculating subscale totals based on the scoring guides pf the original article or the administration/test manual of the psychometric scale.</li>
+<li><strong>Calculating Subscale Scores:</strong> Compute separate composite scores (mean or sum) for each distinct subscale rather than collapsing everything into a single overall score. This will be instructed on the the original validation paper explicitly supports doing so or the administration/test manual.</li>
+<li><strong>Item Redundancy:</strong> Look out for selection psychometric scales that have questions that ask virtually the same thing in slightly different ways. Highly redundant items inflate internal consistency (<span class="math inline">\(\alpha\)</span>) artificially without adding genuine psychological information.</li>
+</ul>
+<p>The Psychology technicians have also created a repository on <a href="https://app.gorilla.sc/openmaterials/1112705">Gorilla.sc</a> holding several psychometric scales for ease of use for students who wish to implement and focus on their experiments whilst having the psychometric scales on hand and ready to use. The entire list of these psychometric scales can be found in the Resources/Psychometric Scales section.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <div id="help-widget">

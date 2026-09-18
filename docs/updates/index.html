@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>News – PsyTech - Wrexham University</title>
+<title>index – PsychTech - Wrexham University</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -72,6 +72,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -248,7 +277,7 @@ ul.task-list li input[type="checkbox"] {
     <img src="../images/wrexham-icon.jpeg" alt="" class="navbar-logo dark-content">
     </a>
     <a class="navbar-brand" href="../index.html">
-    <span class="navbar-title">PsyTech - Wrexham University</span>
+    <span class="navbar-title">PsychTech - Wrexham University</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -275,23 +304,8 @@ ul.task-list li input[type="checkbox"] {
  <span class="dropdown-text">Laboratory</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../about/index-3.html">
- <span class="dropdown-text">Dissertation Case Studies</span></a>
-  </li>  
-    </ul>
-  </li>
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-equipment" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Equipment</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-equipment">    
-        <li>
-    <a class="dropdown-item" href="../equipment/index.html">
- <span class="dropdown-text">Main Equipment Page</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../equipment/index-2.html">
- <span class="dropdown-text">Bucket List - Equipment</span></a>
+    <a class="dropdown-item" href="../about/FAQ.html">
+ <span class="dropdown-text">FAQ</span></a>
   </li>  
     </ul>
   </li>
@@ -301,28 +315,28 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-students">    
         <li>
-    <a class="dropdown-item" href="../students/index.html">
+    <a class="dropdown-item" href="../students/student-main-page.html">
  <span class="dropdown-text">Main Student Page</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../students/case-studies/index.html">
- <span class="dropdown-text">Case Studies (In Development)</span></a>
+    <a class="dropdown-item" href="../students/case-studies/case-studies.html">
+ <span class="dropdown-text">Dissertation Case Studies</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../students/H&amp;s/index.qmd">
+    <a class="dropdown-item" href="../students/H&amp;S/risk-assessments.html">
  <span class="dropdown-text">Risk Assessments</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../students/ethics/index.html">
+    <a class="dropdown-item" href="../students/ethics/general-ethics-guide.html">
  <span class="dropdown-text">General Ethics Guide</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../students/vidatum-academic/index.html">
+    <a class="dropdown-item" href="../students/vidatum-academic/online-ethics-guide.html">
  <span class="dropdown-text">Online Ethics Application Guide</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="https://gemini.google.com/gem/a302fe46b25e?usp=sharing">
- <span class="dropdown-text">Learning Navigator</span></a>
+    <a class="dropdown-item" href="https://bookings.cloud.microsoft/book/PsychTechWrexham@MAILGLYNDWRAC.onmicrosoft.com/?ismsaljsauthenabled">
+ <span class="dropdown-text">PsychTech Booking System</span></a>
   </li>  
     </ul>
   </li>
@@ -336,24 +350,16 @@ ul.task-list li input[type="checkbox"] {
  <span class="dropdown-text">Main Resources Page</span></a>
   </li>  
         <li>
+    <a class="dropdown-item" href="../equipment/index.html">
+ <span class="dropdown-text">Equipment</span></a>
+  </li>  
+        <li>
     <a class="dropdown-item" href="../resources/index2.html">
  <span class="dropdown-text">Psychometric Scales</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../resources/index3.html">
  <span class="dropdown-text">Experimental Tasks</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../resources/index4.html">
- <span class="dropdown-text">Coding Repository</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../resources/index5.html">
- <span class="dropdown-text">Immersive Applications</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../resources/index6.html">
- <span class="dropdown-text">AI Tools</span></a>
   </li>  
     </ul>
   </li>
@@ -363,16 +369,12 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-recruitment">    
         <li>
-    <a class="dropdown-item" href="../recruitment/index.html">
+    <a class="dropdown-item" href="../recruitment/main-page.html">
  <span class="dropdown-text">Main Recruitment Page</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../recruitment/index-2-soon.html">
+    <a class="dropdown-item" href="../recruitment/available-studies.html">
  <span class="dropdown-text">Available Studies</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../recruitment/index-3.html">
- <span class="dropdown-text">Researcher Requirements</span></a>
   </li>  
     </ul>
   </li>
@@ -386,7 +388,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="dropdown-text">Main Platforms Page</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="https://app.gorilla.sc/openmaterials/1112705">
+    <a class="dropdown-item" href="../platforms/gorilla.html">
  <span class="dropdown-text">Gorilla.sc Open</span></a>
   </li>  
         <li>
@@ -402,8 +404,8 @@ ul.task-list li input[type="checkbox"] {
  <span class="dropdown-text">JISC</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="https://github.com/WU-Psychology-Technician">
- <span class="dropdown-text">GitHub</span></a>
+    <a class="dropdown-item" href="https://wrexhamuniversity.servicedeskplus.uk/app/itdesk/ui/ssp/pages/home">
+ <span class="dropdown-text">IT Support</span></a>
   </li>  
     </ul>
   </li>
@@ -417,7 +419,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="dropdown-text">Main Data Science page</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../data-science/index5.qmd">
+    <a class="dropdown-item" href="../data-science/index-5.html">
  <span class="dropdown-text">Mathematical Prerequisites</span></a>
   </li>  
         <li>
@@ -425,12 +427,23 @@ ul.task-list li input[type="checkbox"] {
  <span class="dropdown-text">Probability</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../data-science/index-2.html">
+    <a class="dropdown-item" href="../data-science/index-2-soon.html">
  <span class="dropdown-text">Statistics</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../data-science/index-3.html">
  <span class="dropdown-text">Research Methods</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-staff" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Staff</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-staff">    
+        <li>
+    <a class="dropdown-item" href="../updates/staff.qmd">
+ <span class="dropdown-text">Main Staff Page</span></a>
   </li>  
     </ul>
   </li>
@@ -442,14 +455,6 @@ ul.task-list li input[type="checkbox"] {
         <li>
     <a class="dropdown-item" href="../updates/index.html">
  <span class="dropdown-text">Main News Page</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../updates/tasks.html">
- <span class="dropdown-text">Current Technician Tasks</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../updates/FAQ.html">
- <span class="dropdown-text">FAQ</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../updates/feedback.html">
@@ -478,11 +483,13 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#department-news-updates" id="toc-department-news-updates" class="nav-link active" data-scroll-target="#department-news-updates">Department News &amp; Updates</a>
+  <li><a href="#psychtech-news-updates" id="toc-psychtech-news-updates" class="nav-link active" data-scroll-target="#psychtech-news-updates">PsychTech News &amp; Updates</a>
   <ul class="collapse">
   <li><a href="#current-status" id="toc-current-status" class="nav-link" data-scroll-target="#current-status">Current Status</a></li>
   <li><a href="#what-you-can-expect-here" id="toc-what-you-can-expect-here" class="nav-link" data-scroll-target="#what-you-can-expect-here">What You Can Expect Here</a></li>
   </ul></li>
+  <li><a href="#current-tasks" id="toc-current-tasks" class="nav-link" data-scroll-target="#current-tasks">Current Tasks</a></li>
+  <li><a href="#completed-tasks" id="toc-completed-tasks" class="nav-link" data-scroll-target="#completed-tasks">Completed Tasks</a></li>
   </ul>
 </nav>
     </div>
@@ -492,7 +499,6 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">News</h1>
 </div>
 
 
@@ -504,7 +510,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Modified</div>
     <div class="quarto-title-meta-contents">
-      <p class="date-modified">08-02-2026</p>
+      <p class="date-modified">06-09-2026</p>
     </div>
   </div>
     
@@ -515,28 +521,50 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="department-news-updates" class="level1">
-<h1>Department News &amp; Updates</h1>
-<p>Stay up to date with the latest announcements, training opportunities, and developments from the Psychology Technicians at Wrexham University.<br>
-This page is updated on a regular basis with new information about upcoming workshops, open days, and changes to available resources.</p>
+<section id="psychtech-news-updates" class="level1">
+<h1>PsychTech News &amp; Updates</h1>
+<p>Stay up to date with what the Psychology Technicians activities and learn more about what they do in the background. Moreover, latest announcements, training opportunities, and developments will be shown here and from the Psychology Technicians at Wrexham University.</p>
+<p>This page is updated on a regular basis with new information about upcoming workshops, and changes to available resources.</p>
 <hr>
 <section id="current-status" class="level2">
 <h2 class="anchored" data-anchor-id="current-status">Current Status</h2>
-<p>📢 <strong>No new announcements at the moment</strong><br>
-Check back soon for upcoming events, equipment updates, and student opportunities.</p>
+<p>📢 <strong>No new announcements at the moment</strong> Check back soon for upcoming events, equipment updates, and student opportunities.</p>
 <hr>
 </section>
 <section id="what-you-can-expect-here" class="level2">
 <h2 class="anchored" data-anchor-id="what-you-can-expect-here">What You Can Expect Here</h2>
-<p>On this page, we’ll share:<br>
-- <strong>Training sessions &amp; workshops</strong> (e.g., SPSS, Gorilla, Quarto setup)<br>
-- <strong>New equipment or software</strong> added to the department news history<br>
-- <strong>Guides and resources</strong> that we’ve recently published<br>
-- <strong>Opportunities</strong> for students to get involved in projects or events<br>
-- <strong>Highlights</strong> from past activities and successful collaborations</p>
-
-
+<p>On this page, we’ll share: - <strong>Training sessions &amp; workshops</strong> (e.g., SPSS, Gorilla, Quarto setup) - <strong>New equipment or software</strong> added to the department news history - <strong>Guides and resources</strong> that we’ve recently published - <strong>Opportunities</strong> for students to get involved in projects or events - <strong>Highlights</strong> from past activities and successful collaborations</p>
 </section>
+</section>
+<section id="current-tasks" class="level1">
+<h1>Current Tasks</h1>
+</section>
+<section id="completed-tasks" class="level1">
+<h1>Completed Tasks</h1>
+<ul class="task-list">
+<li><label><input type="checkbox" checked="">Add GitHub Link to all data-sets for Wrexham-Psychology-Datasets</label></li>
+<li><label><input type="checkbox" checked="">Sam V completed EDS426. Allowing for supervision of students in the SILC Building for immersive applications of dissertation projects (02/2026)</label></li>
+<li><label><input type="checkbox" checked=""><strong>Implement</strong> PsyGem Learning Navigator (03/2026)</label></li>
+<li><label><input type="checkbox" checked=""><strong>Create an AI section</strong> All the relevant AI tools for students, staff, researchers etc. (02/2026)</label></li>
+<li><label><input type="checkbox" checked=""><strong>Add an Immersive Tools section</strong> (02/2026)</label></li>
+<li><label><input type="checkbox" checked=""><strong>Add Risk Assessment - H&amp;S - SOPs Section</strong> (02/2026)</label></li>
+<li><label><input type="checkbox" checked=""><strong>Traffic Light Dashboard</strong>: Show real-time availability/maintenance status for labs and equipment. (02/2026)</label></li>
+<li><label><input type="checkbox" checked="">Create a URL to the Technician Space. Then place it on the noticeboard in front of K115. (02/2026)</label></li>
+<li><label><input type="checkbox" checked=""><strong>Technician News</strong>. (02/2026)</label></li>
+<li><label><input type="checkbox" checked=""><strong>Scheduling</strong>: Add Microsoft Booking onto the Wrexham Technician Page (02/2026)</label></li>
+<li><label><input type="checkbox" checked="">Add new gorilla.sc link into the Open Materials Section. (02/2026)</label></li>
+<li><label><input type="checkbox" checked=""><strong>Open Materials</strong>: Add Gorilla.sc experiments into the open materials section.</label></li>
+<li><label><input type="checkbox" checked="">Add the new booking system onto the WU-Psychology-Technician Website (02/2026)</label></li>
+<li><label><input type="checkbox" checked="">Add appropriate University branding to the Psych-Tech Website (01-2026)</label></li>
+<li><label><input type="checkbox" checked="">Add appropriate functionality to the website (01-2026)</label></li>
+<li><label><input type="checkbox" checked="">Add 200 <span class="math inline">\(\approx\)</span> Psychometric Scales to Gorilla.sc Wrexham Open Materials</label></li>
+<li><label><input type="checkbox" checked="">Add Wrexham University logo and make it interactive (01-2026)</label>
+<ul class="task-list">
+<li><label><input type="checkbox" checked="">Also add useful links as planetary orbit around logo.</label></li>
+</ul></li>
+</ul>
+
+
 </section>
 
 </main> <!-- /main -->
@@ -997,6 +1025,107 @@ document.addEventListener("DOMContentLoaded", function() {
     <circle class="tech-node" cx="170" cy="380" r="4.5"></circle> <circle class="tech-node" cx="130" cy="640" r="4"></circle>   <circle class="tech-node" cx="100" cy="900" r="3"></circle>   <circle class="tech-node" cx="100" cy="450" r="2.5"></circle> </svg>
 
 </div>
+<div id="google_translate_element" style="display:none;"></div>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+<script type="text/javascript">
+
+  function googleTranslateElementInit() {
+
+    new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'en,cy'}, 'google_translate_element');
+
+  }
+
+</script>
+
+
+
+<script>
+
+document.addEventListener("DOMContentLoaded", function() {
+
+  const CYMRU_FLAG = 'https://upload.wikimedia.org/wikipedia/commons/d/dc/Flag_of_Wales.svg';
+
+  const ENGLAND_FLAG = 'https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg';
+
+
+
+  function setupLangButton() {
+
+    const navTools = document.querySelector('.quarto-navbar-tools');
+
+    if (!navTools || document.getElementById('lang-trigger')) return;
+
+
+
+    const langBtn = document.createElement('div');
+
+    langBtn.id = 'lang-trigger';
+
+    langBtn.style.cursor = 'pointer';
+
+    langBtn.style.padding = '5px';
+
+    langBtn.innerHTML = `<img src="${CYMRU_FLAG}" style="width:24px; vertical-align:middle;">`;
+
+    navTools.insertBefore(langBtn, navTools.firstChild);
+
+
+
+    langBtn.addEventListener('click', function() {
+
+      const select = document.querySelector('.goog-te-combo');
+
+      if (select) {
+
+        // Detect current language from Google's internal value
+
+        const currentLang = select.value;
+
+        const newLang = (currentLang === 'cy') ? 'en' : 'cy';
+
+        
+
+        // Update Google Translate
+
+        select.value = newLang;
+
+        select.dispatchEvent(new Event('change'));
+
+        
+
+        // Immediate visual update to flag
+
+        const img = langBtn.querySelector('img');
+
+        img.src = (newLang === 'cy') ? ENGLAND_FLAG : CYMRU_FLAG;
+
+      }
+
+    });
+
+  }
+
+
+
+  // Poll for navbar and widget
+
+  const interval = setInterval(() => {
+
+    if (document.querySelector('.quarto-navbar-tools') && document.querySelector('.goog-te-combo')) {
+
+      setupLangButton();
+
+      clearInterval(interval);
+
+    }
+
+  }, 300);
+
+});
+
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right

@@ -1,0 +1,16 @@
+---
+title: "Risk Assessments"
+format: html
+---
+
+::: callout-important
+# Website Maintenance
+
+This page will be getting updated during the year with additional content and features.
+:::
+
+Risk assessments are an important of every research project conducted, especially experimental projects. The technicians have created several risk assessments over. 
+
+We are currently developing this page for the next academic year so that students have the available options to complete risk assessments using Microsoft Form that outputs Risk Assessments for specific types of teaching / research / events. This way you can have a linear process when completing Risk Assessments for new activities of similar type. 
+
+For now please contact [psychology.technician@Wrexham.ac.uk](mailto:psychology.technician@wrexham.ac.uk) for template risk assessments for specific research and activities. 

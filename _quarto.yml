@@ -5,7 +5,6 @@ project:
     - "*.qmd"
     - "!docs/**"
 
-
 website:
   title: "PsychTech - Wrexham University"
   favicon: images/wrexham-icon.jpeg
@@ -26,49 +25,46 @@ website:
           - text: "FAQ"
             href: about/FAQ.qmd
 
-      - text: "Equipment"
-        menu: 
-          - text: "Main Equipment Page"
-            href: equipment/index.qmd
 
       - text: "Students"
         menu:
           - text: "Main Student Page"
-            href: students/index.qmd
+            href: students/student-main-page.qmd
           - text: "Dissertation Case Studies"
-            href: students/case-studies/index.qmd
+            href: students/case-studies/case-studies.qmd
           - text: "Risk Assessments"
-            href: students/H&s/index.qmd
+            href: students/H&S/risk-assessments.qmd
           - text: "General Ethics Guide"
-            href: students/ethics/index.qmd
+            href: students/ethics/general-ethics-guide.qmd
           - text: "Online Ethics Application Guide"
-            href: students/vidatum-academic/index.qmd
-          - text: "Learning Navigator"
-            href: https://gemini.google.com/gem/a302fe46b25e?usp=sharing
+            href: students/vidatum-academic/online-ethics-guide.qmd
+          - text: "PsychTech Booking System"
+            href: https://bookings.cloud.microsoft/book/PsychTechWrexham@MAILGLYNDWRAC.onmicrosoft.com/?ismsaljsauthenabled
 
       - text: "Resources"
         menu:
           - text: "Main Resources Page"
             href: resources/index.qmd
+          - text: "Equipment"
+            href: equipment/index.qmd
           - text: "Psychometric Scales"
             href: resources/index2.qmd
           - text: "Experimental Tasks"
             href: resources/index3.qmd
-          - text: "Coding Repository"
-            href: resources/index4.qmd
-          - text: "Immersive Applications"
-            href: resources/index5.qmd
-          - text: "AI Tools"
-            href: resources/index6.qmd
+#          - text: "Coding Repository"
+#            href: resources/index4.qmd
+#          - text: "Immersive Applications"
+#            href: resources/index5.qmd
+#          - text: "AI Tools"
+#            href: resources/index6.qmd
 
       - text: "Recruitment"
         menu:
           - text: "Main Recruitment Page"
-            href: recruitment/index.qmd
+            href: recruitment/main-page.qmd
           - text: "Available Studies"
-            href: recruitment/index-2.qmd
-          - text: "Researcher Requirements"
-            href: recruitment/index-3.qmd
+            href: recruitment/available-studies.qmd
+
 
 
       - text: "Platforms"
@@ -76,17 +72,15 @@ website:
           - text: "Main Platforms Page"
             href: platforms/index.qmd
           - text: "Gorilla.sc Open"
-            href: https://app.gorilla.sc/openmaterials/1112705
+            href: platforms/gorilla.qmd
           - text: "SONA (In-development)"
             href: platforms/sona/index.qmd
           - text: "Panopto"
             href: platforms/panopto.qmd
           - text: "JISC"
             href: platforms/jisc.qmd
-          - text: "GitHub"
-            href: https://github.com/WU-Psychology-Technician
-            
-
+          - text: "IT Support"
+            href: https://wrexhamuniversity.servicedeskplus.uk/app/itdesk/ui/ssp/pages/home
 
 
       - text: "Data Science"
@@ -102,13 +96,15 @@ website:
           - text: "Research Methods"
             href: data-science/index-3.qmd
 
+      - text: "Staff"
+        menu:
+          - text: "Main Staff Page"
+            href: updates/staff.qmd
 
       - text: "News"
         menu:
           - text: "Main News Page"
             href: updates/index.qmd
-          - text: "Current Technician Tasks"
-            href: updates/tasks.qmd
           - text: "Feedback"
             href: updates/feedback.qmd
 

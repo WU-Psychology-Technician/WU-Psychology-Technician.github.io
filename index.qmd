@@ -8,7 +8,7 @@ date-format: "DD-MM-YYYY"
 ::: callout-important
 # Website Maintenance
 
-The site will be getting periodically updated before the start of the [**academic year 2026/27**]{.underline} with additional content and features.
+The site will be getting periodically updated during the year of the with additional content and features.
 :::
 
 ::: accent
@@ -17,7 +17,7 @@ We provide technical expertise, equipment support, and resources to students and
 
 ------------------------------------------------------------------------
 
-::::::::::::: {.grid style="grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem;"}
+::::::::::::::: {.grid style="grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem;"}
 :::: card
 ::: card-body
 <h3 class="card-title">
@@ -28,6 +28,7 @@ Equipment
 
 <p>Learn about our available lab equipment, from EDA and eye tracking to Biopac and CANTAB. Booking information and guides included.</p>
 
+```{=html}
 <img src="images/equipment-logo.png" 
      alt="PsyTech Icon" 
      style="width: 200px; 
@@ -35,8 +36,10 @@ Equipment
             margin-left: 20px;
             margin-top: 30px;
             margin-bottom: 0.05rem;">
+```
 :::
 ::::
+
 :::: card
 ::: card-body
 <h3 class="card-title">
@@ -47,6 +50,7 @@ Resources
 
 <p>Access training materials, SOPs, and tutorials on tools/platforms such as SPSS, R, Gorilla, and PsychoPy.</p>
 
+```{=html}
 <img src="images/resources.png" 
      alt="PsyTech Icon" 
      style="width: 110px; 
@@ -54,8 +58,7 @@ Resources
             margin-left: 70px;
             margin-top: 50px;
             margin-bottom: 0.05rem;">
-
-
+```
 :::
 ::::
 
@@ -63,12 +66,13 @@ Resources
 ::: card-body
 <h3 class="card-title">
 
-PsyTech Support
+PsychTech Support
 
 </h3>
 
 <p>Meet the technicians, book time with us, and discover how we can help with your research and teaching projects.</p>
 
+```{=html}
 <img src="../images/psy-tech-image-2.png" 
      alt="PsyTech Icon" 
      style="width: 170px; 
@@ -76,6 +80,7 @@ PsyTech Support
             margin-top: 18px;
             margin-left: 37px; 
             margin-bottom: 0.05rem;">
+```
 :::
 ::::
 
@@ -87,8 +92,11 @@ Booking Slots
 
 </h3>
 
-<p>We provide flexible meeting slots on a daily basis. Feel free to book in to discuss your technical needs. <b> [Click here to book a meeting with us.](https://outlook.office.com/book/PsychTechWrexham@MAILGLYNDWRAC.onmicrosoft.com/?ismsaljsauthenabled)</p> </b>
+<p>We provide flexible meeting slots on a daily basis. Feel free to book in to discuss your technical needs. <b> [Click here to book a meeting with us.](https://outlook.office.com/book/PsychTechWrexham@MAILGLYNDWRAC.onmicrosoft.com/?ismsaljsauthenabled)</p>
 
+</b>
+
+```{=html}
 <img src="images/booking.jpg" 
      alt="PsyTech Icon" 
      style="width: 120px; 
@@ -96,8 +104,10 @@ Booking Slots
             margin-top: 80px;
             margin-left: 50px; 
             margin-bottom: 0.2rem;">
+```
 :::
 ::::
+
 :::: card
 ::: card-body
 <h3 class="card-title">
@@ -108,6 +118,7 @@ Student Guides
 
 The technicians have created guides to help students complete Risk Assessments, submit Online Ethics applications, and explore case studies showcasing the lab’s capabilities.
 
+```{=html}
 <img src="images/guide.png" 
      alt="PsyTech Icon" 
      style="width: 100px; 
@@ -115,7 +126,7 @@ The technicians have created guides to help students complete Risk Assessments, 
             margin-top: 40px;
             margin-left: 70px; 
             margin-bottom: 0.2rem;">
-
+```
 :::
 ::::
 
@@ -129,40 +140,43 @@ Data Science
 
 The technicians are creating guides and case studies on data science topics such as probability theory, statistics, and research methods necessary for psychology students and researchers.
 
+```{=html}
 <img src="images/data-science.jpg" 
      alt="PsyTech Icon" 
      style="width: 140px; 
             display: block; 
             margin-left: 50px; 
             margin-bottom: 0.2rem;">
-
+```
 :::
 ::::
-:::::::::::::
+:::::::::::::::
 
 ------------------------------------------------------------------------
 
 ## Explore Our Site
 
-To find what you need, please visit the sections above:
+To find what you need, please visit each of these sections above:
 
--   [**About**](About/index.qmd) – learn more about our role and expertise
+- [**About**](About/index.qmd) – learn more about our role and expertise
 
--   [**Equipment**](Equipment/index.qmd) – discover the tools and technologies available
+- [**Equipment**](Equipment/index.qmd) – discover the tools and technologies available
 
--   [**Students**](Students/index.qmd) - Year 3 / Level 6 students will be able to publish their study on the [SONA platform](Students/SONA/index.qmd) (**Currently in-development**) section
+- [**Students**](Students/index.qmd) - Level 6 students will have access to a few guides such as general ethics and the ethics online application
 
--   [**Resources**](Resources/index.qmd) - access open-source and academic tools
+- [**Staff**](staff/staff.qmd) **-** A page for staff to access all necessary submission form requests to the PsychTech. If you are a student then you can ignore this page.
 
--   [**Recruitment**](recruitment/index.qmd) A page to host our internal and external available studies page.
+- [**Resources**](Resources/index.qmd) - access open-source and academic tools
 
--   [**Platforms**](platforms/index.qmd)- All the main platforms the psychology department use for teaching and research.
+- [**Recruitment**](recruitment/index.qmd) A page to host our internal and external available studies page.
 
--   [**Data Science**](data-science/index.qmd) - An upcoming repository of teaching materials and instructions in regards to research methods, statistics and other quantitative applications for psychology students.
+- [**Platforms**](platforms/index.qmd)- All the main platforms the psychology department use for teaching and research.
 
--   [**News**](Updates/index.qmd) - get the latest news on training and short courses provided by the department
+- [**Data Science**](data-science/index.qmd) - An upcoming repository of teaching materials and instructions in regards to research methods, statistics and other quantitative applications for psychology students.
 
--   [**Contact**](contact/index.qmd) – get in touch with the Psychology Technicians team
+- [**News**](Updates/index.qmd) - get the latest news on training and short courses provided by the department
+
+- [**Contact**](contact/index.qmd) – get in touch with the Psychology Technicians team
 
 ------------------------------------------------------------------------
 
@@ -171,3 +185,18 @@ To find what you need, please visit the sections above:
 To find the rest of the psychology staff, please see our [**full staff page**](https://wrexham.ac.uk/research/our-research/faculty-of-social-and-life-sciences/psychology--counselling/) on the main Wrexham University website.
 
 ------------------------------------------------------------------------
+
+## Wrexham University Widget
+
+Use the Wrexham University Logo Widget on the bottom right of the page to access quick links to several external websites that you are very likely to use during your time at Wrexham University!
+
+Specifically,
+
+- Gorilla.sc
+- JISC
+- Wrexham IT Support
+- PsychTech Booking System
+- Wrexham Digital Skills
+- OSF Repositories
+- Moodle
+- GitHub

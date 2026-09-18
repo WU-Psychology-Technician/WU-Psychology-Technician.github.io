@@ -1,32 +1,30 @@
 ---
-title: "Case Studies"
-format: html
+title: "Dissertation - Case Studies "
+editor: visual
 ---
 
-The psychology technicians have worked extensively across the department with almost 
+This page will give you some case studies of Dissertation projects we have worked on for 3rd year students from previous years. Their projects have all required use of our equipment or specialist skills. You should get an idea of the variety of projects that you could undertake and the level of support you’ll get from us as the Psychology technicians.
 
+# Case Study 1
 
-# Psychology Laboratory 
+## **The Modality Effect: Investigating Differential Memory Encoding for Visual and Auditory Stimuli**
 
-- Our psychophiosiological laboratory holds several equipment and miscellaneous items to conduct in-person experiments. We hold two experimental cubicles that have full temperature and ventilation control. 
+**Technologies & Platforms Used: `Gorilla.sc`**
 
+> How do our brains prioritize information based on how it is delivered? In this research project, we investigated the influence of sensory modality on the encoding of neutral verbal stimuli. By utilizing Gorilla.sc, we developed a rigorous online experiment that isolated visual and auditory presentation methods, requiring participants to perform a recognition task following initial exposure. This project highlights the critical role of technical support in psychological research, with the Psychology Technical team providing end-to-end guidance in experimental development, stimulus control, and the technical orchestration of the study’s logical flow.
 
-# Gorilla 
+# Case Study 2
 
-The deparment also spends time using [Gorilla.sc](http://gorilla.sc/) for teaching across modules and also assisting students who wish to use multi-design research and experimental studies. We also subscribe to using JISC and with their recent 2025 [JISC x Gorilla](https://www.chest.ac.uk/announcements/new-gorilla-agreement/) agreement we have efficient functionality across our department to establish well rounded research and launching functional survey x experimental studies.
+## **"Do We Know What We Know? Examining Confidence and Capacity in Episodic Memory"**
 
+**Technologies & Platforms Used: `Gorilla.sc`**
 
-We also provide some Gorilla Open Materials publicly available and made by previous and current academic staff and psychology technicians. 
+> A key question in cognitive aging and psychology is how well our confidence in our memory—our self-efficacy—aligns with our actual performance. In this project, we leveraged the Gorilla.sc platform to deploy a two-part assessment. First, participants completed the MIA-Revised Capacity scale to gauge their perceived memory capabilities. Following this, they performed a series of episodic memory tasks involving the identification of neutral, everyday stimuli. This study served as a critical exploration of whether high memory self-efficacy translates to superior mnemonic accuracy.
 
+# Case Study 3
 
-# PsychoPy x Tobii EyeTracking 
+## **Where Does the Magic Happen? An Eye-Tracking Analysis of Misdirection**
 
-- We have worked on helping students using Psychopy and Tobii for synchronous video and Area Of Interest (AOI) based research. We fully constructed the appropriate modules for their experiments.
+**Technologies & Platforms Used: `Tobii EyeTracking`, `Gorilla.sc`, `Tobii Pro Labs`**
 
-
-
-
-
-
-
-
+> Magic is fundamentally a study of human attention. In this dissertation project, we collaborated with a Wrexham University colleague to deconstruct the art of the 'classic sleight.' The student asked a critical question: when witnessing a magic trick, do we follow the eyes or the hands? By tracking the visual gaze of participants as they observed a live magic routine, this research mapped the precise moments where human attention is captured, held, and—ultimately—misdirected.

@@ -6,7 +6,8 @@ date-format: "DD-MM-YYYY"
 
 # About the Psychology Technicians
 
-The Psychology Technicians at [Wrexham University](https://wrexham.ac.uk/) provide essential technical support, training, and expertise to staff and students in the Psychology Department.\
+The Psychology Technicians at [Wrexham University](https://wrexham.ac.uk/) provide essential technical support, training, and expertise to staff and students in the Psychology Department.
+
 We ensure that teaching, research, and student projects are supported with the right tools, equipment, and guidance.
 
 ------------------------------------------------------------------------
@@ -57,7 +58,7 @@ Sam Vizcaino-Vickers
 
 <p>Psychology Technician</p>
 
-<p>Specialist in data science, experimental design, and supporting advanced research methods. I provide technical expertise to help design, implement, and analyse complex experiments, ensuring robust and reproducible results. My work spans data management, statistical modelling, and the integration of open source tools and software to optimise research workflows. I collaborate closely with students and staff to translate research questions into practical study designs and actionable insights, supporting projects from conception through to final reporting</p>
+<p> [Sam Vickers](https://sam-vizcaino-vickers.github.io/) works as one of the Psychology Technician, his working days are Wednesday-Friday. Sam graduated from Nottingham Trent University with a BSc in Psychology (Mental Health Pathway) in 2022, and an MRes in Research in Psychological Research Methods in 2024. His research interests lie in Computational Modelling, Psychometrics, and Bayesian Statistics, particularly advanced methods for analyzing multivariate data. Sam has worked in multiple research assistant roles and has specialist expertise in the equipment held in the Psychology lab. He supports students and staff across practical lab work and research projects, ensuring smooth operation of laboratory facilities. I collaborate closely with students and staff to translate research questions into practical study designs and actionable insights, supporting projects from conception through to final reporting. Currently Sam is pursuing a PhD at Cardiff University</p>
 :::
 ::::
 
@@ -71,7 +72,7 @@ Yusra Aurangzeb
 
 <p>Psychology Technician</p>
 
-<p>Specialising in providing support with experimental queries, data collection setups, and guidance on managing data for assignments. She works closely with students and staff to ensure that projects run smoothly, offering technical assistance and practical advice at every stage of the research process..</p>
+<p>Yusra Aurangzeb works alongside Sam as the Psychology Technician, her working days are Monday-Wednesday. Yusra has completed her undergraduate degree in Psychology and Cognitive Science from the University of Georgia. Yusra joined the Psychology team at Wrexham University as a part-time technician in January of 2022. Her role encompasses many aspects that include providing support to both staff and students with research, dissertation, statistics, technology and software, and experimental work within the Psychology programmes. Currently, Yusra is pursuing a master's in occupational and organizational psychology at Northumbria University.</p>
 :::
 ::::
 :::::::
@@ -80,4 +81,4 @@ Yusra Aurangzeb
 
 ## Contact Us
 
-If you’d like to know more, book equipment, or get support for your project, head to our [Contact page](/contact/).
+If you’d like to know more, book equipment, or get support for your project, head to our [Contact page](/contact/) or book a session with us via our [Booking System](https://bookings.cloud.microsoft/book/PsychTechWrexham@MAILGLYNDWRAC.onmicrosoft.com/?ismsaljsauthenabled). 

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Ethics – PsyTech - Wrexham University</title>
+<title>general-ethics-guide – PsychTech - Wrexham University</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -72,6 +72,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../styles.css">
 </head>
@@ -248,7 +277,7 @@ ul.task-list li input[type="checkbox"] {
     <img src="../../images/wrexham-icon.jpeg" alt="" class="navbar-logo dark-content">
     </a>
     <a class="navbar-brand" href="../../index.html">
-    <span class="navbar-title">PsyTech - Wrexham University</span>
+    <span class="navbar-title">PsychTech - Wrexham University</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -275,23 +304,8 @@ ul.task-list li input[type="checkbox"] {
  <span class="dropdown-text">Laboratory</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../about/index-3.html">
- <span class="dropdown-text">Dissertation Case Studies</span></a>
-  </li>  
-    </ul>
-  </li>
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-equipment" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Equipment</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-equipment">    
-        <li>
-    <a class="dropdown-item" href="../../equipment/index.html">
- <span class="dropdown-text">Main Equipment Page</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../../equipment/index-2.html">
- <span class="dropdown-text">Bucket List - Equipment</span></a>
+    <a class="dropdown-item" href="../../about/FAQ.html">
+ <span class="dropdown-text">FAQ</span></a>
   </li>  
     </ul>
   </li>
@@ -301,28 +315,28 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-students">    
         <li>
-    <a class="dropdown-item" href="../../students/index.html">
+    <a class="dropdown-item" href="../../students/student-main-page.html">
  <span class="dropdown-text">Main Student Page</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../students/case-studies/index.html">
- <span class="dropdown-text">Case Studies (In Development)</span></a>
+    <a class="dropdown-item" href="../../students/case-studies/case-studies.html">
+ <span class="dropdown-text">Dissertation Case Studies</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../students/H&amp;s/index.qmd">
+    <a class="dropdown-item" href="../../students/H&amp;S/risk-assessments.html">
  <span class="dropdown-text">Risk Assessments</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../students/ethics/index.html">
+    <a class="dropdown-item" href="../../students/ethics/general-ethics-guide.html">
  <span class="dropdown-text">General Ethics Guide</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../students/vidatum-academic/index.html">
+    <a class="dropdown-item" href="../../students/vidatum-academic/online-ethics-guide.html">
  <span class="dropdown-text">Online Ethics Application Guide</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="https://gemini.google.com/gem/a302fe46b25e?usp=sharing">
- <span class="dropdown-text">Learning Navigator</span></a>
+    <a class="dropdown-item" href="https://bookings.cloud.microsoft/book/PsychTechWrexham@MAILGLYNDWRAC.onmicrosoft.com/?ismsaljsauthenabled">
+ <span class="dropdown-text">PsychTech Booking System</span></a>
   </li>  
     </ul>
   </li>
@@ -336,24 +350,16 @@ ul.task-list li input[type="checkbox"] {
  <span class="dropdown-text">Main Resources Page</span></a>
   </li>  
         <li>
+    <a class="dropdown-item" href="../../equipment/index.html">
+ <span class="dropdown-text">Equipment</span></a>
+  </li>  
+        <li>
     <a class="dropdown-item" href="../../resources/index2.html">
  <span class="dropdown-text">Psychometric Scales</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../../resources/index3.html">
  <span class="dropdown-text">Experimental Tasks</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../../resources/index4.html">
- <span class="dropdown-text">Coding Repository</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../../resources/index5.html">
- <span class="dropdown-text">Immersive Applications</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../../resources/index6.html">
- <span class="dropdown-text">AI Tools</span></a>
   </li>  
     </ul>
   </li>
@@ -363,16 +369,12 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-recruitment">    
         <li>
-    <a class="dropdown-item" href="../../recruitment/index.html">
+    <a class="dropdown-item" href="../../recruitment/main-page.html">
  <span class="dropdown-text">Main Recruitment Page</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../recruitment/index-2-soon.html">
+    <a class="dropdown-item" href="../../recruitment/available-studies.html">
  <span class="dropdown-text">Available Studies</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../../recruitment/index-3.html">
- <span class="dropdown-text">Researcher Requirements</span></a>
   </li>  
     </ul>
   </li>
@@ -386,7 +388,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="dropdown-text">Main Platforms Page</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="https://app.gorilla.sc/openmaterials/1112705">
+    <a class="dropdown-item" href="../../platforms/gorilla.html">
  <span class="dropdown-text">Gorilla.sc Open</span></a>
   </li>  
         <li>
@@ -402,8 +404,8 @@ ul.task-list li input[type="checkbox"] {
  <span class="dropdown-text">JISC</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="https://github.com/WU-Psychology-Technician">
- <span class="dropdown-text">GitHub</span></a>
+    <a class="dropdown-item" href="https://wrexhamuniversity.servicedeskplus.uk/app/itdesk/ui/ssp/pages/home">
+ <span class="dropdown-text">IT Support</span></a>
   </li>  
     </ul>
   </li>
@@ -417,7 +419,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="dropdown-text">Main Data Science page</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../data-science/index5.qmd">
+    <a class="dropdown-item" href="../../data-science/index-5.html">
  <span class="dropdown-text">Mathematical Prerequisites</span></a>
   </li>  
         <li>
@@ -425,12 +427,23 @@ ul.task-list li input[type="checkbox"] {
  <span class="dropdown-text">Probability</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../data-science/index-2.html">
+    <a class="dropdown-item" href="../../data-science/index-2-soon.html">
  <span class="dropdown-text">Statistics</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../../data-science/index-3.html">
  <span class="dropdown-text">Research Methods</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-staff" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Staff</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-staff">    
+        <li>
+    <a class="dropdown-item" href="../../updates/staff.qmd">
+ <span class="dropdown-text">Main Staff Page</span></a>
   </li>  
     </ul>
   </li>
@@ -442,14 +455,6 @@ ul.task-list li input[type="checkbox"] {
         <li>
     <a class="dropdown-item" href="../../updates/index.html">
  <span class="dropdown-text">Main News Page</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../../updates/tasks.html">
- <span class="dropdown-text">Current Technician Tasks</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../../updates/FAQ.html">
- <span class="dropdown-text">FAQ</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../../updates/feedback.html">
@@ -502,7 +507,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#where-to-find-ethics-templates" id="toc-where-to-find-ethics-templates" class="nav-link" data-scroll-target="#where-to-find-ethics-templates">4.5 Where to find Ethics Templates&nbsp;</a></li>
   <li><a href="#where-to-find-the-research-application-website" id="toc-where-to-find-the-research-application-website" class="nav-link" data-scroll-target="#where-to-find-the-research-application-website">4.5 Where to find the Research Application website&nbsp;</a></li>
   <li><a href="#where-to-find-all-the-information-for-my-dissertation" id="toc-where-to-find-all-the-information-for-my-dissertation" class="nav-link" data-scroll-target="#where-to-find-all-the-information-for-my-dissertation">4.6 Where to find all the information for my dissertation?</a></li>
-  <li><a href="#who-to-ask-for" id="toc-who-to-ask-for" class="nav-link" data-scroll-target="#who-to-ask-for">4.7 Who to ask for&nbsp;</a></li>
+  <li><a href="#who-to-ask-for-help" id="toc-who-to-ask-for-help" class="nav-link" data-scroll-target="#who-to-ask-for-help">4.7 Who to ask for Help</a></li>
   </ul></li>
   <li><a href="#common-student-research-themes-and-additional-ethical-considerations" id="toc-common-student-research-themes-and-additional-ethical-considerations" class="nav-link" data-scroll-target="#common-student-research-themes-and-additional-ethical-considerations">5. Common Student Research Themes and Additional Ethical Considerations</a>
   <ul class="collapse">
@@ -518,31 +523,15 @@ ul.task-list li input[type="checkbox"] {
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Ethics</h1>
-</div>
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
 
 
 <section id="psychology-research-ethics-guidance-for-students" class="level1">
 <h1>Psychology Research Ethics Guidance for Students</h1>
-<p><strong>Document status and authorship</strong> This page has been generated collaboratively using artificial intelligence and human academic oversight. It is not a final or static policy document. Instead, it is a living, evolving resource intended to support psychology students across academic years in understanding and applying research ethics in practice. It should be read alongside formal university ethics procedures and supervisor guidance. Students are encouraged to consult only the sections relevant to their specific project rather than reading the document in its entirety; however, those intending to pursue psychology in an academic or research-focused context are strongly advised to engage with the full document, as it outlines foundational ethical principles and practices that are essential for academic psychological research.</p>
+<p><strong>Document status and authorship</strong> - This page has been generated collaboratively using artificial intelligence and human academic oversight. It is not a final or static policy document. Instead, it is a living, evolving resource intended to support psychology students across academic years in understanding and applying research ethics in practice. It should be read alongside formal university ethics procedures and supervisor guidance. Students are encouraged to consult only the sections relevant to their specific project rather than reading the document in its entirety; however, those intending to pursue psychology in an academic or research-focused context are strongly advised to engage with the full document, as it outlines foundational ethical principles and practices that are essential for academic psychological research.</p>
 <p><strong>Do / Do Not Guidance:</strong></p>
 <ul>
 <li>✅ Use this document as a practical guide alongside formal procedures</li>
@@ -550,11 +539,22 @@ ul.task-list li input[type="checkbox"] {
 <li>❌ Treat this as a final or exhaustive policy</li>
 <li>❌ Feel obliged to read every section if it is not relevant to your study</li>
 </ul>
+<p>The British Psychological Society has outlined the importance of ethical understanding in their BPS code of ethics, I have put them here and in the Online Ethics Guide.</p>
+<ul>
+<li><p>BPS Code of Ethics (Welsh) <span class="math inline">\(\rightarrow\)</span> <a href="https://explore.bps.org.uk/content/report-guideline/bpsrep.2021.inf94a" class="uri">https://explore.bps.org.uk/content/report-guideline/bpsrep.2021.inf94a</a></p></li>
+<li><p>BPS Code of Ethics (English) <span class="math inline">\(\rightarrow\)</span> <a href="https://explore.bps.org.uk/content/report-guideline/bpsrep.2021.inf94" class="uri">https://explore.bps.org.uk/content/report-guideline/bpsrep.2021.inf94</a></p></li>
+</ul>
 <hr>
 <section id="purpose-of-this-document" class="level2">
 <h2 class="anchored" data-anchor-id="purpose-of-this-document">&nbsp;1. Purpose of This Document</h2>
 <p>This document is designed to support psychology students in preparing ethically sound research proposals and ethics applications. Its primary aim is to translate core ethical principles—particularly those articulated by the British Psychological Society (BPS)—into practical guidance that aligns with the expectations of Research Ethics Committees (RECs). The emphasis throughout is on ethical viability, feasibility, and institutional responsibility, rather than simply regulatory compliance.</p>
-<p>It provides guidance on: practical implementation of ethics, common pitfalls for students, additional considerations for REC review, and guidance for managing sensitive or complex aspects of research.</p>
+<p>It provides guidance on:</p>
+<ul>
+<li><p>practical implementation of ethics,</p></li>
+<li><p>common pitfalls for students,</p></li>
+<li><p>additional considerations for REC review,</p></li>
+<li><p>and guidance for managing sensitive or complex aspects of research.</p></li>
+</ul>
 <p><strong>Do / Do Not Guidance:</strong></p>
 <ul>
 <li>✅ Consult supervisors early and regularly</li>
@@ -740,9 +740,9 @@ ul.task-list li input[type="checkbox"] {
 <li>You can find all the necessary information such as assessment briefs, rubrics, and tips on how to write your dissertation on the Moodle Page of PSY619 (Undergraduates), PSY771 (MSc Applied), PSY775 (MSc Conversion).&nbsp;</li>
 </ul>
 </section>
-<section id="who-to-ask-for" class="level3">
-<h3 class="anchored" data-anchor-id="who-to-ask-for">4.7 Who to ask for&nbsp;</h3>
-<p>&nbsp;</p>
+<section id="who-to-ask-for-help" class="level3">
+<h3 class="anchored" data-anchor-id="who-to-ask-for-help">4.7 Who to ask for Help</h3>
+<p>Your supervisor should be your first point of contact throughout this entire process. Your personal tutor should be separate from your dissertation project.</p>
 <hr>
 </section>
 </section>
@@ -873,19 +873,19 @@ ul.task-list li input[type="checkbox"] {
 <li><p><strong><em>Experiments</em></strong></p>
 <ul>
 <li><p>Decide upon research question&nbsp;</p></li>
-<li><p>Use the appropriate templates that can be found on <a href="[https://wrexham.ac.uk/research/our-research/research-ethics/how-to-apply--university-templates/](https://wrexham.ac.uk/research/our-research/research-ethics/how-to-apply--university-templates/)">Link</a></p></li>
+<li><p>Use the appropriate templates that can be found on this link <a href="[https://wrexham.ac.uk/research/our-research/research-ethics/how-to-apply--university-templates/](https://wrexham.ac.uk/research/our-research/research-ethics/how-to-apply--university-templates/)">here</a></p></li>
 <li><p>Decide statistical model that fits the research question.&nbsp;</p>
 <ul>
 <li>i.e.&nbsp;T-tests, Linear Regression, ANOVA, Poisson, Zero Inflated Count Models etc.&nbsp;</li>
 </ul></li>
-<li><p>Find an appropriate psychological measure that can be understood in an experimental procedure</p></li>
+<li><p>Find an appropriate psychological task or measure that can be understood in an experimental procedure</p></li>
 <li><p>Explain why you require specific demographics in relation to the measure of interest you want to research</p></li>
 <li><p>Decide if you will be doing a face-to-face or online experiment</p></li>
 <li><p>Consult with Psychology Technician with Supervisor approval if the experiment for assistance in creation and deployment of the experiment.</p></li>
-<li><p>**[If Face-to-Face**] Contact Psychology Technician to obtain K115 booking for experiment</p></li>
-<li><p>**[If Face-to-Face**] Create and Conduct experiment with participant(s)</p></li>
+<li><p><strong>[If Face-to-Face]</strong> Contact Psychology Technician to obtain K115 booking for experiment</p></li>
+<li><p><strong>[If Face-to-Face]</strong> Create and Conduct experiment with participant(s)</p></li>
 <li><p>[<strong><em>If using Gorilla.sc</em></strong>]&nbsp;Obtain approval to use Gorilla.sc platform from Psychology Technician with Supervisor approval.&nbsp;</p></li>
-<li><p>[<strong><em>If using Gorilla.sc</em></strong>] Use Gorilla.sc Tutorial to understand how to use the platform.&nbsp;&nbsp;</p></li>
+<li><p>[<strong><em>If using Gorilla.sc</em></strong>] Use Gorilla.sc tutorial to understand how to use the platform.&nbsp;&nbsp;</p></li>
 <li><p>[<strong><em>If using Gorilla.sc</em></strong>] Insert materials into Gorilla.sc&nbsp;</p></li>
 <li><p>[<strong><em>If using Gorilla.sc</em></strong>] Create experiment tree</p></li>
 <li><p>[<strong><em>If using Gorilla.sc</em></strong>] Obtain tokens from psychology technician with approval from supervisor</p></li>
@@ -1389,6 +1389,107 @@ document.addEventListener("DOMContentLoaded", function() {
     <circle class="tech-node" cx="170" cy="380" r="4.5"></circle> <circle class="tech-node" cx="130" cy="640" r="4"></circle>   <circle class="tech-node" cx="100" cy="900" r="3"></circle>   <circle class="tech-node" cx="100" cy="450" r="2.5"></circle> </svg>
 
 </div>
+<div id="google_translate_element" style="display:none;"></div>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+<script type="text/javascript">
+
+  function googleTranslateElementInit() {
+
+    new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'en,cy'}, 'google_translate_element');
+
+  }
+
+</script>
+
+
+
+<script>
+
+document.addEventListener("DOMContentLoaded", function() {
+
+  const CYMRU_FLAG = 'https://upload.wikimedia.org/wikipedia/commons/d/dc/Flag_of_Wales.svg';
+
+  const ENGLAND_FLAG = 'https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg';
+
+
+
+  function setupLangButton() {
+
+    const navTools = document.querySelector('.quarto-navbar-tools');
+
+    if (!navTools || document.getElementById('lang-trigger')) return;
+
+
+
+    const langBtn = document.createElement('div');
+
+    langBtn.id = 'lang-trigger';
+
+    langBtn.style.cursor = 'pointer';
+
+    langBtn.style.padding = '5px';
+
+    langBtn.innerHTML = `<img src="${CYMRU_FLAG}" style="width:24px; vertical-align:middle;">`;
+
+    navTools.insertBefore(langBtn, navTools.firstChild);
+
+
+
+    langBtn.addEventListener('click', function() {
+
+      const select = document.querySelector('.goog-te-combo');
+
+      if (select) {
+
+        // Detect current language from Google's internal value
+
+        const currentLang = select.value;
+
+        const newLang = (currentLang === 'cy') ? 'en' : 'cy';
+
+        
+
+        // Update Google Translate
+
+        select.value = newLang;
+
+        select.dispatchEvent(new Event('change'));
+
+        
+
+        // Immediate visual update to flag
+
+        const img = langBtn.querySelector('img');
+
+        img.src = (newLang === 'cy') ? ENGLAND_FLAG : CYMRU_FLAG;
+
+      }
+
+    });
+
+  }
+
+
+
+  // Poll for navbar and widget
+
+  const interval = setInterval(() => {
+
+    if (document.querySelector('.quarto-navbar-tools') && document.querySelector('.goog-te-combo')) {
+
+      setupLangButton();
+
+      clearInterval(interval);
+
+    }
+
+  }, 300);
+
+});
+
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right

@@ -13,7 +13,7 @@ execute:
   freeze: true
 ---
 
-# Equipment and Facilities
+# Equipment
 
 The Psychology Department at Wrexham University has a wide range of
 specialist equipment to support teaching, research, and student
@@ -113,51 +113,14 @@ training
   interaction in both research and applied contexts, bringing realism
   and precision into immersive simulations. ---
 
-# Facilities
-
-## Centre of the Child
-
-The Centre of the Child has allowed us to use their facilities to be
-able conduct observational studies with the children within the play
-areas. Interested dissertation student's can use this available facility
-for their project's. Please book a [*technical meeting*]{.underline} via
-the [booking
-system](https://outlook.office.com/book/PsychTechWrexham@MAILGLYNDWRAC.onmicrosoft.com/?ismsaljsauthenabled)
-for more information.
-
-## Flight Simulator
-
-Our engineering department has a flight simulator where the psychology
-department obtains permission for both teaching and research purposes.
-Interested dissertation student's can use this available facility for
-their project's. Please book a *technical meeting* via the [booking
-system](https://outlook.office.com/book/PsychTechWrexham@MAILGLYNDWRAC.onmicrosoft.com/?ismsaljsauthenabled)
-for more information.
-
-## Immersive Technologies - SILC Building
-
-The SILC Building comprises of several different immersive technologies
-at disposal. In essence, this building allows for dissertation student's
-to be able to conduct VR-based dissertations for their undergratuate /
-postgraduate projects. Please book a *technical meeting* via the
-[booking
-system](https://outlook.office.com/book/PsychTechWrexham@MAILGLYNDWRAC.onmicrosoft.com/?ismsaljsauthenabled)
-for more information.
-
-These type of projects need to be developed very far in advance and
-therefore early talks the better as the technicians cannot work on all
-the student projects available due to capacity.
-
 ## Booking and Training
 
-- Equipment can only be booked in advance via the [Psychology
-  Technicians](https://wu-psychology-technician.github.io/) with prior
-  approval from your supervisor.\
+- Equipment can only be booked in advance via the Psychology Technicians
+  with prior approval from your supervisor.\
 - Training is provided where specialist knowledge is required (e.g.,
   ECG, EDA, Eye Tracking).\
 - Students are encouraged to discuss project needs early so we can plan
   suitable training and ensure availability of equipment.
 
-For all bookings and enquiries, please contact us at:\
-📧
+For all bookings and enquiries, please contact us at: 📧
 [**psychology.technician\@wrexham.ac.uk**](mailto:psychology.technician@wrexham.ac.uk)

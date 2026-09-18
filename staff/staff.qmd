@@ -1,0 +1,72 @@
+---
+title: "Staff - Main Page"
+format: html
+---
+
+This page is to make all necessary documents, forms, and submissions available for internal and sessional staff at Wrexham University Psychology Department. If you are a student then please do ignore this page. We also try to collaborate both with other wrexham university departments in terms of research and providing technical resources.
+
+# Research Projects
+
+Our goal for this section is to improve research culture and research development within Wrexham University and our departmental staff and external collaborators.
+
+Therefore, to open our services more for collaborative research then use these forms below if you wish to request any assistance for our psychology technicians in a research capacity *or* to announce any positions for students on our "News" section. We will also inform them via our Moodle Page across all years.
+
+- [Technician Research Assistance - Form](): If you wish for any technical capacity for your project(s) then please submit this form so we can provide the technical expertise for your research at hand as we try to support both psychology and other departments. (**\~in-development**)
+
+- [Student Research Assistant Advertisement Form](): (**\~in-development**)
+
+- [Student Research Voluntary Assistant Advertisement Form]() **(\~in-development**)
+
+# PsychTech Page Advertisement 
+
+- [PsychTech Research Advert - Form](): If you wish to advertise your study onto the PsychTech page then please just quickly submit this form as there are some essential bits of info we need for due diligence. (~in-development)
+
+# Platform Access
+
+The forms below provide a way for researchers from the department to get access to our subscription-based platforms to access online tools for data collection.
+
+- [JISC Online Surveys - Staff Account Request Creation](https://forms.cloud.microsoft/e/DGEQ0hqRVg)
+
+- [Gorilla.sc Account Request Creation](https://forms.cloud.microsoft/e/Kyn5AWj0SQ)
+
+- [SONA Account Request Creation]() **(\~in-development)**
+
+# Purchase & Investments
+
+These documents are for psychology staff to insert there interests in specific equipment they have found in the literature and wish to use for their upcoming projects. These forms give us the detail necessary to request approvals and raise requisitions, and help us give colleagues our most efficient service.
+
+- [Technical Equipment Purchase Request](): use this form above to submit requests for requisitions to be raised for technical equipment in psychology. (**\~in-development**)
+
+- [Non-Standard Office Equipment Purchase Request](): Use this form to submit requests for work equipment/furniture for individual use. (**\~in-development**)
+
+- [Future Capital Equipment Investment Form](): Psychtech would like to collate information and details on the future small spend and capital spend equipment that staff would like the school to purchase for psychology. (**\~in-development**)
+
+- [Future Small Equipment Investment Form](): Please log any such requests on the above Future Equipment Investment Request form, which will be reviewed periodically by the department management. (**\~in-development**)
+
+# Health & Safety
+
+Any relevant H&S documents will be outlined within this section for staff to quickly access.
+
+- [H&S Staff- Incidence Report Form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=2Hi6C01P2U2bWu4SGxFu_jb8NwvXdA1DlSKFey8X0Z9UQUowNEtHMElJNjVOQlBCQkg5SzExUFoxVy4u) - Please report any incidents using this workplace inspection form. The PsychTech covers any H&S issues noted by the Psychology & Counselling departments.
+
+# Research Data Retention 
+
+If you wish for any data to be retrieved from your research collaborators or students then please submit this form and we will liaise with the Research Office to ascertain further details on whether you have access.
+
+The accounts across these platforms are all subject to deletion based on the specific platform management services, therefore, requestees must make sure to complete these as soon as possible if you require the data before it is deleted.
+
+- [JISC Online Surveys - Data & Ownership Transfer Form](https://forms.cloud.microsoft/e/mSmcdrsZfX): Our technicians can access all studies available on this site and can grant owner access to supervisors or collaborators if they require permission if the original owners have left the university. note - JISC users are deleted within 90 days of inactivity.
+
+- [Gorilla.sc - Data & Retention Transfer Form](): Our technicians can access all studies available on this site and can grant owner access to supervisors or collaborators if they require permission **if** the original owners have left the university. note - Students are deleted bi-annually if they are no longer on the course. (\~in-development)
+
+- [PsychoPy Data Retention & Transfer Form](): Our PsychoPy data are placed within the laboratory pods. We can easily access them but we request for ethical details to ascertain you have permission to get this data. note - data is deleted bi-annually if the files have not been edited within a 2 year time-frame. (\~in-development)
+
+- [Tobii Data Retention & Transfer Form](): Our Laptops that use Tobii Pro data are placed within the laboratory. We can easily access them but we request for ethical details to ascertain you have permission to get this data. note - data is deleted bi-annually if the files have not been edited within a 2 year time-frame. (\~in-development)
+
+# Virtual Reality
+
+If you wish for any virtual reality applications to be implemented for any teaching sessions or perhaps research projects then submit your request within these forms below:
+
+- [PsychXR Terminal - Submission Form](https://forms.cloud.microsoft/pages/responsepage.aspx?id=2Hi6C01P2U2bWu4SGxFu_jQgr_B8j5dJpBeULdagi4RUMkY0REFMVk0xUzMxNFpRNDBKTlhCWEJBVS4u&route=shorturl) - This form is to include any further ideas onto the Wrexham PsychXR Terminal that we are currently developing for virtual reality demonstrations to be used in the K108 PsychLab or in the SILC Building.
+
+- [VR Immersive Applications - Submission Form]() - For more generic ideas of XR applications using other resources in the SILC building then place your ideas here. (\~in-development)
