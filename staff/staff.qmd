@@ -3,6 +3,12 @@ title: "Staff - Main Page"
 format: html
 ---
 
+::: callout-important
+# Website Maintenance
+
+The site will be getting periodically updated during the year of the with additional content and features.
+:::
+
 This page is to make all necessary documents, forms, and submissions available for internal and sessional staff at Wrexham University Psychology Department. If you are a student then please do ignore this page. We also try to collaborate both with other wrexham university departments in terms of research and providing technical resources.
 
 # Research Projects

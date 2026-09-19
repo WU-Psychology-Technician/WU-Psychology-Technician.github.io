@@ -99,7 +99,7 @@ website:
       - text: "Staff"
         menu:
           - text: "Main Staff Page"
-            href: updates/staff.qmd
+            href: staff/staff.qmd
 
       - text: "News"
         menu:

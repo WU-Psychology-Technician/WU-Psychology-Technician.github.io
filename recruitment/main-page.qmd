@@ -5,7 +5,7 @@ format: html
 
 Welcome to the Home Page of our Recruitment Page for the Department of Psychology at Wrexham University.
 
-Potential participants: Use the ["Available Studies](Recruitment/index-2.qmd) button above to see a list of all available studies.
+Potential participants: Use the ["Available Studies](recruitment/available-studies.qmd) under the Recruitment tab above to see a list of all available studies conducted in the department.
 
 
 # International Network
