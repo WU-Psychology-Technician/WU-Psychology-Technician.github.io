@@ -111,7 +111,7 @@ training
 - **Motion Capture for Immersive Performance & Interaction**
   Implementing motion capture systems to study movement, behavior, and
   interaction in both research and applied contexts, bringing realism
-  and precision into immersive simulations. ---
+  and precision into immersive simulations.
 
 ## Booking and Training
 
@@ -122,5 +122,8 @@ training
 - Students are encouraged to discuss project needs early so we can plan
   suitable training and ensure availability of equipment.
 
-For all bookings and enquiries, please contact us at: 📧
+For all bookings and enquiries, please go through the booking system
+[here](https://bookings.cloud.microsoft/book/PsychTechWrexham@MAILGLYNDWRAC.onmicrosoft.com/?ismsaljsauthenabled)
+or if you have any further questions regarding the equipment above then
+please contact us at: 📧
 [**psychology.technician\@wrexham.ac.uk**](mailto:psychology.technician@wrexham.ac.uk)
