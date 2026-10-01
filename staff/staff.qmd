@@ -25,7 +25,7 @@ Therefore, to open our services more for collaborative research then use these f
 
 # PsychTech Page Advertisement 
 
-- [PsychTech Research Advert - Form](): If you wish to advertise your study onto the PsychTech page then please just quickly submit this form as there are some essential bits of info we need for due diligence. (~in-development)
+- [PsychTech Research Advert - Form](): If you wish to advertise your study onto the PsychTech page then please just quickly submit this form as there are some essential bits of info we need for due diligence. (**~in-development**)
 
 # Platform Access
 

@@ -87,9 +87,13 @@ Our Psychology Technicians use advanced virtual reality tools to help students d
 - Centre for the Child
 - Flight Simulator 
 - K Block Rooms 
-- 
 
 ------------------------------------------------------------------------
 
-For further support, guidance, or training recommendations, please contact:\
+# What we do not provide can be found elsewhere!
+
+At the moment on this site we do not provide specific guidance over SPSS or NVIVO, as we outsource those types of guides to our psychology staff which you will find on the Psychology Technician Moodle Page. However, If you wish to get a link to a quick guide on installing SPSS or NVIVO then please do visit this site that the Digital Skills Team has developed for all the guides on installation: click [here](https://wrexham.libguides.com/subjectsoftware).
+
+
+For further support, guidance, or training recommendations, please contact:
 📧 **psychology.technician\@wrexham.ac.uk**
